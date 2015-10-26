@@ -23,8 +23,8 @@ var getRaceID = function(races, row) {
 
   //look up from spreadsheet - easiest way
   for (var i = 0; i < races.length; i++) {
-    if (id == races[i].sosraceid) {
-      return races[i].code || races[i].sosraceid;
+    if (id == races[i].sosRaceID) {
+      return races[i].code || races[i].sosRaceID;
     }
   }
 
@@ -34,7 +34,7 @@ var getRaceID = function(races, row) {
 var getResults = function(config, c) {
   //load results during call, not startup, to let `sheets` run
   var races = getJSON("Races");
-  var raceList = races.filter(function(d) { return !d.uncontested }).map(function(d) { return d.code || d.sosraceid });
+  var raceList = races.filter(function(d) { return !d.uncontested }).map(function(d) { return d.code || d.sosRaceID });
   var cachePath = "./temp/" + config.cache;
   if (project.caching && fs.existsSync(cachePath)) {
     if (fs.statSync(cachePath).mtime > (new Date(Date.now() - 5 * 60 * 1000))) {

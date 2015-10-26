@@ -10,45 +10,17 @@ var hyphenate = function(s) {
 };
 
 var getRaceID = function(title) {
-  //horrible, horrible regex conversion steps to follow
-  if (title.match(/^City of.*Prop/)) {
-    //find the city and proposition number
-    //handle weird Seattle Prop 1A/B first
-    if (title.match(/1A and 1B/)) {
-      if (title.match(/cont/)) {
-        return "seattle-prop-1b";
-      }
-      return "seattle-prop-1a";
-    } else {
-      var matches = title.match(/City of (.*?) Proposition No\. (\w+)/);
-      if (!matches) throw "Couldn't identify race: " + title;
-      return [hyphenate(matches[1]), "prop", matches[2].toLowerCase()].join("-");
-    }
-  } else if (title.match(/^district court/i)) {
-    //district court positions
-    var matches = title.match(/^District Court (\w+).*?Position No\. (\d+)/);
-    if (!matches) throw "Couldn't identify race: " + title;
-    return [matches[1].toLowerCase(), "judge", matches[2]].join("-");
-  } else if (title.match(/^highline/i)) {
-    //one highline school district proposition
-    return "highline-prop-1";
-  } else if (title.match(/king.*prosecuting.*attorney/i)) {
-    //King County prosecutor
-    return "king-prosecutor";
-  } else if (title.match(/monorail|citizen petition/i)) {
-    //Monorail! Monorail! Monorail!
-    return "monorail";
-  } else if (title.match(/^seattle municipal court/i)) {
-    var matches = title.match(/\d+/);
-    if (!matches) throw "Couldn't identify race: " + title;
-    return "seattle-judge-" + matches[0];
-  } else if (title.match(/^seattle transportation/i)) {
-    //Seattle Transportation Benefit (buses)
-    return "seattle-transport-1";
-  } else if (title.match(/si view/i)) {
-    //Si View parks
-    return "si-view-prop-1";
+  //temporary disable
+  var matchMeasure = title.match(/Initiative Measure No. (\d+)/);
+  if (matchMeasure) {
+    return "measure-" + matchMeasure[1];
   }
+  var matchAdvisory = title.match(/Advisory Vote No. (\d+)/);
+  if (matchAdvisory) {
+    return "advisory-" + matchAdvisory[1];
+  }
+
+
   //console.log("[king] Ignoring race:", title.substr(0, 40) + "...");
   return "redundant";
 };
@@ -130,7 +102,7 @@ var parser = {
 
     //start by looking for the first race name
     case "init":
-      if (line.match(/nov.*4, 2014/i)) {
+      if (line.match(/november 3, 2015/i)) {
         var next = this.findNonBlank(this.index + 1);
         var padding = next.match(/^\s+/)[0];
         //we build a custom regex to handle it in case they change their indentation scheme
