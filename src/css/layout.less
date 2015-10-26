@@ -1,0 +1,190 @@
+@import "values";
+
+body {
+  font-family: @sans;
+  padding: 0;
+  margin: 0;
+  font-size: 14px;
+}
+
+a {
+  color: #09334B;
+}
+
+a:hover, a:focus {
+  color: #3461A1;
+}
+
+//equivalent of ng-cloak
+svg-map {
+  display: none;
+  &[ready] {
+    display: block;
+  }
+}
+
+svg {
+  display: block;
+}
+
+nav.bar {
+  background: white;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, .3);
+  position: fixed;
+  width: 100%;
+  left: 0;
+  top: 0;
+  padding: 10px;
+  transform: translateZ(0);
+  height: 44px;
+  z-index: 99999;
+
+  @media @mobile {
+    position: relative;
+  }
+
+  a {
+    border: none;
+  }
+
+  .logo {
+    height: 100%;
+    border: none;
+  }
+
+  h2.section-title {
+    display: block;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    top: 4px;
+    left: 0;
+    margin: 0;
+    padding: 0;
+    font-size: 30px;
+    font-family: @serif;
+    font-weight: normal;
+    z-index: -10;
+
+    @media @mobile {
+      display: none;
+    }
+  }
+
+  .share {
+    position: absolute;
+    right: 5px;
+    bottom: 14px;
+
+    label {
+      background: #ddd;
+    }
+  }
+}
+
+.ad {
+  text-align: center;
+  display: block;
+
+  #adtopright {
+    white-space: nowrap;
+    & > img, & > div, & > a {
+      display: inline-block;
+    }
+    div {
+      float: none !important; //stupid ad code
+    }
+  }
+
+  @media @mobile {
+    display: none;
+  }
+}
+
+
+div.content {
+  max-width: 1024px;
+  margin: 50px auto 0;
+  overflow: auto;
+  padding: 0 16px;
+
+  @media @mobile {
+    margin: 0 auto;
+  }
+}
+
+header.hed {
+
+  .section-fronts {
+    font-size: 18px;
+
+    a {
+      font-weight: bold;
+    }
+  }
+
+  h1 {
+    margin: 10px 0 0;
+    font-family: @hed;
+    font-size: 40px;
+    display: block;
+
+    @media @mobile {
+      font-size: 24px;
+    }
+  }
+
+  .dateline {
+    color: @text-gray;
+  }
+
+}
+
+@ad-size: 300px;
+
+.elections {
+  width: calc(~"100% - " @ad-size + 25px);
+  margin: 0 24px 24px 0;
+  float: left;
+
+  .cutline {
+    font-family: @serif;
+    //font-weight: bold;
+    font-size: 18px;
+    margin-top: 0;
+  }
+
+
+  @media @tablet {
+    width: 100%;
+    float: none;
+  }
+}
+
+.rail {
+  width: @ad-size;
+  float: left;
+
+  #adright {
+    & > a, & > div, & > img {
+      display: block;
+    }
+  }
+
+  @media @tablet {
+    display: none;
+  }
+}
+
+.key {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+}
+
+footer.bottom {
+  clear: both;
+  background: #DDD;
+  padding: 24px;
+}

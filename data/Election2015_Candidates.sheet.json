@@ -1,0 +1,2653 @@
+[
+  {
+    "race": "ballot-1351",
+    "sosID": 110122,
+    "name": "Yes"
+  },
+  {
+    "race": "ballot-1351",
+    "sosID": 110123,
+    "name": "No"
+  },
+  {
+    "race": "ballot-591",
+    "sosID": 109846,
+    "name": "Yes"
+  },
+  {
+    "race": "ballot-591",
+    "sosID": 109847,
+    "name": "No"
+  },
+  {
+    "race": "ballot-594",
+    "sosID": 109834,
+    "name": "Yes"
+  },
+  {
+    "race": "ballot-594",
+    "sosID": 109835,
+    "name": "No"
+  },
+  {
+    "race": "advisory-8",
+    "sosID": 110086,
+    "name": "Repealed"
+  },
+  {
+    "race": "advisory-8",
+    "sosID": 110087,
+    "name": "Maintained"
+  },
+  {
+    "race": "advisory-9",
+    "sosID": 110090,
+    "name": "Repealed"
+  },
+  {
+    "race": "advisory-9",
+    "sosID": 110091,
+    "name": "Maintained"
+  },
+  {
+    "race": "us-rep-1",
+    "sosID": 32337,
+    "name": "Suzan DelBene",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "us-rep-1",
+    "sosID": 35453,
+    "name": "Pedro Celis",
+    "party": "R"
+  },
+  {
+    "race": "us-rep-2",
+    "sosID": 33943,
+    "name": "Rick Larsen",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "us-rep-2",
+    "sosID": 36592,
+    "name": "B.J. Guillot",
+    "party": "R"
+  },
+  {
+    "race": "us-rep-3",
+    "sosID": 33494,
+    "name": "Jaime Herrera Beutler",
+    "party": "R",
+    "incumbent": "*"
+  },
+  {
+    "race": "us-rep-3",
+    "sosID": 33081,
+    "name": "Bob Dingethal",
+    "party": "D"
+  },
+  {
+    "race": "us-rep-4",
+    "sosID": 32769,
+    "name": "Clint Didier",
+    "party": "R"
+  },
+  {
+    "race": "us-rep-4",
+    "sosID": 32497,
+    "name": "Dan Newhouse",
+    "party": "R"
+  },
+  {
+    "race": "us-rep-5",
+    "sosID": 33292,
+    "name": "Cathy McMorris Rodgers",
+    "party": "R",
+    "incumbent": "*"
+  },
+  {
+    "race": "us-rep-5",
+    "sosID": 34162,
+    "name": "Joseph (Joe) Pakootas",
+    "party": "D"
+  },
+  {
+    "race": "us-rep-6",
+    "sosID": 32545,
+    "name": "Derek Kilmer",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "us-rep-6",
+    "sosID": 34985,
+    "name": "Marty McClendon",
+    "party": "R"
+  },
+  {
+    "race": "us-rep-7",
+    "sosID": 34122,
+    "name": "Jim McDermott",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "us-rep-7",
+    "sosID": 36596,
+    "name": "Craig Keller",
+    "party": "R"
+  },
+  {
+    "race": "us-rep-8",
+    "sosID": 34826,
+    "name": "Dave Reichert",
+    "party": "R",
+    "incumbent": "*"
+  },
+  {
+    "race": "us-rep-8",
+    "sosID": 34047,
+    "name": "Jason Ritchie",
+    "party": "D"
+  },
+  {
+    "race": "us-rep-9",
+    "sosID": 32502,
+    "name": "Adam Smith",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "us-rep-9",
+    "sosID": 36401,
+    "name": "Doug Basler",
+    "party": "R"
+  },
+  {
+    "race": "us-rep-10",
+    "sosID": 32801,
+    "name": "Denny Heck",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "us-rep-10",
+    "sosID": 32510,
+    "name": "Joyce McDonald",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-1-1",
+    "sosID": 32644,
+    "name": "Derek Stanford",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-1-1",
+    "sosID": 36733,
+    "name": "Mark Davies",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-1-2",
+    "sosID": 35644,
+    "name": "Luis Moscoso",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-1-2",
+    "sosID": 33696,
+    "name": "Edward J. Barton",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-2-1",
+    "sosID": 32605,
+    "name": "Graham Hunt",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-2-1",
+    "sosID": 36144,
+    "name": "Greg Hartman",
+    "party": "D"
+  },
+  {
+    "race": "state-rep-2-2",
+    "sosID": 34167,
+    "name": "J.T. Wilcox",
+    "party": "R",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-2-2",
+    "sosID": 36280,
+    "name": "Steven Nielson",
+    "party": "L"
+  },
+  {
+    "race": "state-rep-3-1",
+    "sosID": 33036,
+    "name": "Marcus Riccelli",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-3-1",
+    "sosID": 35594,
+    "name": "Tim Benn",
+    "party": "I"
+  },
+  {
+    "race": "state-rep-3-2",
+    "sosID": 34143,
+    "name": "Timm Ormsby",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-3-2",
+    "sosID": 35326,
+    "name": "Paul Delaney",
+    "party": "L"
+  },
+  {
+    "race": "state-rep-4-1",
+    "sosID": 34061,
+    "name": "Bob McCaslin",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-4-1",
+    "sosID": 36525,
+    "name": "Diana Wilhite",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-4-2",
+    "sosID": 36136,
+    "name": "Matt Shea",
+    "party": "R",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-4-2",
+    "sosID": 36241,
+    "name": "Josh Arritola",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-5-1",
+    "sosID": 34335,
+    "name": "Jay Rodne",
+    "party": "R",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-5-1",
+    "sosID": 35427,
+    "name": "Essie Hicks",
+    "party": "D"
+  },
+  {
+    "race": "state-rep-5-2",
+    "sosID": 33947,
+    "name": "Chad Magendanz",
+    "party": "R",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-5-2",
+    "sosID": 35425,
+    "name": "David Spring",
+    "party": "D"
+  },
+  {
+    "race": "state-sen-6",
+    "sosID": 33109,
+    "name": "Michael Baumgartner",
+    "party": "R",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-sen-6",
+    "sosID": 34907,
+    "name": "Rich Cowan",
+    "party": "D"
+  },
+  {
+    "race": "state-rep-6-1",
+    "sosID": 36029,
+    "name": "Kevin Parker",
+    "party": "R",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-6-1",
+    "sosID": 36374,
+    "name": "Donald Dover",
+    "party": "D"
+  },
+  {
+    "race": "state-rep-6-2",
+    "sosID": 33107,
+    "name": "Jeff Holy",
+    "party": "R",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-6-2",
+    "sosID": 36728,
+    "name": "Ziggy Siegfried",
+    "party": "D"
+  },
+  {
+    "race": "state-sen-7",
+    "sosID": 34045,
+    "name": "Brian Dansel",
+    "party": "R",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-sen-7",
+    "sosID": 32826,
+    "name": "Tony Booth",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-7-1",
+    "sosID": 33401,
+    "name": "Shelly Short",
+    "party": "R",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-7-1",
+    "sosID": 34752,
+    "name": "James R. Apker",
+    "party": "L"
+  },
+  {
+    "race": "state-rep-7-2",
+    "sosID": 35348,
+    "name": "Joel Kretz",
+    "party": "R",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-7-2",
+    "sosID": 36192,
+    "name": "Ronnie Rae",
+    "party": "Centralist"
+  },
+  {
+    "race": "state-sen-8",
+    "sosID": 32646,
+    "name": "Sharon Brown",
+    "party": "R",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-sen-8",
+    "sosID": 36083,
+    "name": "Doug McKinley",
+    "party": "D"
+  },
+  {
+    "race": "state-rep-8-1",
+    "sosID": 34323,
+    "name": "Brad Klippert",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-8-2",
+    "sosID": 32788,
+    "name": "Larry Haler",
+    "party": "R",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-8-2",
+    "sosID": 35751,
+    "name": "Eric Kalia",
+    "party": "D"
+  },
+  {
+    "race": "state-rep-9-1",
+    "sosID": 33536,
+    "name": "Susan Fagan",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-9-2",
+    "sosID": 32592,
+    "name": "Joe Schmick",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-10-1",
+    "sosID": 33964,
+    "name": "Norma Smith",
+    "party": "R",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-10-1",
+    "sosID": 36271,
+    "name": "Michael Scott",
+    "party": "L"
+  },
+  {
+    "race": "state-rep-10-2",
+    "sosID": 33746,
+    "name": "Dave Hayes",
+    "party": "R",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-10-2",
+    "sosID": 35442,
+    "name": "Nick Petrish",
+    "party": "D"
+  },
+  {
+    "race": "state-rep-11-1",
+    "sosID": 34328,
+    "name": "Zack Hudgins",
+    "party": "D"
+  },
+  {
+    "race": "state-rep-11-2",
+    "sosID": 34107,
+    "name": "Steve Bergquist",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-11-2",
+    "sosID": 36689,
+    "name": "Sarah Sanoy-Wright",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-12-1",
+    "sosID": 34646,
+    "name": "Cary Condotta",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-12-2",
+    "sosID": 32667,
+    "name": "Brad Hawkins",
+    "party": "R"
+  },
+  {
+    "race": "state-sen-13",
+    "sosID": 33776,
+    "name": "Judith (Judy) Warnick",
+    "party": "R"
+  },
+  {
+    "race": "state-sen-13",
+    "sosID": 36212,
+    "name": "Mohammad Said",
+    "party": "D"
+  },
+  {
+    "race": "state-rep-13-1",
+    "sosID": 33368,
+    "name": "Tom Dent",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-13-1",
+    "sosID": 32519,
+    "name": "Dannette (Dani) Bolyard",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-13-2",
+    "sosID": 33274,
+    "name": "Matt Manweller",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-14-1",
+    "sosID": 32514,
+    "name": "Norm Johnson",
+    "party": "R",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-14-1",
+    "sosID": 36746,
+    "name": "Michael S. Brumback",
+    "party": "NA"
+  },
+  {
+    "race": "state-rep-14-2",
+    "sosID": 33218,
+    "name": "Gina R. McCabe",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-14-2",
+    "sosID": 34681,
+    "name": "Paul George",
+    "party": "D"
+  },
+  {
+    "race": "state-sen-15",
+    "sosID": 35505,
+    "name": "Jim Honeyford",
+    "party": "R",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-sen-15",
+    "sosID": 36245,
+    "name": "Gabriel Munoz",
+    "party": "D"
+  },
+  {
+    "race": "state-rep-15-1",
+    "sosID": 34794,
+    "name": "Bruce Chandler",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-15-2",
+    "sosID": 33478,
+    "name": "David V. Taylor",
+    "party": "R",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-15-2",
+    "sosID": 36255,
+    "name": "Teodora Martinez-Chavez",
+    "party": "D"
+  },
+  {
+    "race": "state-rep-16-1",
+    "sosID": 34853,
+    "name": "Maureen S. Walsh",
+    "party": "R",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-16-1",
+    "sosID": 33654,
+    "name": "Mary Ruth Edwards",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-16-2",
+    "sosID": 34506,
+    "name": "Terry R. Nealey",
+    "party": "R",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-16-2",
+    "sosID": 36732,
+    "name": "Frank Blair",
+    "party": "D"
+  },
+  {
+    "race": "state-rep-17-1",
+    "sosID": 32400,
+    "name": "Lynda Wilson",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-17-1",
+    "sosID": 35217,
+    "name": "Monica Stonier",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-17-2",
+    "sosID": 32850,
+    "name": "Paul Harris",
+    "party": "R",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-17-2",
+    "sosID": 34865,
+    "name": "Richard McCluskey",
+    "party": "D"
+  },
+  {
+    "race": "state-rep-18-1",
+    "sosID": 33193,
+    "name": "Mike Briggs",
+    "party": "D"
+  },
+  {
+    "race": "state-rep-18-1",
+    "sosID": 33433,
+    "name": "Brandon Vick",
+    "party": "R",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-18-2",
+    "sosID": 33951,
+    "name": "Liz Pike",
+    "party": "R",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-18-2",
+    "sosID": 32955,
+    "name": "Maureen Winningham",
+    "party": "D"
+  },
+  {
+    "race": "state-rep-19-1",
+    "sosID": 32387,
+    "name": "Dean Takko",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-19-1",
+    "sosID": 33745,
+    "name": "David A. Steenson",
+    "party": "L"
+  },
+  {
+    "race": "state-rep-19-2",
+    "sosID": 33942,
+    "name": "Brian Blake",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-19-2",
+    "sosID": 32399,
+    "name": "Hugh Fleet",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-20-1",
+    "sosID": 33513,
+    "name": "Richard DeBolt",
+    "party": "R",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-20-1",
+    "sosID": 36597,
+    "name": "Michael Savoca",
+    "party": "NA"
+  },
+  {
+    "race": "state-rep-20-2",
+    "sosID": 32665,
+    "name": "Ed Orcutt",
+    "party": "R",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-20-2",
+    "sosID": 34850,
+    "name": "John Morgan",
+    "party": "R"
+  },
+  {
+    "race": "state-sen-21",
+    "sosID": 35535,
+    "name": "Marko Liias",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-sen-21",
+    "sosID": 35943,
+    "name": "Dan Matthews",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-21-1",
+    "sosID": 36539,
+    "name": "Allen McPheeters",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-21-1",
+    "sosID": 34232,
+    "name": "Strom Peterson",
+    "party": "D"
+  },
+  {
+    "race": "state-rep-21-2",
+    "sosID": 34859,
+    "name": "Lillian Ortiz-Self",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-21-2",
+    "sosID": 36082,
+    "name": "Jeff Scherrer",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-22-1",
+    "sosID": 34376,
+    "name": "Chris Reykdal",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-22-1",
+    "sosID": 32625,
+    "name": "Steve Owens",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-22-2",
+    "sosID": 32997,
+    "name": "Sam Hunt",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-22-2",
+    "sosID": 35049,
+    "name": "Franklin Edwards",
+    "party": "NA"
+  },
+  {
+    "race": "state-rep-23-1",
+    "sosID": 32962,
+    "name": "Sherry V. Appleton",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-23-1",
+    "sosID": 34789,
+    "name": "Scott Henden",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-23-2",
+    "sosID": 33378,
+    "name": "Drew Hansen",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-23-2",
+    "sosID": 36064,
+    "name": "James M. Olsen",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-24-1",
+    "sosID": 33944,
+    "name": "Kevin Van De Wege",
+    "party": "D"
+  },
+  {
+    "race": "state-rep-24-2",
+    "sosID": 33973,
+    "name": "Steve Tharinger",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-24-2",
+    "sosID": 34728,
+    "name": "Thomas W. Greisamer",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-25-1",
+    "sosID": 34213,
+    "name": "Dawn Morrell",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-25-1",
+    "sosID": 35006,
+    "name": "Melanie Stambaugh",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-25-2",
+    "sosID": 33377,
+    "name": "Hans Zeiger",
+    "party": "R",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-25-2",
+    "sosID": 36613,
+    "name": "Eric Renz",
+    "party": "D"
+  },
+  {
+    "race": "state-sen-26",
+    "sosID": 32939,
+    "name": "Jan Angel",
+    "party": "R",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-sen-26",
+    "sosID": 32507,
+    "name": "Judy Arbogast",
+    "party": "D"
+  },
+  {
+    "race": "state-rep-26-1",
+    "sosID": 34300,
+    "name": "Nathan Schlicher",
+    "party": "D"
+  },
+  {
+    "race": "state-rep-26-1",
+    "sosID": 33559,
+    "name": "Jesse Young",
+    "party": "R",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-26-2",
+    "sosID": 33259,
+    "name": "Larry Seaquist",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-26-2",
+    "sosID": 33248,
+    "name": "Michelle Caldier",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-27-1",
+    "sosID": 33910,
+    "name": "Laurie Jinkins",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-27-1",
+    "sosID": 36174,
+    "name": "Rodger Deskins",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-27-2",
+    "sosID": 34058,
+    "name": "Jake Fey",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-27-2",
+    "sosID": 34851,
+    "name": "Steven T. Cook",
+    "party": "R"
+  },
+  {
+    "race": "state-sen-28",
+    "sosID": 33826,
+    "name": "Steve O'Ban",
+    "party": "R",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-sen-28",
+    "sosID": 34009,
+    "name": "Tami Green",
+    "party": "D"
+  },
+  {
+    "race": "state-rep-28-1",
+    "sosID": 33237,
+    "name": "Richard (Dick) Muri",
+    "party": "R",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-28-1",
+    "sosID": 34417,
+    "name": "Mary Moss",
+    "party": "D"
+  },
+  {
+    "race": "state-rep-28-2",
+    "sosID": 33561,
+    "name": "Christine Kilduff",
+    "party": "D"
+  },
+  {
+    "race": "state-rep-28-2",
+    "sosID": 32513,
+    "name": "Paul Wagemann",
+    "party": "R"
+  },
+  {
+    "race": "state-sen-29",
+    "sosID": 32693,
+    "name": "Steve Conway",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-sen-29",
+    "sosID": 33609,
+    "name": "Terry Harder",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-29-1",
+    "sosID": 32761,
+    "name": "David Sawyer",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-29-1",
+    "sosID": 33454,
+    "name": "Jason Bergstrom",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-29-2",
+    "sosID": 32820,
+    "name": "Steve Kirby",
+    "party": "D"
+  },
+  {
+    "race": "state-sen-30",
+    "sosID": 33366,
+    "name": "Mark Miloscia",
+    "party": "R"
+  },
+  {
+    "race": "state-sen-30",
+    "sosID": 33985,
+    "name": "Shari Song",
+    "party": "D"
+  },
+  {
+    "race": "state-rep-30-1",
+    "sosID": 32734,
+    "name": "Linda Kochmar",
+    "party": "R",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-30-1",
+    "sosID": 33501,
+    "name": "Greg Baruso",
+    "party": "D"
+  },
+  {
+    "race": "state-rep-30-2",
+    "sosID": 35197,
+    "name": "Roger Freeman",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-30-2",
+    "sosID": 33974,
+    "name": "Jack Dovey",
+    "party": "R"
+  },
+  {
+    "race": "state-sen-31",
+    "sosID": 35611,
+    "name": "Pam Roach",
+    "party": "R",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-sen-31",
+    "sosID": 32570,
+    "name": "Cathy Dahlquist",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-31-1",
+    "sosID": 32509,
+    "name": "Drew Stokesbary",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-31-1",
+    "sosID": 33905,
+    "name": "Mike Sando",
+    "party": "D"
+  },
+  {
+    "race": "state-rep-31-2",
+    "sosID": 33351,
+    "name": "Christopher Hurst",
+    "party": "I",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-31-2",
+    "sosID": 35022,
+    "name": "Phil Fortunato",
+    "party": "I"
+  },
+  {
+    "race": "state-sen-32",
+    "sosID": 33590,
+    "name": "Maralyn Chase",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-sen-32",
+    "sosID": 36040,
+    "name": "Robert Reedy",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-32-1",
+    "sosID": 32713,
+    "name": "Cindy Ryu",
+    "party": "D"
+  },
+  {
+    "race": "state-rep-32-2",
+    "sosID": 33957,
+    "name": "Ruth Kagi",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-32-2",
+    "sosID": 35664,
+    "name": "Alvin A. Rutledge",
+    "party": "R"
+  },
+  {
+    "race": "state-sen-33",
+    "sosID": 33624,
+    "name": "Karen Keiser",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-sen-33",
+    "sosID": 34102,
+    "name": "Martin Metz",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-33-1",
+    "sosID": 34136,
+    "name": "Tina Orwall",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-33-1",
+    "sosID": 36697,
+    "name": "Michael J. Siefkes",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-33-2",
+    "sosID": 34429,
+    "name": "Mia Su-Ling Gregerson",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-33-2",
+    "sosID": 33578,
+    "name": "Jeanette Burrage",
+    "party": "R"
+  },
+  {
+    "race": "state-sen-34",
+    "sosID": 34091,
+    "name": "Sharon K. Nelson",
+    "party": "D"
+  },
+  {
+    "race": "state-rep-34-1",
+    "sosID": 34348,
+    "name": "Eileen L. Cody",
+    "party": "D"
+  },
+  {
+    "race": "state-rep-34-2",
+    "sosID": 33576,
+    "name": "Joe Fitzgibbon",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-34-2",
+    "sosID": 34345,
+    "name": "Brendan B. Kolding",
+    "party": "D"
+  },
+  {
+    "race": "state-sen-35",
+    "sosID": 32496,
+    "name": "Irene Bowling",
+    "party": "D"
+  },
+  {
+    "race": "state-sen-35",
+    "sosID": 34267,
+    "name": "Tim Sheldon",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-35-1",
+    "sosID": 33134,
+    "name": "Kathy Haigh",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-35-1",
+    "sosID": 33499,
+    "name": "Dan Griffey",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-35-2",
+    "sosID": 33215,
+    "name": "Drew C. MacEwen",
+    "party": "R",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-35-2",
+    "sosID": 33704,
+    "name": "Tammey Newton",
+    "party": "D"
+  },
+  {
+    "race": "state-sen-36",
+    "sosID": 34821,
+    "name": "Jeanne Kohl-Welles",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-sen-36",
+    "sosID": 36690,
+    "name": "Sarina Forbes",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-36-1",
+    "sosID": 34114,
+    "name": "Reuven Carlyle",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-36-1",
+    "sosID": 34098,
+    "name": "Leslie Klein",
+    "party": "I"
+  },
+  {
+    "race": "state-rep-36-2",
+    "sosID": 34327,
+    "name": "Gael Tarleton",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-36-2",
+    "sosID": 34108,
+    "name": "Paul Addis",
+    "party": "L"
+  },
+  {
+    "race": "state-sen-37",
+    "sosID": 34831,
+    "name": "Pramila Jayapal",
+    "party": "D"
+  },
+  {
+    "race": "state-sen-37",
+    "sosID": 36454,
+    "name": "Louis Watanabe",
+    "party": "D"
+  },
+  {
+    "race": "state-rep-37-1",
+    "sosID": 34104,
+    "name": "Sharon Tomiko Santos",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-37-1",
+    "sosID": 36445,
+    "name": "Daniel Bretzke",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-37-2",
+    "sosID": 34000,
+    "name": "Eric Pettigrew",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-37-2",
+    "sosID": 36692,
+    "name": "Tamra Smilanich",
+    "party": "Non-partisan"
+  },
+  {
+    "race": "state-sen-38",
+    "sosID": 32865,
+    "name": "John McCoy",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-sen-38",
+    "sosID": 36679,
+    "name": "Craig French",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-38-1",
+    "sosID": 33845,
+    "name": "June Robinson",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-38-1",
+    "sosID": 36656,
+    "name": "Jesse Anderson",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-38-2",
+    "sosID": 32767,
+    "name": "Mike Sells",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-38-2",
+    "sosID": 35980,
+    "name": "Elijah Olson",
+    "party": "L"
+  },
+  {
+    "race": "state-rep-39-1",
+    "sosID": 33234,
+    "name": "Dan Kristiansen",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-39-2",
+    "sosID": 34922,
+    "name": "Elizabeth Scott",
+    "party": "R",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-39-2",
+    "sosID": 34076,
+    "name": "Charles Jensen",
+    "party": "D"
+  },
+  {
+    "race": "state-rep-40-1",
+    "sosID": 32506,
+    "name": "Kristine Lytton",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-40-1",
+    "sosID": 34786,
+    "name": "Daniel R. Miller",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-40-2",
+    "sosID": 32581,
+    "name": "Jeff Morris",
+    "party": "D"
+  },
+  {
+    "race": "state-rep-41-1",
+    "sosID": 34341,
+    "name": "Tana Senn",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-41-1",
+    "sosID": 36469,
+    "name": "Bill Stinson",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-41-2",
+    "sosID": 33594,
+    "name": "Judy Clibborn",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-41-2",
+    "sosID": 34813,
+    "name": "Alex O'Neil",
+    "party": "NA"
+  },
+  {
+    "race": "state-sen-42",
+    "sosID": 32427,
+    "name": "Doug Ericksen",
+    "party": "R",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-sen-42",
+    "sosID": 35658,
+    "name": "Seth Fleetwood",
+    "party": "D"
+  },
+  {
+    "race": "state-rep-42-1",
+    "sosID": 36182,
+    "name": "Satpal Sidhu",
+    "party": "D"
+  },
+  {
+    "race": "state-rep-42-1",
+    "sosID": 34771,
+    "name": "Luanne VanWerven",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-42-2",
+    "sosID": 32843,
+    "name": "Vincent Buys",
+    "party": "R",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-42-2",
+    "sosID": 36343,
+    "name": "Joy Monjure",
+    "party": "D"
+  },
+  {
+    "race": "state-sen-43",
+    "sosID": 34023,
+    "name": "Jamie Pedersen",
+    "party": "D"
+  },
+  {
+    "race": "state-rep-43-1",
+    "sosID": 34343,
+    "name": "Brady Walkinshaw",
+    "party": "D"
+  },
+  {
+    "race": "state-rep-43-2",
+    "sosID": 34416,
+    "name": "Frank Chopp",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-43-2",
+    "sosID": 36710,
+    "name": "Jessica Spear",
+    "party": "Socialist"
+  },
+  {
+    "race": "state-sen-44",
+    "sosID": 32656,
+    "name": "Steve Hobbs",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-sen-44",
+    "sosID": 34291,
+    "name": "Jim Kellett",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-44-1",
+    "sosID": 35441,
+    "name": "Hans Dunshee",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-44-1",
+    "sosID": 36389,
+    "name": "Rob Toyer",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-44-2",
+    "sosID": 32549,
+    "name": "Mark Harmsworth",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-44-2",
+    "sosID": 34938,
+    "name": "Mike Wilson",
+    "party": "D"
+  },
+  {
+    "race": "state-sen-45",
+    "sosID": 33571,
+    "name": "Andy Hill",
+    "party": "R",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-sen-45",
+    "sosID": 34105,
+    "name": "Matt Isenhower",
+    "party": "D"
+  },
+  {
+    "race": "state-rep-45-1",
+    "sosID": 36054,
+    "name": "Roger Goodman",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-45-1",
+    "sosID": 34342,
+    "name": "Joel Hussey",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-45-2",
+    "sosID": 34092,
+    "name": "Larry Springer",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-45-2",
+    "sosID": 36691,
+    "name": "Brendan Woodward",
+    "party": "R"
+  },
+  {
+    "race": "state-sen-46",
+    "sosID": 33588,
+    "name": "David Frockt",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-sen-46",
+    "sosID": 36695,
+    "name": "Van Sperry",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-46-1",
+    "sosID": 34020,
+    "name": "Gerry Pollet",
+    "party": "D"
+  },
+  {
+    "race": "state-rep-46-2",
+    "sosID": 34340,
+    "name": "Jessyn Farrell",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-46-2",
+    "sosID": 36688,
+    "name": "Branden Curtis",
+    "party": "R"
+  },
+  {
+    "race": "state-sen-47",
+    "sosID": 33589,
+    "name": "Joe Fain",
+    "party": "R",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-sen-47",
+    "sosID": 36424,
+    "name": "Carol Barber",
+    "party": "D"
+  },
+  {
+    "race": "state-rep-47-1",
+    "sosID": 34346,
+    "name": "Mark Hargrove",
+    "party": "R",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-47-1",
+    "sosID": 33960,
+    "name": "Chris Barringer",
+    "party": "D"
+  },
+  {
+    "race": "state-rep-47-2",
+    "sosID": 34336,
+    "name": "Pat Sullivan",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-47-2",
+    "sosID": 33463,
+    "name": "Barry Knowles",
+    "party": "R"
+  },
+  {
+    "race": "state-sen-48",
+    "sosID": 34407,
+    "name": "Cyrus Habib",
+    "party": "D"
+  },
+  {
+    "race": "state-sen-48",
+    "sosID": 36700,
+    "name": "Michelle Darnell",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-48-1",
+    "sosID": 34082,
+    "name": "Ross Hunter",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-48-1",
+    "sosID": 34829,
+    "name": "Bill Hirt",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-48-2",
+    "sosID": 34079,
+    "name": "Joan McBride",
+    "party": "D"
+  },
+  {
+    "race": "state-rep-48-2",
+    "sosID": 35582,
+    "name": "Tim Turner",
+    "party": "L"
+  },
+  {
+    "race": "state-rep-49-1",
+    "sosID": 33546,
+    "name": "Sharon Wylie",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-49-1",
+    "sosID": 33586,
+    "name": "Anson Service",
+    "party": "R"
+  },
+  {
+    "race": "state-rep-49-2",
+    "sosID": 35628,
+    "name": "Jim Moeller",
+    "party": "D",
+    "incumbent": "*"
+  },
+  {
+    "race": "state-rep-49-2",
+    "sosID": 35455,
+    "name": "Lisa Ross",
+    "party": "R"
+  },
+  {
+    "race": "supreme-1",
+    "sosID": 33442,
+    "name": "Mary Yu"
+  },
+  {
+    "race": "supreme-3",
+    "sosID": 32299,
+    "name": "Mary E. Fairhurst"
+  },
+  {
+    "race": "supreme-4",
+    "sosID": 32286,
+    "name": "Eddie Yoon"
+  },
+  {
+    "race": "supreme-4",
+    "sosID": 32306,
+    "name": "Charles W. Johnson",
+    "incumbent": "*"
+  },
+  {
+    "race": "supreme-7",
+    "sosID": 32292,
+    "name": "Debra L. Stephens",
+    "incumbent": "*"
+  },
+  {
+    "race": "supreme-7",
+    "sosID": 35639,
+    "name": "John (Zamboni) Scannell"
+  },
+  {
+    "race": "appeals-1-1-1",
+    "sosID": 33507,
+    "name": "Michael J. Trickey"
+  },
+  {
+    "race": "appeals-1-1-5",
+    "sosID": 33600,
+    "name": "Linda Lau"
+  },
+  {
+    "race": "appeals-1-1-6",
+    "sosID": 33595,
+    "name": "Ann Schindler"
+  },
+  {
+    "race": "appeals-1-2-2",
+    "sosID": 32528,
+    "name": "J. Robert Leach"
+  },
+  {
+    "race": "appeals-2-1-1",
+    "sosID": 32534,
+    "name": "Brad Maxa"
+  },
+  {
+    "race": "appeals-2-1-2",
+    "sosID": 32441,
+    "name": "Lisa Worswick"
+  },
+  {
+    "race": "appeals-2-1-3",
+    "sosID": 32343,
+    "name": "Linda Lee"
+  },
+  {
+    "race": "appeals-2-2-1",
+    "sosID": 32682,
+    "name": "Lisa L. Sutton"
+  },
+  {
+    "race": "appeals-2-3-1",
+    "sosID": 32472,
+    "name": "Rich Melnick"
+  },
+  {
+    "race": "appeals-3-1-2",
+    "sosID": 32317,
+    "name": "Kevin M. Korsmo"
+  },
+  {
+    "race": "appeals-3-3-1",
+    "sosID": 34084,
+    "name": "Stephen M. Brown"
+  },
+  {
+    "race": "appeals-3-3-2",
+    "sosID": 32766,
+    "name": "Rob Lawrence-Berrey"
+  },
+  {
+    "race": "adams-court-1",
+    "sosID": 32487,
+    "name": "Steve B. Dixon"
+  },
+  {
+    "race": "asotin-court-1",
+    "sosID": 33975,
+    "name": "Scott D. Gallina"
+  },
+  {
+    "race": "clallam-court-3",
+    "sosID": 32481,
+    "name": "Christopher Melly"
+  },
+  {
+    "race": "clark-court-5",
+    "sosID": 33164,
+    "name": "Bernard F. Veljacic",
+    "incumbent": "*"
+  },
+  {
+    "race": "clark-court-5",
+    "sosID": 33297,
+    "name": "Robert Vukanovich"
+  },
+  {
+    "race": "bothell-prop-1",
+    "sosID": 110402,
+    "name": "Approved",
+    "description": "City of Bothell Prop 1"
+  },
+  {
+    "race": "bothell-prop-1",
+    "sosID": 110403,
+    "name": "Rejected",
+    "description": "City of Bothell Prop 1"
+  },
+  {
+    "sosID": 33224,
+    "name": "Richard Anderson",
+    "incumbent": "*",
+    "description": "City of Everett Council Position**7"
+  },
+  {
+    "sosID": 33632,
+    "name": "Judy Tuohy",
+    "description": "City of Everett Council Position**7"
+  },
+  {
+    "sosID": 35033,
+    "name": "Carolyn Eslick",
+    "party": "R",
+    "description": "Snohomish County Executive"
+  },
+  {
+    "sosID": 35379,
+    "name": "John Lovick",
+    "party": "D",
+    "incumbent": "*",
+    "description": "Snohomish County Executive"
+  },
+  {
+    "sosID": 32503,
+    "name": "Mark K. Roe",
+    "party": "D",
+    "description": "Snohomish County Prosecuting Attorney"
+  },
+  {
+    "sosID": 32540,
+    "name": "Ty Trenary",
+    "incumbent": "*",
+    "description": "Snohomish County Sheriff"
+  },
+  {
+    "sosID": 33486,
+    "name": "Jim Upton",
+    "description": "Snohomish County Sheriff"
+  },
+  {
+    "sosID": 32884,
+    "name": "Dave Aldrich",
+    "incumbent": "*",
+    "description": "Public Utilities District No 1 Commissioner District 1"
+  },
+  {
+    "sosID": 34597,
+    "name": "Bruce King",
+    "description": "Public Utilities District No 1 Commissioner District 1"
+  },
+  {
+    "sosID": 33178,
+    "name": "Kristen Olbrechts",
+    "description": "Cascade District Court Judge Position 1"
+  },
+  {
+    "sosID": 33315,
+    "name": "Steve Clough",
+    "description": "Evergreen District Court Judge Position 1"
+  },
+  {
+    "sosID": 33032,
+    "name": "Patricia Lyon",
+    "description": "Evergreen District Court Judge Position 2"
+  },
+  {
+    "sosID": 32961,
+    "name": "Anthony E. Howard",
+    "description": "Everett District Court Judge Position 1"
+  },
+  {
+    "sosID": 33291,
+    "name": "Remy Stephanson Leonard",
+    "description": "Everett District Court Judge Position 1"
+  },
+  {
+    "sosID": 33450,
+    "name": "Tam T. Bui",
+    "description": "Everett District Court Judge Position 2"
+  },
+  {
+    "sosID": 32448,
+    "name": "Beth A. Fraser",
+    "description": "South District Court Judge Position 1"
+  },
+  {
+    "sosID": 32403,
+    "name": "Brett Nagle",
+    "description": "South District Court Judge Position 2"
+  },
+  {
+    "sosID": 32413,
+    "name": "Jeffrey D. Goodwin",
+    "incumbent": "*",
+    "description": "South District Court Judge Position 2"
+  },
+  {
+    "sosID": 32584,
+    "name": "Douglas J. Fair",
+    "description": "South District Court Judge Position 3"
+  },
+  {
+    "sosID": 33179,
+    "name": "Julie Anderson",
+    "description": "Pierce County Auditor"
+  },
+  {
+    "sosID": 33844,
+    "name": "Mark Lindquist",
+    "party": "D",
+    "description": "Pierce County Prosecuting Attorney"
+  },
+  {
+    "sosID": 33606,
+    "name": "Janet Garrow",
+    "incumbent": "*",
+    "description": "Northeast Electoral District Judge Position 1"
+  },
+  {
+    "sosID": 36277,
+    "name": "Dawn M. Bettinger",
+    "description": "Northeast Electoral District Judge Position 1"
+  },
+  {
+    "sosID": 33469,
+    "name": "Ketu Shah",
+    "incumbent": "*",
+    "description": "Northeast Electoral District Judge Position 2"
+  },
+  {
+    "sosID": 33607,
+    "name": "Sarah Hayne",
+    "description": "Northeast Electoral District Judge Position 2"
+  },
+  {
+    "sosID": 33447,
+    "name": "Lisa O'Toole",
+    "description": "Northeast Electoral District Judge Position 3"
+  },
+  {
+    "sosID": 34203,
+    "name": "Marcus Naylor",
+    "description": "Northeast Electoral District Judge Position 3"
+  },
+  {
+    "sosID": 33459,
+    "name": "Peter L. Nault",
+    "description": "Northeast Electoral District Judge Position 4"
+  },
+  {
+    "sosID": 33835,
+    "name": "Dan Roach",
+    "party": "R",
+    "description": "Pierce County Council District No. 1"
+  },
+  {
+    "sosID": 32663,
+    "name": "Rick Talbert ",
+    "party": "D",
+    "description": "Pierce County Council District No. 5"
+  },
+  {
+    "sosID": 32737,
+    "name": "Derek M. Young",
+    "party": "D",
+    "description": "Pierce County Council District No. 7"
+  },
+  {
+    "sosID": 36024,
+    "name": "Stan Flemming",
+    "party": "R",
+    "incumbent": "*",
+    "description": "Pierce County Council District No. 7"
+  },
+  {
+    "sosID": 33462,
+    "name": "Kevin McCann",
+    "description": "Pierce County District Court, Position No. 1"
+  },
+  {
+    "sosID": 32340,
+    "name": "Claire R. Sussman",
+    "description": "Pierce County District Court, Position No. 2"
+  },
+  {
+    "sosID": 32591,
+    "name": "Frank Dacca",
+    "description": "Pierce County District Court, Position No. 3"
+  },
+  {
+    "sosID": 32323,
+    "name": "James Heller",
+    "description": "Pierce County District Court, Position No. 4"
+  },
+  {
+    "sosID": 32330,
+    "name": "Judy Jasprica",
+    "description": "Pierce County District Court, Position No. 5"
+  },
+  {
+    "sosID": 32354,
+    "name": "Maggie Ross",
+    "description": "Pierce County District Court, Position No. 6"
+  },
+  {
+    "sosID": 32355,
+    "name": "Karla Buttorff",
+    "description": "Pierce County District Court, Position No. 7"
+  },
+  {
+    "sosID": 32414,
+    "name": "Karl L. Williams",
+    "description": "Pierce County District Court, Position No. 8"
+  },
+  {
+    "sosID": 32518,
+    "name": "Jeanette A. Lineberry",
+    "description": "Pierce County District Court, Position No. 8"
+  },
+  {
+    "sosID": 32382,
+    "name": "David B. Ladenburg",
+    "description": "Tacoma Municipal Court, Position No. 1"
+  },
+  {
+    "sosID": 32522,
+    "name": "Rob Freeby",
+    "description": "Tacoma Municipal Court, Position No. 2"
+  },
+  {
+    "sosID": 33120,
+    "name": "Drew Ann Henke",
+    "description": "Tacoma Municipal Court, Position No. 2"
+  },
+  {
+    "sosID": 33094,
+    "name": "Elizabeth E. (Betsy) Verhey",
+    "description": "Tacoma Municipal Court, Position No. 3"
+  },
+  {
+    "sosID": 33455,
+    "name": "David A. Steiner",
+    "description": "Northeast Electoral District Judge Position 5"
+  },
+  {
+    "sosID": 33610,
+    "name": "Michael Finkle",
+    "description": "Northeast Electoral District Judge Position 6"
+  },
+  {
+    "sosID": 33603,
+    "name": "Donna Tucker",
+    "description": "Northeast Electoral District Judge Position 7"
+  },
+  {
+    "sosID": 32379,
+    "name": "Linda Streissguth",
+    "party": "D",
+    "incumbent": "*",
+    "description": "Kitsap County Commissioner District 3"
+  },
+  {
+    "sosID": 34230,
+    "name": "Edward E. Wolfe",
+    "party": "R",
+    "description": "Kitsap County Commissioner District 3"
+  },
+  {
+    "sosID": 32305,
+    "name": "Paul Andrews",
+    "party": "D",
+    "description": "Kitsap County Assessor"
+  },
+  {
+    "sosID": 35313,
+    "name": "Phil Cook",
+    "party": "R",
+    "description": "Kitsap County Assessor"
+  },
+  {
+    "sosID": 32309,
+    "name": "Dolores Gilmore",
+    "party": "D",
+    "description": "Kitsap County Auditor"
+  },
+  {
+    "sosID": 35083,
+    "name": "Kelly Emerson",
+    "party": "R",
+    "description": "Kitsap County Auditor"
+  },
+  {
+    "sosID": 32312,
+    "name": "Dave Peterson",
+    "party": "D",
+    "incumbent": "*",
+    "description": "Kitsap County Clerk"
+  },
+  {
+    "sosID": 35473,
+    "name": "Gerald (Gary) Chaney",
+    "party": "R",
+    "description": "Kitsap County Clerk"
+  },
+  {
+    "sosID": 32324,
+    "name": "Greg Sandstrom",
+    "party": "R",
+    "incumbent": "*",
+    "description": "Kitsap County Coroner"
+  },
+  {
+    "sosID": 35523,
+    "name": "Jeff Wallis",
+    "party": "NA",
+    "description": "Kitsap County Coroner"
+  },
+  {
+    "sosID": 32412,
+    "name": "Russ Hauge",
+    "party": "D",
+    "incumbent": "*",
+    "description": "Kitsap County Prosecuting Attorney"
+  },
+  {
+    "sosID": 34042,
+    "name": "Tina Robinson",
+    "party": "R",
+    "description": "Kitsap County Prosecuting Attorney"
+  },
+  {
+    "sosID": 32398,
+    "name": "Gary L. Simpson",
+    "party": "D",
+    "description": "Kitsap County Sheriff"
+  },
+  {
+    "sosID": 33258,
+    "name": "Meredith R. Green",
+    "party": "D",
+    "description": "Kitsap County Treasurer"
+  },
+  {
+    "sosID": 32316,
+    "name": "Claire Bradley",
+    "description": "District Court Judge Department 1"
+  },
+  {
+    "sosID": 34711,
+    "name": "Tracy Flood",
+    "description": "District Court Judge Department 1"
+  },
+  {
+    "sosID": 32334,
+    "name": "Jeffrey J. Jahns",
+    "description": "District Court Judge Department 2"
+  },
+  {
+    "sosID": 32349,
+    "name": "Marilyn G. Paja",
+    "description": "District Court Judge Department 3"
+  },
+  {
+    "sosID": 32392,
+    "name": "Stephen J. Holman",
+    "description": "District Court Judge Department 4"
+  },
+  {
+    "sosID": 32835,
+    "name": "James (Jim) Civilla",
+    "description": "Public Utility District No. 1 Commissioner District 2"
+  },
+  {
+    "sosID": 110274,
+    "name": "Yes",
+    "description": "North Kitsap Fire and Rescue Proposition No. 1 Levy of General Tax for Maintenance and Operations"
+  },
+  {
+    "sosID": 110275,
+    "name": "No",
+    "description": "North Kitsap Fire and Rescue Proposition No. 1 Levy of General Tax for Maintenance and Operations"
+  },
+  {
+    "sosID": 110278,
+    "name": "Approved",
+    "description": "Kitsap County Fire District No. 18 Proposition No. 1 Upgrade of Apparatus, Facilities and Fire and Life Safety Equipment Bonds Â€“ $2,745,000"
+  },
+  {
+    "sosID": 110279,
+    "name": "Rejected",
+    "description": "Kitsap County Fire District No. 18 Proposition No. 1 Upgrade of Apparatus, Facilities and Fire and Life Safety Equipment Bonds Â€“ $2,745,000"
+  },
+  {
+    "sosID": 110330,
+    "name": "Yes",
+    "description": "City of Tacoma Proposed Charter Amendment No. 1 - Conform City Election Provisions to State Law"
+  },
+  {
+    "sosID": 110331,
+    "name": "No",
+    "description": "City of Tacoma Proposed Charter Amendment No. 1 - Conform City Election Provisions to State Law"
+  },
+  {
+    "sosID": 110334,
+    "name": "Yes",
+    "description": "City of Tacoma Proposed Charter Amendment No. 2 - Remove and Replace Obsolete Language"
+  },
+  {
+    "sosID": 110335,
+    "name": "No",
+    "description": "City of Tacoma Proposed Charter Amendment No. 2 - Remove and Replace Obsolete Language"
+  },
+  {
+    "sosID": 110338,
+    "name": "Yes",
+    "description": "City of Tacoma Proposed Charter Amendment No. 3 - Update Discrimination Provision"
+  },
+  {
+    "sosID": 110339,
+    "name": "No",
+    "description": "City of Tacoma Proposed Charter Amendment No. 3 - Update Discrimination Provision"
+  },
+  {
+    "sosID": 110342,
+    "name": "Yes",
+    "description": "City of Tacoma Proposed Charter Amendment No. 4 - Emergency Ordinance Effective Date"
+  },
+  {
+    "sosID": 110343,
+    "name": "No",
+    "description": "City of Tacoma Proposed Charter Amendment No. 4 - Emergency Ordinance Effective Date"
+  },
+  {
+    "sosID": 110346,
+    "name": "Yes",
+    "description": "City of Tacoma Proposed Charter Amendment No. 5 - Council Confirmation of Department Directors"
+  },
+  {
+    "sosID": 110347,
+    "name": "No",
+    "description": "City of Tacoma Proposed Charter Amendment No. 5 - Council Confirmation of Department Directors"
+  },
+  {
+    "sosID": 110350,
+    "name": "Approved",
+    "description": "Mason County Fire Protection District 2 Dissolution of Fire Protection District No. 2 "
+  },
+  {
+    "sosID": 110351,
+    "name": "Rejected",
+    "description": "Mason County Fire Protection District 2 Dissolution of Fire Protection District No. 2 "
+  },
+  {
+    "sosID": 110406,
+    "name": "Yes",
+    "description": "City of Stanwood Proposition No. 1 Annexation of the City of Stanwood into the Sno-Isle Library District"
+  },
+  {
+    "sosID": 110407,
+    "name": "No",
+    "description": "City of Stanwood Proposition No. 1 Annexation of the City of Stanwood into the Sno-Isle Library District"
+  },
+  {
+    "sosID": 110410,
+    "name": "Levy Yes",
+    "description": "Arlington School District No. 16 Proposition No. 1 Levy to Purchase New School Buses"
+  },
+  {
+    "sosID": 110411,
+    "name": "Levy No",
+    "description": "Arlington School District No. 16 Proposition No. 1 Levy to Purchase New School Buses"
+  },
+  {
+    "sosID": 110414,
+    "name": "Yes",
+    "description": "Fire District No. 15 Proposition No. 1 Emergency Medical Services Property Tax Levy"
+  },
+  {
+    "sosID": 110415,
+    "name": "No",
+    "description": "Fire District No. 15 Proposition No. 1 Emergency Medical Services Property Tax Levy"
+  },
+  {
+    "sosID": 110418,
+    "name": "Yes",
+    "description": "Fire District No. 17 Proposition No. 1 Emergency Medical Services Property Tax Levy"
+  },
+  {
+    "sosID": 110419,
+    "name": "No",
+    "description": "Fire District No. 17 Proposition No. 1 Emergency Medical Services Property Tax Levy"
+  },
+  {
+    "sosID": 110422,
+    "name": "Approved",
+    "description": "Fire District No. 21 Proposition No. 1 Tax Levy for Fire Protection and Emergency Medical Services"
+  },
+  {
+    "sosID": 110423,
+    "name": "Rejected",
+    "description": "Fire District No. 21 Proposition No. 1 Tax Levy for Fire Protection and Emergency Medical Services"
+  },
+  {
+    "sosID": 110426,
+    "name": "Approved",
+    "description": "Lynnwood Transportation Benefit District Proposition No. 1 Sales and Use Tax for Transportation Improvements"
+  },
+  {
+    "sosID": 110427,
+    "name": "Rejected",
+    "description": "Lynnwood Transportation Benefit District Proposition No. 1 Sales and Use Tax for Transportation Improvements"
+  },
+  {
+    "sosID": 110430,
+    "name": "Yes",
+    "description": "City of Tacoma Proposed Charter Amendment No. 6 - Council Confirmation of Utility Director"
+  },
+  {
+    "sosID": 110431,
+    "name": "No",
+    "description": "City of Tacoma Proposed Charter Amendment No. 6 - Council Confirmation of Utility Director"
+  },
+  {
+    "sosID": 110434,
+    "name": "Yes",
+    "description": "City of Tacoma Proposed Charter Amendment No. 7 - Landmarks Preservation Commission"
+  },
+  {
+    "sosID": 110435,
+    "name": "No",
+    "description": "City of Tacoma Proposed Charter Amendment No. 7 - Landmarks Preservation Commission"
+  },
+  {
+    "sosID": 110438,
+    "name": "Yes",
+    "description": "City of Tacoma Proposed Charter Amendment No. 8 - Mayor and Council Term Limits"
+  },
+  {
+    "sosID": 110439,
+    "name": "No",
+    "description": "City of Tacoma Proposed Charter Amendment No. 8 - Mayor and Council Term Limits"
+  },
+  {
+    "sosID": 110442,
+    "name": "Yes",
+    "description": "City of Tacoma Proposed Charter Amendment No. 9 - Citizen Commission On Elected Salaries"
+  },
+  {
+    "sosID": 110443,
+    "name": "No",
+    "description": "City of Tacoma Proposed Charter Amendment No. 9 - Citizen Commission On Elected Salaries"
+  },
+  {
+    "sosID": 110446,
+    "name": "Yes",
+    "description": "City of Tacoma Proposed Charter Amendment No. 10 - Cemeteries, Mausoleums, Or Crematories "
+  },
+  {
+    "sosID": 110447,
+    "name": "No",
+    "description": "City of Tacoma Proposed Charter Amendment No. 10 - Cemeteries, Mausoleums, Or Crematories "
+  },
+  {
+    "sosID": 110450,
+    "name": "Yes",
+    "description": "City of Tacoma Proposed Charter Amendment No. 11 - City Employee Contracts"
+  },
+  {
+    "sosID": 110451,
+    "name": "No",
+    "description": "City of Tacoma Proposed Charter Amendment No. 11 - City Employee Contracts"
+  },
+  {
+    "sosID": 110454,
+    "name": "Yes",
+    "description": "City of Tacoma Proposed Charter Amendment No. 12 - Eligibility for City Employment"
+  },
+  {
+    "sosID": 110455,
+    "name": "No",
+    "description": "City of Tacoma Proposed Charter Amendment No. 12 - Eligibility for City Employment"
+  },
+  {
+    "sosID": 110458,
+    "name": "Yes",
+    "description": "Town of Carbonado Proposition No. 1 Emergency Medical Services Property Tax Levy"
+  },
+  {
+    "sosID": 110459,
+    "name": "No",
+    "description": "Town of Carbonado Proposition No. 1 Emergency Medical Services Property Tax Levy"
+  },
+  {
+    "sosID": 110462,
+    "name": "Approved",
+    "description": "Town of Eatonville Proposition No. 1 "
+  },
+  {
+    "sosID": 110463,
+    "name": "Rejected",
+    "description": "Town of Eatonville Proposition No. 1 "
+  },
+  {
+    "sosID": 110466,
+    "name": "Approved",
+    "description": "City of Edgewood Proposition No. 1 Abandonment and Reorganization of Plan of Government"
+  },
+  {
+    "sosID": 110467,
+    "name": "Rejected",
+    "description": "City of Edgewood Proposition No. 1 Abandonment and Reorganization of Plan of Government"
+  },
+  {
+    "sosID": 110470,
+    "name": "Yes",
+    "description": "City of University Place Proposition No. 1 Additional 3.5% Tax On Utility Company Earnings for Police Services"
+  },
+  {
+    "sosID": 110471,
+    "name": "No",
+    "description": "City of University Place Proposition No. 1 Additional 3.5% Tax On Utility Company Earnings for Police Services"
+  },
+  {
+    "sosID": 110474,
+    "name": "Yes",
+    "description": "Fire Protection District No. 21 Proposition No. 1 Property Tax Levy for Maintenance and Operation Expenses"
+  },
+  {
+    "sosID": 110475,
+    "name": "No",
+    "description": "Fire Protection District No. 21 Proposition No. 1 Property Tax Levy for Maintenance and Operation Expenses"
+  },
+  {
+    "sosID": 110478,
+    "name": "Yes",
+    "description": "East Pierce Fire & Rescue Proposition No. 1 Property Tax Levy for Maintenance and Operation Expenses"
+  },
+  {
+    "sosID": 110479,
+    "name": "No",
+    "description": "East Pierce Fire & Rescue Proposition No. 1 Property Tax Levy for Maintenance and Operation Expenses"
+  },
+  {
+    "race": "carnation-prop-1",
+    "name": "No",
+    "description": "City of Carnation Proposition No. 1 Levy for Police Services"
+  },
+  {
+    "race": "carnation-prop-1",
+    "name": "Yes",
+    "description": "City of Carnation Proposition No. 1 Levy for Police Services"
+  },
+  {
+    "race": "kent-prop-a",
+    "name": "No",
+    "description": "City of Kent Proposition No. A General Obligation Public Safety and Training Facilities Bonds"
+  },
+  {
+    "race": "kent-prop-a",
+    "name": "Yes",
+    "description": "City of Kent Proposition No. A General Obligation Public Safety and Training Facilities Bonds"
+  },
+  {
+    "race": "north-bend-prop-1",
+    "name": "No",
+    "description": "City of North Bend Proposition No. 1 Sales and Use Tax Increase of 0.1% for Public Safety and Criminal Justice Purposes"
+  },
+  {
+    "race": "north-bend-prop-1",
+    "name": "Yes",
+    "description": "City of North Bend Proposition No. 1 Sales and Use Tax Increase of 0.1% for Public Safety and Criminal Justice Purposes"
+  },
+  {
+    "race": "seattle-prop-1a",
+    "name": "No",
+    "description": "City of Seattle Proposition Numbers 1A and 1B"
+  },
+  {
+    "race": "seattle-prop-1a",
+    "name": "Yes",
+    "description": "City of Seattle Proposition Numbers 1A and 1B"
+  },
+  {
+    "race": "seattle-prop-1b",
+    "name": "Prop. 1A (unfunded measure)",
+    "description": "City of Seattle Proposition Numbers 1A and 1B (cont.)"
+  },
+  {
+    "race": "seattle-prop-1b",
+    "name": "Prop. 1B (property-tax levy)",
+    "description": "City of Seattle Proposition Numbers 1A and 1B (cont.)"
+  },
+  {
+    "race": "shoreline-judge-1",
+    "name": "Douglas J. Smith",
+    "description": "District Court Shoreline Electoral District Judge Position 1"
+  },
+  {
+    "race": "shoreline-judge-2",
+    "name": "Marcine Anderson",
+    "description": "District Court Shoreline Electoral District Judge Position 2"
+  },
+  {
+    "race": "southeast-judge-1",
+    "name": "Charles J. Delaurenti, II",
+    "description": "Southeast Electoral District Judge Position 1"
+  },
+  {
+    "race": "southeast-judge-2",
+    "name": "David E. Meyer",
+    "description": "Southeast Electoral District Judge Position 2"
+  },
+  {
+    "race": "southeast-judge-3",
+    "name": "Nathaniel B. Green, Jr.",
+    "description": "Southeast Electoral District Judge Position 3"
+  },
+  {
+    "race": "southeast-judge-4",
+    "name": "Corinna Harn",
+    "description": "Southeast Electoral District Judge Position 4"
+  },
+  {
+    "race": "southeast-judge-5",
+    "name": "Richard Bathum",
+    "description": "Southeast Electoral District Judge Position 5"
+  },
+  {
+    "race": "southeast-judge-6",
+    "name": "Matt Williams",
+    "description": "Southeast Electoral District Judge Position 6"
+  },
+  {
+    "race": "southwest-judge-1",
+    "name": "David M. Christie",
+    "description": "Southwest Electoral District Judge Position 1"
+  },
+  {
+    "race": "southwest-judge-2",
+    "name": "Susan Mahoney",
+    "description": "Southwest Electoral District Judge Position 2"
+  },
+  {
+    "race": "southwest-judge-3",
+    "name": "Vicki Seitz",
+    "description": "Southwest Electoral District Judge Position 3"
+  },
+  {
+    "race": "southwest-judge-4",
+    "name": "D. Mark Eide",
+    "description": "Southwest Electoral District Judge Position 4"
+  },
+  {
+    "race": "southwest-judge-5",
+    "name": "Elizabeth D. Stephenson",
+    "description": "Southwest Electoral District Judge Position 5"
+  },
+  {
+    "race": "west-judge-1",
+    "name": "Johanna Bender",
+    "description": "West Electoral District Judge Position 1"
+  },
+  {
+    "race": "west-judge-2",
+    "name": "Mark C. Chow",
+    "incumbent": "*",
+    "description": "West Electoral District Judge Position 2"
+  },
+  {
+    "race": "west-judge-2",
+    "name": "Phillip Tavel",
+    "description": "West Electoral District Judge Position 2"
+  },
+  {
+    "race": "west-judge-3",
+    "name": "Art Chapman",
+    "description": "West Electoral District Judge Position 3"
+  },
+  {
+    "race": "west-judge-4",
+    "name": "Eileen A. Kato",
+    "description": "West Electoral District Judge Position 4"
+  },
+  {
+    "race": "west-judge-5",
+    "name": "Anne C. Harper",
+    "description": "West Electoral District Judge Position 5"
+  },
+  {
+    "race": "highline-prop-1",
+    "name": "Approved",
+    "description": "Highline School District No. 401 Proposition No. 1 Bonds to Construct New Schools and Replace and Renovate Deteriorating Schools"
+  },
+  {
+    "race": "highline-prop-1",
+    "name": "Rejected",
+    "description": "Highline School District No. 401 Proposition No. 1 Bonds to Construct New Schools and Replace and Renovate Deteriorating Schools"
+  },
+  {
+    "race": "king-prosecutor",
+    "name": "Dan Satterberg",
+    "party": "R",
+    "description": "King County Prosecuting Attorney"
+  },
+  {
+    "race": "monorail",
+    "name": "No",
+    "description": "Proposed City Transportation Authority Seattle Citizen Petition No. 1 Creation of a City Transportation Authority for Public Monorail Transportation Facilities"
+  },
+  {
+    "race": "monorail",
+    "name": "Yes",
+    "description": "Proposed City Transportation Authority Seattle Citizen Petition No. 1 Creation of a City Transportation Authority for Public Monorail Transportation Facilities"
+  },
+  {
+    "race": "seattle-judge-1",
+    "name": "Ed McKenna",
+    "description": "Seattle Municipal Court Judge Position 1"
+  },
+  {
+    "race": "seattle-judge-2",
+    "name": "C. Kimi Kondo",
+    "incumbent": "*",
+    "description": "Seattle Municipal Court Judge Position 2"
+  },
+  {
+    "race": "seattle-judge-2",
+    "name": "Jon M. Zimmerman",
+    "description": "Seattle Municipal Court Judge Position 2"
+  },
+  {
+    "race": "seattle-judge-3",
+    "name": "Steve Rosen",
+    "description": "Seattle Municipal Court Judge Position 3"
+  },
+  {
+    "race": "seattle-judge-4",
+    "name": "Judith Montgomery Hightower",
+    "description": "Seattle Municipal Court Judge Position 4"
+  },
+  {
+    "race": "seattle-judge-5",
+    "name": "Willie Gregory",
+    "description": "Seattle Municipal Court Judge Position 5"
+  },
+  {
+    "race": "seattle-judge-6",
+    "name": "Karen Donohue",
+    "description": "Seattle Municipal Court Judge Position 6"
+  },
+  {
+    "race": "seattle-judge-7",
+    "name": "Damon Shadid",
+    "description": "Seattle Municipal Court Judge Position 7"
+  },
+  {
+    "race": "seattle-judge-7",
+    "name": "Fred Bonner",
+    "incumbent": "*",
+    "description": "Seattle Municipal Court Judge Position 7"
+  },
+  {
+    "race": "seattle-transport-1",
+    "name": "No",
+    "description": "Seattle Transportation Benefit District Proposition No. 1 Transportation Funding"
+  },
+  {
+    "race": "seattle-transport-1",
+    "name": "Yes",
+    "description": "Seattle Transportation Benefit District Proposition No. 1 Transportation Funding"
+  },
+  {
+    "race": "si-view-prop-1",
+    "name": "No",
+    "description": "Si View Metropolitan Park District Proposition No. 1 One-Year Operations and Maintenance Levy"
+  },
+  {
+    "race": "si-view-prop-1",
+    "name": "Yes",
+    "description": "Si View Metropolitan Park District Proposition No. 1 One-Year Operations and Maintenance Levy"
+  }
+]

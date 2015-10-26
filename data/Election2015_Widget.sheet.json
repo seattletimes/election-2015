@@ -1,0 +1,56 @@
+[
+  {
+    "race": "ballot-594",
+    "group": "Statewide initiatives",
+    "rename": "Initiative 594",
+    "description": "Expand background checks for gun purchases"
+  },
+  {
+    "race": "ballot-591",
+    "group": "Statewide initiatives",
+    "rename": "Initiative 591",
+    "description": "Prohibit background checks beyond federal standard"
+  },
+  {
+    "race": "ballot-1351",
+    "group": "Statewide initiatives",
+    "rename": "Initiative 1351",
+    "description": "Reduce K-12 class sizes"
+  },
+  {
+    "race": "seattle-prop-1a",
+    "group": "Seattle measures",
+    "rename": "Seattle Prop. 1A and 1B",
+    "description": "Should either pre-K measure become law?"
+  },
+  {
+    "race": "seattle-prop-1b",
+    "group": "Seattle measures",
+    "rename": "Seattle Prop. 1A and 1B (cont.)",
+    "description": "Which pre-K measure voters prefer"
+  },
+  {
+    "race": "seattle-transport-1",
+    "group": "Seattle measures",
+    "rename": "Seattle Transportation Prop. 1",
+    "description": "Metro Transit funding"
+  },
+  {
+    "race": "monorail",
+    "group": "Other races",
+    "rename": "Seattle Monorail",
+    "description": "Create, fund planning authority for monorail"
+  },
+  {
+    "race": "us-rep-1",
+    "group": "Other races",
+    "rename": "U.S. House",
+    "description": "Congressional District 1"
+  },
+  {
+    "race": "us-rep-4",
+    "group": "Other races",
+    "rename": "U.S. House",
+    "description": "Congressional District 4"
+  }
+]
