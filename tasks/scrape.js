@@ -7,6 +7,7 @@ Relies on adapters in tasks/lib for specific sites.
 
 var async = require("async");
 var getJSON = require("./lib/getJSON");
+var shell = require("shelljs");
 
 var getDateline = function() {
   //find the current dateline
@@ -40,6 +41,10 @@ module.exports = function(grunt) {
 
     grunt.task.requires("state");
     grunt.task.requires("json");
+
+    if (grunt.option("nocache")) {
+      shell.rm("-rf", "temp");
+    }
 
     var c = this.async();
 
@@ -123,7 +128,7 @@ module.exports = function(grunt) {
       grunt.data.election = {
         all: races,
         categorized: categorized,
-        categories: ["Key Races", "Congressional", "Statewide", "Legislative", "Local", "Judicial"],
+        categories: ["Key Races", /*"Congressional",*/ "Statewide", "Legislative", "Local", "Judicial"],
         mapped: countyData.mapped,
         turnout: turnout,
         updated: getDateline()

@@ -62,22 +62,26 @@
   {
     "race": "legislative-9",
     "sosID": 36899,
-    "name": "Mary Dye"
+    "name": "Mary Dye",
+    "party": "R"
   },
   {
     "race": "legislative-9",
     "sosID": 39164,
-    "name": "Richard Lathim"
+    "name": "Richard Lathim",
+    "party": "R"
   },
   {
     "race": "legislative-30",
     "sosID": 37590,
-    "name": "Teri Hickel"
+    "name": "Teri Hickel",
+    "party": "R"
   },
   {
     "race": "legislative-30",
     "sosID": 37371,
-    "name": "Carol Gregory"
+    "name": "Carol Gregory",
+    "party": "D"
   },
   {
     "race": "appeals-113",
@@ -103,5 +107,143 @@
     "race": "mason-court-3",
     "sosID": 37696,
     "name": "Daniel Goodell"
+  },
+  {
+    "race": "council-1",
+    "name": "Lisa Herbold"
+  },
+  {
+    "race": "council-1",
+    "name": "Shannon Braddock"
+  },
+  {
+    "race": "council-2",
+    "name": "Bruce Harrell"
+  },
+  {
+    "race": "council-2",
+    "name": "Tammy Morales"
+  },
+  {
+    "race": "council-3",
+    "name": "Kshama Sawant"
+  },
+  {
+    "race": "council-3",
+    "name": "Pamela Banks"
+  },
+  {
+    "race": "council-4",
+    "name": "Rob Johnson"
+  },
+  {
+    "race": "council-4",
+    "name": "Michael Maddux"
+  },
+  {
+    "race": "council-5",
+    "name": "Debora Juarez"
+  },
+  {
+    "race": "council-5",
+    "name": "Sandy Brown"
+  },
+  {
+    "race": "council-6",
+    "name": "Mike O'Brien"
+  },
+  {
+    "race": "council-6",
+    "name": "Catherine Weatbrook"
+  },
+  {
+    "race": "council-7",
+    "name": "Sally Bagshaw"
+  },
+  {
+    "race": "council-7",
+    "name": "Deborah Zech-Artis"
+  },
+  {
+    "race": "council-8",
+    "name": "Tim Burgess"
+  },
+  {
+    "race": "council-8",
+    "name": "Jon Grant"
+  },
+  {
+    "race": "council-9",
+    "name": "Lorena González"
+  },
+  {
+    "race": "council-9",
+    "name": "Bill Bradburd"
+  },
+  {
+    "race": "king-charter-1",
+    "sosID": 112074,
+    "name": "Yes"
+  },
+  {
+    "race": "king-charter-1",
+    "sosID": 112075,
+    "name": "No"
+  },
+  {
+    "race": "king-prop-1",
+    "sosID": 112078,
+    "name": "Approved"
+  },
+  {
+    "race": "king-prop-1",
+    "sosID": 112079,
+    "name": "Rejected"
+  },
+  {
+    "race": "measure-122",
+    "sosID": 112102,
+    "name": "Yes"
+  },
+  {
+    "race": "measure-122",
+    "sosID": 112103,
+    "name": "No"
+  },
+  {
+    "race": "snohomish-exec",
+    "sosID": 37266,
+    "name": "Dave Somers"
+  },
+  {
+    "race": "snohomish-exec",
+    "sosID": 37398,
+    "name": "John Lovick"
+  },
+  {
+    "race": "prop-alcohol",
+    "sosID": 111990,
+    "name": "For sale of liquor"
+  },
+  {
+    "race": "prop-alcohol",
+    "sosID": 111991,
+    "name": "Against sale of liquor"
+  },
+  {
+    "race": "king-council-4",
+    "name": "Rufe Orr"
+  },
+  {
+    "race": "king-council-4",
+    "name": "Jeanne Kohl-Welles"
+  },
+  {
+    "race": "king-council-6",
+    "name": "Claudia Balducci"
+  },
+  {
+    "race": "king-council-6",
+    "name": "Jane Hague"
   }
 ]

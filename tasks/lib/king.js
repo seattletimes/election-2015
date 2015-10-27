@@ -15,11 +15,16 @@ var getRaceID = function(title) {
   if (matchMeasure) {
     return "measure-" + matchMeasure[1];
   }
+
   var matchAdvisory = title.match(/Advisory Vote No. (\d+)/);
   if (matchAdvisory) {
     return "advisory-" + matchAdvisory[1];
   }
 
+  var matchCouncil = title.match(/City of Seattle Council.*(\d)/);
+  if (matchCouncil) {
+    return "council-" + matchCouncil[1];
+  }
 
   //console.log("[king] Ignoring race:", title.substr(0, 40) + "...");
   return "redundant";
@@ -87,6 +92,7 @@ var parser = {
         name = alias.antialias(name);
         if (name.match(/write-in/i)) return;
         var candidateInfo = alias.getCandidateInfo(name);
+        console.log(name, candidateInfo, matches[2]);
         var result = {
           candidate: candidateInfo.name,
           party: candidateInfo.party,
