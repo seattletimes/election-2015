@@ -96,7 +96,7 @@ module.exports = function(grunt) {
 
       //sort and add Key Races as a category
       featured.sort(function(a, b) {
-        if (a.featured == b.featured) return 0;
+        if (a.featured == b.featured) return a.sorting - b.sorting;
         return a.featured + "" < b.featured + "" ? -1 : 1;
       });
       categorized["Key Races"] = { races: featured, grouped: {} };

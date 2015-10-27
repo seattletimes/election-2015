@@ -26,6 +26,9 @@ var getRaceID = function(title) {
   }
 
   //harder or single matches
+  if (title.match(/^King County Proposition No. 1/)) {
+    return "prop-move-seattle";
+  }
 
   //console.log("[king] Ignoring race:", title.substr(0, 40) + "...");
   return "redundant";
