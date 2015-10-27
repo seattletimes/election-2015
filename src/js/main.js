@@ -1,8 +1,8 @@
 /* global $ */
 require("./lib/social");
+require("./lib/ads");
 require("./components/svg-map/svg-map");
 var $ = require("jquery");
-
 
 var yes = ["yes", "approved", "maintained"];
 
