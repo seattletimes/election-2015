@@ -14,6 +14,7 @@ $("svg-map.county").each(function(i, map) {
     map.eachPath(".county", function(shape) {
       var id = shape.id.replace(/_/g, " ");
       var result = data[id];
+      if (!result) return console.log(`Missing data: ${id}`);
       if (!result.winner) {
         map.savage.addClass(shape, "tie");
       } else if (result.winner.party) {
@@ -27,6 +28,7 @@ $("svg-map.county").each(function(i, map) {
     mapState.onhover = function(county) {
       county = county.replace(/_/g, " ");
       var c = data[county];
+      if (!c) return;
       c.county = county;
       return c || {};
     };

@@ -5,14 +5,17 @@
     "name": "Initiative Measure No. 1366",
     "description": "2/3 vote for tax hikes",
     "category": "Statewide",
-    "featured": "x"
+    "featured": "x",
+    "map": "x"
   },
   {
     "code": "measure-1401",
     "sosRaceID": 111645,
     "name": "Initiative Measure No. 1401",
     "description": "Trafficking of animal species threatened with extinction",
-    "category": "Statewide"
+    "category": "Statewide",
+    "featured": "x",
+    "map": "x"
   },
   {
     "code": "advisory-10",
@@ -158,55 +161,64 @@
     "code": "council-1",
     "name": "City Council District No. 1",
     "category": "Local",
-    "subcategory": "Seattle"
+    "subcategory": "Seattle",
+    "featured": "x"
   },
   {
     "code": "council-2",
     "name": "City Council District No. 2",
     "category": "Local",
-    "subcategory": "Seattle"
+    "subcategory": "Seattle",
+    "featured": "x"
   },
   {
     "code": "council-3",
     "name": "City Council District No. 3",
     "category": "Local",
-    "subcategory": "Seattle"
+    "subcategory": "Seattle",
+    "featured": "x"
   },
   {
     "code": "council-4",
     "name": "City Council District No. 4",
     "category": "Local",
-    "subcategory": "Seattle"
+    "subcategory": "Seattle",
+    "featured": "x"
   },
   {
     "code": "council-5",
     "name": "City Council District No. 5",
     "category": "Local",
-    "subcategory": "Seattle"
+    "subcategory": "Seattle",
+    "featured": "x"
   },
   {
     "code": "council-6",
     "name": "City Council District No. 6",
     "category": "Local",
-    "subcategory": "Seattle"
+    "subcategory": "Seattle",
+    "featured": "x"
   },
   {
     "code": "council-7",
     "name": "City Council District No. 7",
     "category": "Local",
-    "subcategory": "Seattle"
+    "subcategory": "Seattle",
+    "featured": "x"
   },
   {
     "code": "council-8",
     "name": "City Council Position No. 8",
     "category": "Local",
-    "subcategory": "Seattle"
+    "subcategory": "Seattle",
+    "featured": "x"
   },
   {
     "code": "council-9",
     "name": "City Council Position No. 9",
     "category": "Local",
-    "subcategory": "Seattle"
+    "subcategory": "Seattle",
+    "featured": "x"
   },
   {
     "code": "bellevue-council-3",
@@ -257,7 +269,8 @@
     "subcategory": "Seattle"
   },
   {
-    "code": "prop-transit",
+    "code": "snohomish-transit",
+    "sosRaceID": 112029,
     "name": "Proposition 1",
     "description": "Sales-tax increase to boost Community Transit bus service",
     "category": "Local",
@@ -272,20 +285,24 @@
   },
   {
     "code": "measure-122",
+    "sosRaceID": 112101,
     "name": "Initiative Measure No. 122",
     "description": "Public funding for election campaigns",
     "category": "Local",
-    "subcategory": "Seattle"
+    "subcategory": "Seattle",
+    "featured": "x"
   },
   {
     "code": "prop-move-seattle",
     "name": "Proposition 1",
     "description": "Property-tax increase to fund various transportation and infrastructure improvements",
     "category": "Local",
-    "subcategory": "Seattle"
+    "subcategory": "Seattle",
+    "featured": "x"
   },
   {
     "code": "prop-alcohol",
+    "sosRaceID": 111989,
     "name": "Proposition 1",
     "description": "Allowing the sale of liquor by the glass",
     "category": "Local",

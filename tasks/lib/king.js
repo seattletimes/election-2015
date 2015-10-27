@@ -9,22 +9,23 @@ var hyphenate = function(s) {
   return s.toLowerCase().replace(/\s+/g, "-");
 };
 
+var matchers = {
+  "measure-": /Initiative Measure No. (\d+)/,
+  "advisory-": /Advisory Vote No. (\d+)/,
+  "council-": /City of Seattle Council.*(\d)/,
+  "school-": /Seattle School District No. 1 Director District No. (\d)/
+}
+
 var getRaceID = function(title) {
-  //temporary disable
-  var matchMeasure = title.match(/Initiative Measure No. (\d+)/);
-  if (matchMeasure) {
-    return "measure-" + matchMeasure[1];
+  //easy matches
+  for (var prefix in matchers) {
+    var match = title.match(matchers[prefix]);
+    if (match) {
+      return prefix + match[1];
+    }
   }
 
-  var matchAdvisory = title.match(/Advisory Vote No. (\d+)/);
-  if (matchAdvisory) {
-    return "advisory-" + matchAdvisory[1];
-  }
-
-  var matchCouncil = title.match(/City of Seattle Council.*(\d)/);
-  if (matchCouncil) {
-    return "council-" + matchCouncil[1];
-  }
+  //harder or single matches
 
   //console.log("[king] Ignoring race:", title.substr(0, 40) + "...");
   return "redundant";
@@ -92,7 +93,6 @@ var parser = {
         name = alias.antialias(name);
         if (name.match(/write-in/i)) return;
         var candidateInfo = alias.getCandidateInfo(name);
-        console.log(name, candidateInfo, matches[2]);
         var result = {
           candidate: candidateInfo.name,
           party: candidateInfo.party,

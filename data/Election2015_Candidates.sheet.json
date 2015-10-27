@@ -245,5 +245,15 @@
   {
     "race": "king-council-6",
     "name": "Jane Hague"
+  },
+  {
+    "race": "snohomish-transit",
+    "sosID": 112030,
+    "name": "Approved"
+  },
+  {
+    "race": "snohomish-transit",
+    "sosID": 112031,
+    "name": "Rejected"
   }
 ]
