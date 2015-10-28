@@ -33,9 +33,9 @@ svg {
     }
   }
 
-  @media @mobile {
-    display: none;
-  }
+  // @media @mobile {
+  //   display: none;
+  // }
 }
 
 
@@ -109,6 +109,7 @@ header.hed {
 .rail {
   width: @ad-size;
   float: left;
+  text-align: center;
 
   #adright {
     & > a, & > div, & > img {
@@ -117,7 +118,8 @@ header.hed {
   }
 
   @media @tablet {
-    display: none;
+    float: none;
+    width: 100%;
   }
 }
 

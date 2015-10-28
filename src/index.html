@@ -4,8 +4,6 @@
     <title><%= json.project.title %></title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
-    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="style.css">
     <%= t.include("partials/_head.html") %>
   </head>
@@ -34,8 +32,8 @@
           <% }) %>
         </nav>
         <article>
-          <% election.categories.forEach(function(cat) { var category = election.categorized[cat]; %>
-            <section class="category" id="<%= cat.replace(/\s/g, "") %>">
+          <% election.categories.forEach(function(cat, i) { var category = election.categorized[cat]; %>
+            <section class="category show" id="<%= cat.replace(/\s/g, "") %>">
             <% 
             var groups = Object.keys(category.grouped);
             if (groups.length) {
@@ -84,7 +82,7 @@
       </main>
 
       <aside class="rail">
-        <%= t.include("partials/_ad.html", { type: "right" }) %>
+        <%= t.include("partials/_ad.html", { type: "square" }) %>
       </aside>
 
     </div>
@@ -108,7 +106,7 @@ for (var raceID in election.mapped) {
 } %>
 window.mapData = <%= JSON.stringify(election.mapped) %>;
     </script>
-    <script src="app.js"></script>
+    <script src="app.js" async></script>
     <%= t.include("partials/_foot.html") %>
     <%= t.include("partials/_workHere.html") %>
   </body>

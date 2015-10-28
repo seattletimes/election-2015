@@ -14,8 +14,9 @@ qsa("svg-map.county").forEach(function(map, i) {
     map.eachPath(".county", function(shape) {
       var id = shape.id.replace(/_/g, " ");
       var result = data[id];
-      if (!result) return; //console.log(`Missing data: ${id}`);
-      if (!result.winner) {
+      if (!result) {
+        map.savage.addClass(shape, "null");
+      } else if (!result.winner) {
         map.savage.addClass(shape, "tie");
       } else if (result.winner.party) {
         map.savage.addClass(shape, result.winner.party == "D" ? "dem" : "rep");
@@ -44,7 +45,6 @@ qsa("svg-map.district").forEach(function(map, i) {
 });
 
 var onTabClick = function(e) {
-  console.log(this, e);
   if (e) e.preventDefault();
   var href = this.getAttribute("href");
   var active = document.querySelector(".tab.active");
