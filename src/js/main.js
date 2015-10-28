@@ -1,20 +1,20 @@
-/* global $ */
 require("./lib/social");
 require("./lib/ads");
 require("./components/svg-map/svg-map");
-var $ = require("jquery");
 
 var yes = ["yes", "approved", "maintained"];
 
+var qsa = s => Array.prototype.slice.call(document.querySelectorAll(s));
+
 //enable county maps
-$("svg-map.county").each(function(i, map) {
+qsa("svg-map.county").forEach(function(map, i) {
   var raceID = map.getAttribute("data-race");
   var data = window.mapData[raceID];
   if (Object.keys(data).length) {
     map.eachPath(".county", function(shape) {
       var id = shape.id.replace(/_/g, " ");
       var result = data[id];
-      if (!result) return console.log(`Missing data: ${id}`);
+      if (!result) return; //console.log(`Missing data: ${id}`);
       if (!result.winner) {
         map.savage.addClass(shape, "tie");
       } else if (result.winner.party) {
@@ -36,43 +36,49 @@ $("svg-map.county").each(function(i, map) {
   }
 });
 
-$("svg-map.district").each(function(i, map) {
+qsa("svg-map.district").forEach(function(map, i) {
   var districtID = map.getAttribute("data-district");
   map.eachPath(".district", function(shape) {
     map.savage.addClass(shape, shape.id == districtID ? "district" : "null");
   });
 });
 
-$(document.body).on("click", "a.tab", function(e) {
-  e.preventDefault();
+var onTabClick = function(e) {
+  console.log(this, e);
+  if (e) e.preventDefault();
   var href = this.getAttribute("href");
-  $(".tab.active").removeClass("active");
-  $(this).addClass("active");
-  $("section.category").hide();
-  var section = $(href);
-  section.show();
+  var active = document.querySelector(".tab.active");
+  if (active) active.classList.remove("active");
+  this.classList.add("active");
+  qsa("section.category.show").forEach(s => s.classList.remove("show"));
+  var section = document.querySelector(href);
+  section.classList.add("show")
   if (window.history && window.history.replaceState) {
     window.history.replaceState(href, "", href);
   } else {
     window.location.hash = href.replace("#", "section-");
   }
-});
+}
+
+qsa(".tab").forEach(t => t.addEventListener("click", onTabClick));
 
 var hash = window.location.hash.replace("section-", "");
 if (hash) {
   //restore place from the URL hash
-  var selector = "a.tab[href=%]".replace("%", hash);
-  $(selector).click();
+  var tab = document.querySelector(`a.tab[href="${hash}"]`);
+  onTabClick.call(tab);
 } else {
-  $("a.tab:first").click();
+  onTabClick.call(document.querySelector("a.tab"));
 }
 
-$("select.subnav").on("change", function() {
+var onSubnavChange = function(element) {
   var val = this.value;
   var section = $(this).closest(".category");
-  var selector = '[data-subcat="' + val + '"]';
+  var selector = `[data-subcat="${val}"]`;
   section.find(".subcategory").hide();
   section.find(selector).show();
-}).trigger("change");
+};
+
+qsa("select.subnav").forEach(s => s.addEventListener("change", onSubnavChange));
 
 document.body.className = "";

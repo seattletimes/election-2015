@@ -11,12 +11,17 @@
   - specify a class that should trigger hover using state.hoverClass
 
 */
-/* global ich */
-var rsvp = require("rsvp");
+var Promise = require("es6-promise/dist/es6-promise.min").Promise;
 var savage = require("../../savage");
-var ich = require("icanhaz");
 require("document-register-element");
 require("./svg-map.less");
+
+
+var dot = require("dot");
+dot.templateSettings.varname = "data";
+dot.templateSettings.selfcontained = true;
+dot.templateSettings.evaluate = /\{%([\s\S]+?)%\}/g;
+dot.templateSettings.interpolate = /\{%=([\s\S]+?)%\}/g;
 
 var xhrCache = {};
 
@@ -24,7 +29,7 @@ var xhr = function(url) {
   if (url in xhrCache) {
     return xhrCache[url];
   }
-  var promise = new rsvp.Promise(function(ok, fail) {
+  var promise = new Promise(function(ok, fail) {
     var x = new XMLHttpRequest();
     x.open("GET", url);
     x.onerror = fail;
@@ -86,12 +91,11 @@ mapProto.createdCallback = function() {
   var templateName = "temp-" + id;
   this.setAttribute("data-instance", id);
   var state = this.getState();
-  ich.addTemplate(templateName, this.innerHTML);
+  var template = dot.template(this.innerHTML);
   this.innerHTML = "";
-  state.transclude = ich[templateName];
-  delete ich[templateName];
+  state.transclude = template;
   var self = this;
-  state.ready = new rsvp.Promise(function(ok) {
+  state.ready = new Promise(function(ok) {
     xhr(src).then(function(response) {
       self.innerHTML = response + "<div class=popup></div>";
       self.setAttribute("ready", "");
@@ -133,9 +137,7 @@ mapProto.getState = function(key) {
 };
 mapProto.setTemplate = function(str) {
   var state = this.getState();
-  ich.addTemplate("temp", str);
-  state.transclude = ich.temp;
-  delete ich.temp;
+  state.transclude = dot.template(str);
 };
 mapProto.savage = savage;
 

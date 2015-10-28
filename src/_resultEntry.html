@@ -54,11 +54,11 @@ var synonyms = {
   <% if (race.map) { %>
   <div class="map-container">
     <svg-map class="county" src="assets/countyMap.svg" data-race="<%= race.code %>">
-<span class="county">{{county}}</span>
+<span class="county">{%= data.county %}</span>
 <ul>
-{{#results}}
-  <li> {{candidate}} - {{#percent}}{{percent}}%{{/percent}}&nbsp;({{votes}})
-{{/results}}
+{% data.results.forEach(function(result) { %}
+  <li> {%= result.candidate %} - {%= result.percent ? result.percent + "%" : "" %}&nbsp;({%= result.votes %})
+{% }); %}
 </ul>
     </svg-map>
   </div>

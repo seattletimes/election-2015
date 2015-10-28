@@ -1,8 +1,8 @@
-var rsvp = require("rsvp");
+var Promise = require("es6-promise/dist/es6-promise.min").Promise;
 //Simple, promise-based interaction with SVG documents imported via <object>
 
 var registerLoad = function(savage) {
-  savage.document = new rsvp.Promise(function(ok) {
+  savage.document = new Promise(function(ok) {
     savage.root.addEventListener("load", function() {
       ok(savage.root.contentDocument);
     });
