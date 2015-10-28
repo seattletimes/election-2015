@@ -28,7 +28,7 @@ qsa("svg-map.county").forEach(function(map, i) {
     mapState.onhover = function(county) {
       county = county.replace(/_/g, " ");
       var c = data[county];
-      if (!c) return;
+      if (!c) c = { county };
       c.county = county;
       return c || {};
     };

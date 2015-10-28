@@ -56,9 +56,13 @@ var synonyms = {
     <svg-map class="county" src="assets/countyMap.svg" data-race="<%= race.code %>">
 <span class="county">{%= data.county %}</span>
 <ul>
+{% if (data.results) { %}
 {% data.results.forEach(function(result) { %}
   <li> {%= result.candidate %} - {%= result.percent ? result.percent + "%" : "" %}&nbsp;({%= result.votes %})
 {% }); %}
+{% } else { %}
+  <li> No results yet.
+{% } %}
 </ul>
     </svg-map>
   </div>
