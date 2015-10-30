@@ -10,20 +10,46 @@ var hyphenate = function(s) {
 };
 
 var matchers = {
-  "measure-": /Initiative Measure No. (\d+)/,
-  "advisory-": /Advisory Vote No. (\d+)/,
-  "council-": /City of Seattle Council.*(\d)/,
-  "school-": /Seattle School District No. 1 Director District No. (\d)/
-}
+  "king-charter-1": /King County Charter Amendment No. 1/,
+  "king-prop-1": /King County Proposition No. 1/,
+  "measure-$1": /Initiative Measure No. (\d+)/,
+  "advisory-$1": /Advisory Vote No. (\d+)/,
+  "king-assessor": /Assessor/,
+  "king-elections": /Director of Elections/,
+  "king-council-$1": /Metropolitan King County Council District No. (\d+)/,
+  "port-$1": /Port of Seattle.*No. (\d)/,
+  "$1-council-$3": /City of (.*?) Council (Position|District) No. (\d+)/,
+  "$1-prop-$2": /City of (.*?) Advisory Proposition No. (\d+)/,
+  "$1-mayor": /City of (.*?) Mayor/,
+  "$1-school-director-$3": /(.*?) School District No. \d+ Director (Position|District) No. (\d+)/,
+  "enumclaw-prop-1": /Enumclaw.*?Proposition No. 1/,
+  "king-fire-$1-$2": /King County Fire Protection District No. (\d+) Commissioner Position No. (\d+)/,
+  "king-fire-$1-prop-$2": /King County Fire Protection District No. (\d+) Proposition No. (\d+)/,
+  "south-king-fire-prop-$1": /South King Fire & Rescue Proposition No. (\d+)/,
+  "$1-fire-$2": /(.*?) Fire.*No. (\d+)/,
+  "king-water-$1-$2": /King County Water District No. (\d+) Commissioner Position No. (\d+)/,
+  "king-water-1-prop-$1": /King County Water District No. \d+ Proposition No. (\d+)/,
+  "tukwila-pool-prop-1": /Tukwila Pool Metro.*Proposition No. 1/,
+  "tukwila-pool-$1": /Tukwila Pool.*District Commissioner Position No. (\d+)/,
+  "vashon-park-$1": /Vashon-Maury Island Park.* Position No. (\d+)/
+};
+
+var hyphenate = s => s.toLowerCase().trim().replace(/\s/g, "-");
 
 var getRaceID = function(title) {
   //easy matches
   for (var prefix in matchers) {
     var match = title.match(matchers[prefix]);
     if (match) {
-      return prefix + match[1];
+      var output = prefix;
+      for (var i = 1; i < match.length; i++) {
+        output = output.replace("$" + i, hyphenate(match[i]));
+      }
+      return output;
     }
   }
+
+
 
   //harder or single matches
   if (title.match(/^King County Proposition No. 1/)) {

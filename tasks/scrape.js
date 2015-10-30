@@ -25,7 +25,7 @@ var getDateline = function() {
   } else {
     time = hours - 12 + ":" + minutes + " pm";
   }
-  return month + " " + day + ", 2014 at " + time;
+  return month + " " + day + ", 2015 at " + time;
 };
 
 module.exports = function(grunt) {
@@ -49,6 +49,7 @@ module.exports = function(grunt) {
     var c = this.async();
 
     async.parallel([secState.statewide, secState.counties, kingCounty, turnout], function(err, results) {
+      if (err) console.log(err);
 
       var statewide = results[0];
       var counties = results[1];
@@ -68,8 +69,9 @@ module.exports = function(grunt) {
       var races = {};
       var categorized = {};
       var featured = [];
-      raceConfig.forEach(function(row) {
-        races[row.code || row.sosraceid] = row;
+      raceConfig.forEach(function(row, i) {
+        races[row.code || row.sosRaceID] = row;
+        if (!row) console.error("Broken row, index ", i);
         row.results = [];
         var cat = row.category || "none";
         if (!categorized[cat]) {
@@ -104,6 +106,7 @@ module.exports = function(grunt) {
       //add results to races
       statewide.forEach(function(result) {
         var race = races[result.race];
+        if (!race) console.log("Bad statewide race ", result)
         race.results.push(result);
       });
 
@@ -111,10 +114,10 @@ module.exports = function(grunt) {
       king.forEach(function(entry) {
         var exists = races[entry.race];
         if (!exists) {
-          if (uncontested.indexOf(entry.race) == -1) console.log("[scrape] No race config:", entry.race);
+          if (uncontested.indexOf(entry.race) == -1 && entry.race.results > 1) console.log("[scrape] No race config:", entry.race);
           return;
         }
-        if (exists.sosraceid) return console.log("[scrape] Duplicate race:", entry.race)
+        if (exists.sosraceid) return console.log("[scrape] Duplicate race: ", entry.race)
         races[entry.race].results = entry.results;
       });
 
@@ -128,7 +131,7 @@ module.exports = function(grunt) {
       grunt.data.election = {
         all: races,
         categorized: categorized,
-        categories: ["Key Races", /*"Congressional",*/ "Statewide", "Legislative", "Local", "Judicial"],
+        categories: ["Key Races", "Seattle", "Local", "Statewide", "Legislative"],
         mapped: countyData.mapped,
         turnout: turnout,
         updated: getDateline()

@@ -1,22 +1,22 @@
 {
   "s3": {
     "stage": {
-      "bucket": "",
-      "path": ""
+      "bucket": "projects-staging.seattletimes.com",
+      "path": "sorry-takeout"
     },
     "live": {
       "bucket": "",
       "path": ""
     }
   },
-  "title": "",
+  "title": "2015 Election Results",
   "description": "",
-  "url": "",
+  "url": "http://projects.seattletimes.com/2015/election-results/",
   "slug": "",
   "tags": [],
   "sheets": ["12tQ_zEjXnJxdSHZf76bmjiTh9VYtGPuwAgphuuQgqaM"],
   "caching": true,
   "image": "assets/social.jpg",
   "production": false,
-  "embedded": true
+  "embedded": false
 }

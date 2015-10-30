@@ -4,6 +4,7 @@ module.exports = function(counties, races, raceConfig) {
   var aggregated = {};
   counties.forEach(function(county) {
     var race = races[county.race];
+    if (!race) console.log("No race for this county", county);
     //do we have statewide results for this?
     if (race.results.length) return;
     //if not, create temporary aggregation info

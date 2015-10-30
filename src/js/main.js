@@ -71,14 +71,24 @@ if (hash) {
   onTabClick.call(document.querySelector("a.tab"));
 }
 
-var onSubnavChange = function(element) {
-  var val = this.value;
-  var section = $(this).closest(".category");
-  var selector = `[data-subcat="${val}"]`;
-  section.find(".subcategory").hide();
-  section.find(selector).show();
+var closest = function(el, className) {
+  while (!el.classList.contains(className) && el !== document.body) el = el.parentElement;
+  if (el == document.body) return null;
+  return el;
 };
 
-qsa("select.subnav").forEach(s => s.addEventListener("change", onSubnavChange));
+var onSubnavChange = function() {
+  var val = this.value;
+  var section = closest(this, "category");
+  var selector = `[data-subcat="${val}"]`;
+  var subcats = Array.prototype.slice.call(section.querySelectorAll(".subcategory"));
+  subcats.forEach(s => s.classList.remove("show"));
+  section.querySelector(selector).classList.add("show");
+};
+
+qsa("select.subnav").forEach(function(s) {
+  s.addEventListener("change", onSubnavChange);
+  onSubnavChange.call(s);
+});
 
 document.body.className = "";

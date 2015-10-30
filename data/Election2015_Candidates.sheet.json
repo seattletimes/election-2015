@@ -109,75 +109,75 @@
     "name": "Daniel Goodell"
   },
   {
-    "race": "council-1",
+    "race": "seattle-council-1",
     "name": "Lisa Herbold"
   },
   {
-    "race": "council-1",
+    "race": "seattle-council-1",
     "name": "Shannon Braddock"
   },
   {
-    "race": "council-2",
+    "race": "seattle-council-2",
     "name": "Bruce Harrell"
   },
   {
-    "race": "council-2",
+    "race": "seattle-council-2",
     "name": "Tammy Morales"
   },
   {
-    "race": "council-3",
+    "race": "seattle-council-3",
     "name": "Kshama Sawant"
   },
   {
-    "race": "council-3",
+    "race": "seattle-council-3",
     "name": "Pamela Banks"
   },
   {
-    "race": "council-4",
+    "race": "seattle-council-4",
     "name": "Rob Johnson"
   },
   {
-    "race": "council-4",
+    "race": "seattle-council-4",
     "name": "Michael Maddux"
   },
   {
-    "race": "council-5",
+    "race": "seattle-council-5",
     "name": "Debora Juarez"
   },
   {
-    "race": "council-5",
+    "race": "seattle-council-5",
     "name": "Sandy Brown"
   },
   {
-    "race": "council-6",
+    "race": "seattle-council-6",
     "name": "Mike O'Brien"
   },
   {
-    "race": "council-6",
+    "race": "seattle-council-6",
     "name": "Catherine Weatbrook"
   },
   {
-    "race": "council-7",
+    "race": "seattle-council-7",
     "name": "Sally Bagshaw"
   },
   {
-    "race": "council-7",
+    "race": "seattle-council-7",
     "name": "Deborah Zech-Artis"
   },
   {
-    "race": "council-8",
+    "race": "seattle-council-8",
     "name": "Tim Burgess"
   },
   {
-    "race": "council-8",
+    "race": "seattle-council-8",
     "name": "Jon Grant"
   },
   {
-    "race": "council-9",
+    "race": "seattle-council-9",
     "name": "Lorena González"
   },
   {
-    "race": "council-9",
+    "race": "seattle-council-9",
     "name": "Bill Bradburd"
   },
   {
@@ -255,5 +255,1537 @@
     "race": "snohomish-transit",
     "sosID": 112031,
     "name": "Rejected"
+  },
+  {
+    "sosID": 112110,
+    "name": "Yes"
+  },
+  {
+    "sosID": 112111,
+    "name": "No"
+  },
+  {
+    "sosID": 39082,
+    "name": "Ron Peltier"
+  },
+  {
+    "sosID": 38595,
+    "name": "Pegeen Mulhern"
+  },
+  {
+    "sosID": 111654,
+    "name": "Yes"
+  },
+  {
+    "sosID": 111655,
+    "name": "No"
+  },
+  {
+    "sosID": 38337,
+    "name": "Richard Huddy"
+  },
+  {
+    "sosID": 38845,
+    "name": "Roy Runyon"
+  },
+  {
+    "sosID": 111658,
+    "name": "Yes"
+  },
+  {
+    "sosID": 111659,
+    "name": "No"
+  },
+  {
+    "sosID": 39725,
+    "name": "Rob Putaansuu"
+  },
+  {
+    "sosID": 39013,
+    "name": "Tim Matthes"
+  },
+  {
+    "sosID": 39967,
+    "name": "Keith Law"
+  },
+  {
+    "sosID": 37110,
+    "name": "Shawn Cucciardi"
+  },
+  {
+    "sosID": 40098,
+    "name": "Nick Whittleton"
+  },
+  {
+    "sosID": 36962,
+    "name": "John W Clauson"
+  },
+  {
+    "sosID": 37292,
+    "name": "Cindy Lucarelli"
+  },
+  {
+    "sosID": 39908,
+    "name": "Marcus Lane"
+  },
+  {
+    "sosID": 37456,
+    "name": "Kenneth Thomas"
+  },
+  {
+    "sosID": 39307,
+    "name": "Amanda Cheatham"
+  },
+  {
+    "sosID": 38268,
+    "name": "Gregory A. Mueller"
+  },
+  {
+    "sosID": 37205,
+    "name": "Jeffrey R. McGinty"
+  },
+  {
+    "sosID": 38322,
+    "name": "Naomi Evans"
+  },
+  {
+    "sosID": 39666,
+    "name": "Sheila Collins"
+  },
+  {
+    "sosID": 39346,
+    "name": "Jonee Dubos"
+  },
+  {
+    "sosID": 37405,
+    "name": "Tony Stephens"
+  },
+  {
+    "sosID": 36924,
+    "name": "Lynn Smith"
+  },
+  {
+    "sosID": 39708,
+    "name": "Duncan C. Macfarlane"
+  },
+  {
+    "sosID": 38055,
+    "name": "Tim Kinkead"
+  },
+  {
+    "sosID": 40083,
+    "name": "Renard E. Burnett Sr."
+  },
+  {
+    "sosID": 39184,
+    "name": "Glen Robbins"
+  },
+  {
+    "sosID": 38995,
+    "name": "Scott Henden"
+  },
+  {
+    "sosID": 37730,
+    "name": "Deborah Simon"
+  },
+  {
+    "sosID": 37780,
+    "name": "Bill Webb"
+  },
+  {
+    "sosID": 38199,
+    "name": "Brian Lightbody"
+  },
+  {
+    "sosID": 39020,
+    "name": "Keith W. Garton"
+  },
+  {
+    "sosID": 38339,
+    "name": "Laura Boad"
+  },
+  {
+    "sosID": 38174,
+    "name": "Travis Couture"
+  },
+  {
+    "sosID": 40178,
+    "name": "Nancy C Williams"
+  },
+  {
+    "sosID": 39148,
+    "name": "John Campbell"
+  },
+  {
+    "sosID": 111662,
+    "name": "Approved"
+  },
+  {
+    "sosID": 111663,
+    "name": "Rejected"
+  },
+  {
+    "sosID": 111666,
+    "name": "Yes"
+  },
+  {
+    "sosID": 111667,
+    "name": "No"
+  },
+  {
+    "sosID": 111670,
+    "name": "Approved"
+  },
+  {
+    "sosID": 111671,
+    "name": "Rejected"
+  },
+  {
+    "sosID": 37790,
+    "name": "John R. Poppe"
+  },
+  {
+    "sosID": 37629,
+    "name": "Cary Bozeman"
+  },
+  {
+    "sosID": 111674,
+    "name": "Yes"
+  },
+  {
+    "sosID": 111675,
+    "name": "No"
+  },
+  {
+    "sosID": 111986,
+    "name": "Yes"
+  },
+  {
+    "sosID": 111987,
+    "name": "No"
+  },
+  {
+    "sosID": 38331,
+    "name": "Jan Shabro"
+  },
+  {
+    "sosID": 39123,
+    "name": "Lynda Hunt"
+  },
+  {
+    "sosID": 38291,
+    "name": "Patrick K. McElligott"
+  },
+  {
+    "sosID": 39161,
+    "name": "Sharon Hanek"
+  },
+  {
+    "sosID": 37470,
+    "name": "Joshua Penner"
+  },
+  {
+    "sosID": 38101,
+    "name": "Shawn Bunney"
+  },
+  {
+    "sosID": 36867,
+    "name": "Grant Owen Pelesky"
+  },
+  {
+    "sosID": 38381,
+    "name": "Laura M. Groves"
+  },
+  {
+    "sosID": 39581,
+    "name": "Carolyn Edmonds"
+  },
+  {
+    "sosID": 38896,
+    "name": "Michele Smith"
+  },
+  {
+    "sosID": 38194,
+    "name": "Therese Ngo Pasquier"
+  },
+  {
+    "sosID": 39958,
+    "name": "David Perry"
+  },
+  {
+    "sosID": 39786,
+    "name": "Jason Bergstrom"
+  },
+  {
+    "sosID": 40338,
+    "name": "Amy Cruver"
+  },
+  {
+    "sosID": 38977,
+    "name": "Bruce L. Lachney"
+  },
+  {
+    "sosID": 39050,
+    "name": "Richard D. Thurston"
+  },
+  {
+    "sosID": 39937,
+    "name": "Greg Hartman"
+  },
+  {
+    "sosID": 39559,
+    "name": "Kerry Hooks"
+  },
+  {
+    "sosID": 36925,
+    "name": "John W. Ladenburg"
+  },
+  {
+    "sosID": 38295,
+    "name": "Elizabeth (Liz) Burris"
+  },
+  {
+    "sosID": 36940,
+    "name": "Timothy M. Farrell"
+  },
+  {
+    "sosID": 38650,
+    "name": "Alice McDaniel"
+  },
+  {
+    "sosID": 40124,
+    "name": "Cathy Pearsall-Stipek"
+  },
+  {
+    "sosID": 37340,
+    "name": "Jamie Nixon"
+  },
+  {
+    "sosID": 38078,
+    "name": "April Sanders"
+  },
+  {
+    "sosID": 36926,
+    "name": "Eric Herde"
+  },
+  {
+    "sosID": 36946,
+    "name": "Carolyn M. Merrival"
+  },
+  {
+    "sosID": 38256,
+    "name": "Terry Harder"
+  },
+  {
+    "sosID": 40354,
+    "name": "Janis Clark"
+  },
+  {
+    "sosID": 39675,
+    "name": "Justin Van Dyk"
+  },
+  {
+    "sosID": 37003,
+    "name": "Paul Wagemann"
+  },
+  {
+    "sosID": 40309,
+    "name": "Michael Grayum"
+  },
+  {
+    "sosID": 37781,
+    "name": "Don Anderson"
+  },
+  {
+    "sosID": 39040,
+    "name": "Barbara Gelman"
+  },
+  {
+    "sosID": 39545,
+    "name": "David Swindale"
+  },
+  {
+    "sosID": 38236,
+    "name": "Linda Farmer"
+  },
+  {
+    "sosID": 40209,
+    "name": "Martha Lantz"
+  },
+  {
+    "sosID": 38590,
+    "name": "Randy Boss"
+  },
+  {
+    "sosID": 38608,
+    "name": "Brenda Wiest"
+  },
+  {
+    "sosID": 37691,
+    "name": "David Olson"
+  },
+  {
+    "sosID": 38629,
+    "name": "Katherine (Katie) Baird"
+  },
+  {
+    "sosID": 40311,
+    "name": "Beckie Krantz"
+  },
+  {
+    "sosID": 36871,
+    "name": "Don Johnson"
+  },
+  {
+    "sosID": 40321,
+    "name": "Bruce Cook"
+  },
+  {
+    "sosID": 37339,
+    "name": "Clare Petrich"
+  },
+  {
+    "sosID": 36968,
+    "name": "Dick Walters"
+  },
+  {
+    "sosID": 37363,
+    "name": "Justin Evans"
+  },
+  {
+    "sosID": 37423,
+    "name": "David Baus"
+  },
+  {
+    "sosID": 39579,
+    "name": "Beau Burkett"
+  },
+  {
+    "sosID": 39624,
+    "name": "Chuck Helmer"
+  },
+  {
+    "sosID": 37484,
+    "name": "Bryan Yambe"
+  },
+  {
+    "sosID": 40164,
+    "name": "David Zarate"
+  },
+  {
+    "sosID": 39696,
+    "name": "Barry D. Johnson"
+  },
+  {
+    "sosID": 39916,
+    "name": "Dierdre (Dee-Dee) Gethers"
+  },
+  {
+    "sosID": 37708,
+    "name": "Ken Malich"
+  },
+  {
+    "sosID": 37987,
+    "name": "Al Abbott"
+  },
+  {
+    "sosID": 36941,
+    "name": "Michael Perrow"
+  },
+  {
+    "sosID": 36957,
+    "name": "Jeni Woock"
+  },
+  {
+    "sosID": 36891,
+    "name": "Marie Barth"
+  },
+  {
+    "sosID": 39600,
+    "name": "Ben Gonter"
+  },
+  {
+    "sosID": 38511,
+    "name": "Mary Tompkins"
+  },
+  {
+    "sosID": 38601,
+    "name": "Jim Manley"
+  },
+  {
+    "sosID": 112050,
+    "name": "Approved"
+  },
+  {
+    "sosID": 112051,
+    "name": "Rejected"
+  },
+  {
+    "sosID": 37100,
+    "name": "Tod Gunther"
+  },
+  {
+    "sosID": 40022,
+    "name": "Gwen Robson"
+  },
+  {
+    "sosID": 37402,
+    "name": "Dave Harman"
+  },
+  {
+    "sosID": 39766,
+    "name": "Phil Allen"
+  },
+  {
+    "sosID": 37967,
+    "name": "Guy S. (Sam) Colorossi"
+  },
+  {
+    "sosID": 39870,
+    "name": "Nicola McDonald"
+  },
+  {
+    "sosID": 36933,
+    "name": "Joshua Penner"
+  },
+  {
+    "sosID": 39057,
+    "name": "Arlene Dannat"
+  },
+  {
+    "sosID": 38310,
+    "name": "Leanne Guier"
+  },
+  {
+    "sosID": 37751,
+    "name": "Gary Nitschke"
+  },
+  {
+    "sosID": 40392,
+    "name": "Brice Erickson"
+  },
+  {
+    "sosID": 38311,
+    "name": "Clinton Steiger"
+  },
+  {
+    "sosID": 39827,
+    "name": "David B. Storaasli"
+  },
+  {
+    "sosID": 39486,
+    "name": "Don Thomson"
+  },
+  {
+    "sosID": 36945,
+    "name": "Pat McGregor"
+  },
+  {
+    "sosID": 38069,
+    "name": "Robin Farris"
+  },
+  {
+    "sosID": 38097,
+    "name": "John Palmer"
+  },
+  {
+    "sosID": 39176,
+    "name": "Keith W. Sherrill"
+  },
+  {
+    "sosID": 37023,
+    "name": "Robin Ordonez"
+  },
+  {
+    "sosID": 39135,
+    "name": "Thomas Jay (Tom) Swanson"
+  },
+  {
+    "sosID": 37432,
+    "name": "Dean Johnson"
+  },
+  {
+    "sosID": 38893,
+    "name": "Steven Vermillion"
+  },
+  {
+    "sosID": 111994,
+    "name": "Yes"
+  },
+  {
+    "sosID": 111995,
+    "name": "No"
+  },
+  {
+    "sosID": 112002,
+    "name": "Initiative Measure No. 1"
+  },
+  {
+    "sosID": 112003,
+    "name": "Initiative Measure No. 1B"
+  },
+  {
+    "sosID": 112034,
+    "name": "Yes "
+  },
+  {
+    "sosID": 112035,
+    "name": "No"
+  },
+  {
+    "sosID": 112038,
+    "name": "Yes"
+  },
+  {
+    "sosID": 112039,
+    "name": "No"
+  },
+  {
+    "sosID": 112042,
+    "name": "Approved"
+  },
+  {
+    "sosID": 112043,
+    "name": "Rejected"
+  },
+  {
+    "sosID": 37034,
+    "name": "Conor McCarthy"
+  },
+  {
+    "sosID": 39612,
+    "name": "Suzanne Skaar"
+  },
+  {
+    "sosID": 37814,
+    "name": "Anders Ibsen"
+  },
+  {
+    "sosID": 40155,
+    "name": "John Hines"
+  },
+  {
+    "sosID": 39341,
+    "name": "Tom McCarthy"
+  },
+  {
+    "sosID": 38073,
+    "name": "Keith Blocker"
+  },
+  {
+    "sosID": 36996,
+    "name": "Chris Nye"
+  },
+  {
+    "sosID": 40028,
+    "name": "Frank Boykin"
+  },
+  {
+    "sosID": 112046,
+    "name": "Approved"
+  },
+  {
+    "sosID": 112047,
+    "name": "Rejected"
+  },
+  {
+    "sosID": 37273,
+    "name": "Dane Looker"
+  },
+  {
+    "sosID": 38679,
+    "name": "Derek Maynes"
+  },
+  {
+    "sosID": 37410,
+    "name": "Pat Jenkins"
+  },
+  {
+    "sosID": 38042,
+    "name": "Michael Keaton"
+  },
+  {
+    "sosID": 37038,
+    "name": "Catherine Ushka"
+  },
+  {
+    "sosID": 40026,
+    "name": "Will Jenkins Sr."
+  },
+  {
+    "sosID": 36987,
+    "name": "Andrea Cobb"
+  },
+  {
+    "sosID": 37674,
+    "name": "Alisa Regala O'Hanlon"
+  },
+  {
+    "sosID": 36951,
+    "name": "Mary Lu Dickinson"
+  },
+  {
+    "sosID": 40341,
+    "name": "Edward (Ed) D. Arrington"
+  },
+  {
+    "sosID": 36991,
+    "name": "Rick Maloney"
+  },
+  {
+    "sosID": 40203,
+    "name": "Annie Fitzsimmons"
+  },
+  {
+    "sosID": 38009,
+    "name": "Robert Scheidt"
+  },
+  {
+    "sosID": 38067,
+    "name": "Drew Ritzen"
+  },
+  {
+    "sosID": 37022,
+    "name": "Larry Dahl"
+  },
+  {
+    "sosID": 40086,
+    "name": "Jessie K. Baines Jr."
+  },
+  {
+    "sosID": 37881,
+    "name": "Brian Sullivan"
+  },
+  {
+    "sosID": 37028,
+    "name": "Greg Tisdel"
+  },
+  {
+    "sosID": 37258,
+    "name": "Linda Hjelle"
+  },
+  {
+    "sosID": 38510,
+    "name": "Marty Glaser"
+  },
+  {
+    "sosID": 38812,
+    "name": "John Koster"
+  },
+  {
+    "sosID": 38197,
+    "name": "Brian McMahan"
+  },
+  {
+    "sosID": 38364,
+    "name": "Raymond (Ray) Miller"
+  },
+  {
+    "sosID": 37247,
+    "name": "B.J. Guillot"
+  },
+  {
+    "sosID": 39174,
+    "name": "Jim Donner"
+  },
+  {
+    "sosID": 37098,
+    "name": "Robert E. Burk"
+  },
+  {
+    "sosID": 37334,
+    "name": "Victor Harris"
+  },
+  {
+    "sosID": 40116,
+    "name": "Marian L. Harrison"
+  },
+  {
+    "sosID": 39089,
+    "name": "Joshua T. Wixson"
+  },
+  {
+    "sosID": 39431,
+    "name": "Sam Wilson"
+  },
+  {
+    "sosID": 38905,
+    "name": "Clyde Franklin"
+  },
+  {
+    "sosID": 38404,
+    "name": "Craig A. French"
+  },
+  {
+    "sosID": 39322,
+    "name": "Kelli Kane"
+  },
+  {
+    "sosID": 38897,
+    "name": "Charlene N. Rawson"
+  },
+  {
+    "sosID": 39572,
+    "name": "Mary Rollins"
+  },
+  {
+    "sosID": 39389,
+    "name": "Carol S. Canfield"
+  },
+  {
+    "sosID": 38944,
+    "name": "Dan Matthews"
+  },
+  {
+    "sosID": 37992,
+    "name": "Dick McManus"
+  },
+  {
+    "sosID": 39961,
+    "name": "Jennifer Gregerson"
+  },
+  {
+    "sosID": 38293,
+    "name": "Shawn O'Donnell "
+  },
+  {
+    "sosID": 37072,
+    "name": "Norm Nunnally"
+  },
+  {
+    "sosID": 39313,
+    "name": "Mike Thompson"
+  },
+  {
+    "sosID": 38403,
+    "name": "Randy J. Hayden"
+  },
+  {
+    "sosID": 38394,
+    "name": "David S. Weston"
+  },
+  {
+    "sosID": 38795,
+    "name": "Natalia Fior"
+  },
+  {
+    "sosID": 37943,
+    "name": "Jared C. Karstetter, Jr."
+  },
+  {
+    "sosID": 39591,
+    "name": "Michael (Mike) Arendt"
+  },
+  {
+    "sosID": 40294,
+    "name": "Lisa Utter"
+  },
+  {
+    "sosID": 37784,
+    "name": "Brandon Richards"
+  },
+  {
+    "sosID": 37265,
+    "name": "Carin Chase"
+  },
+  {
+    "sosID": 40345,
+    "name": "Mike Cooper"
+  },
+  {
+    "sosID": 40179,
+    "name": "Mark Young"
+  },
+  {
+    "sosID": 39597,
+    "name": "James (Jim) Smith"
+  },
+  {
+    "sosID": 39051,
+    "name": "Justin P. McMahon "
+  },
+  {
+    "sosID": 37871,
+    "name": "Dustin Goodnight"
+  },
+  {
+    "sosID": 37145,
+    "name": "Mike Luke"
+  },
+  {
+    "sosID": 39932,
+    "name": "Marko Liias"
+  },
+  {
+    "sosID": 37439,
+    "name": "Geoffrey W. Thorp"
+  },
+  {
+    "sosID": 37155,
+    "name": "Edward (Ed) J. Barton"
+  },
+  {
+    "sosID": 37341,
+    "name": "Robert Reedy"
+  },
+  {
+    "sosID": 37931,
+    "name": "Cheryl Stanford"
+  },
+  {
+    "sosID": 37197,
+    "name": "Herbie Martin "
+  },
+  {
+    "sosID": 38682,
+    "name": "Heidi Munson"
+  },
+  {
+    "sosID": 38056,
+    "name": "Nancy Dawson"
+  },
+  {
+    "sosID": 37807,
+    "name": "Rick DeWitt"
+  },
+  {
+    "sosID": 39781,
+    "name": "Bill Johnson"
+  },
+  {
+    "sosID": 37929,
+    "name": "Brian Travis"
+  },
+  {
+    "sosID": 37105,
+    "name": "Bob Terwilliger"
+  },
+  {
+    "sosID": 38957,
+    "name": "Charles Whitfield"
+  },
+  {
+    "sosID": 37909,
+    "name": "Chris Kuehn"
+  },
+  {
+    "sosID": 37601,
+    "name": "Kristin Kelly"
+  },
+  {
+    "sosID": 39429,
+    "name": "Jim Kellett"
+  },
+  {
+    "sosID": 37026,
+    "name": "Jim Upton"
+  },
+  {
+    "sosID": 37580,
+    "name": "Douglas R. Roulstone"
+  },
+  {
+    "sosID": 37162,
+    "name": "Gregory Pratt"
+  },
+  {
+    "sosID": 37895,
+    "name": "Seth Pilkey"
+  },
+  {
+    "sosID": 39692,
+    "name": "Wendy Valentine"
+  },
+  {
+    "sosID": 37407,
+    "name": "Chris Vallo"
+  },
+  {
+    "sosID": 39443,
+    "name": "Jeff Sax"
+  },
+  {
+    "sosID": 38620,
+    "name": "Kurt Goering"
+  },
+  {
+    "sosID": 40384,
+    "name": "James Quinton Little"
+  },
+  {
+    "sosID": 38744,
+    "name": "Craig Christianson"
+  },
+  {
+    "sosID": 37043,
+    "name": "Barbara Tolbert"
+  },
+  {
+    "sosID": 37532,
+    "name": "Sue Weiss"
+  },
+  {
+    "sosID": 39076,
+    "name": "Randy Tendering"
+  },
+  {
+    "sosID": 39988,
+    "name": "Natalie Reed"
+  },
+  {
+    "sosID": 37193,
+    "name": "Marilyn Oertle"
+  },
+  {
+    "sosID": 38061,
+    "name": "Mike Hopson"
+  },
+  {
+    "sosID": 37433,
+    "name": "Jacob Kukuk"
+  },
+  {
+    "sosID": 37874,
+    "name": "Andy Rheaume"
+  },
+  {
+    "sosID": 38719,
+    "name": "Roz Gorc"
+  },
+  {
+    "sosID": 37878,
+    "name": "James G. McNeal"
+  },
+  {
+    "sosID": 38721,
+    "name": "Tim Ottersburg"
+  },
+  {
+    "sosID": 37883,
+    "name": "Davina Duerr"
+  },
+  {
+    "sosID": 38289,
+    "name": "John Lee"
+  },
+  {
+    "sosID": 40049,
+    "name": "Tony Corrado"
+  },
+  {
+    "sosID": 37085,
+    "name": "Kerin Steele"
+  },
+  {
+    "sosID": 39066,
+    "name": "David R. Wines"
+  },
+  {
+    "sosID": 37935,
+    "name": "Dale Kaemingk"
+  },
+  {
+    "sosID": 38026,
+    "name": "Ken Yohe"
+  },
+  {
+    "sosID": 37107,
+    "name": "John M. Joplin"
+  },
+  {
+    "sosID": 112006,
+    "name": "Yes"
+  },
+  {
+    "sosID": 112007,
+    "name": "No"
+  },
+  {
+    "sosID": 40382,
+    "name": "Alvin Rutledge"
+  },
+  {
+    "sosID": 37925,
+    "name": "Mike Nelson"
+  },
+  {
+    "sosID": 37706,
+    "name": "Alicia Crank"
+  },
+  {
+    "sosID": 37617,
+    "name": "Dave Teitzel"
+  },
+  {
+    "sosID": 39189,
+    "name": "Lora Petso"
+  },
+  {
+    "sosID": 37467,
+    "name": "Neil Tibbott"
+  },
+  {
+    "sosID": 37083,
+    "name": "Cassie Franklin"
+  },
+  {
+    "sosID": 39365,
+    "name": "Ron Gipson"
+  },
+  {
+    "sosID": 37189,
+    "name": "Scott Bader"
+  },
+  {
+    "sosID": 39340,
+    "name": "Charlene N. Rawson"
+  },
+  {
+    "sosID": 39734,
+    "name": "Erik Richerson"
+  },
+  {
+    "sosID": 37594,
+    "name": "Brenda Stonecipher"
+  },
+  {
+    "sosID": 112010,
+    "name": "Yes"
+  },
+  {
+    "sosID": 112011,
+    "name": "No"
+  },
+  {
+    "sosID": 37950,
+    "name": "John Spencer"
+  },
+  {
+    "sosID": 38916,
+    "name": "Marcus Tageant "
+  },
+  {
+    "sosID": 39856,
+    "name": "Rauchel McDaniel"
+  },
+  {
+    "sosID": 40041,
+    "name": "Michael Boe"
+  },
+  {
+    "sosID": 37342,
+    "name": "Loren Simmonds"
+  },
+  {
+    "sosID": 37051,
+    "name": "Shirley Sutton"
+  },
+  {
+    "sosID": 37517,
+    "name": "Chris Frizzell"
+  },
+  {
+    "sosID": 39060,
+    "name": "Benjamin Goodwin"
+  },
+  {
+    "sosID": 37064,
+    "name": "George Hurst"
+  },
+  {
+    "sosID": 37359,
+    "name": "Sid Roberts"
+  },
+  {
+    "sosID": 37616,
+    "name": "Van AuBuchon"
+  },
+  {
+    "sosID": 37490,
+    "name": "Shannon Sessions"
+  },
+  {
+    "sosID": 39959,
+    "name": "Clarence R. Shaw"
+  },
+  {
+    "sosID": 37264,
+    "name": "Rob Toyer"
+  },
+  {
+    "sosID": 112014,
+    "name": "Yes"
+  },
+  {
+    "sosID": 112015,
+    "name": "No"
+  },
+  {
+    "sosID": 37922,
+    "name": "Vincent J. Cavaleri"
+  },
+  {
+    "sosID": 39001,
+    "name": "Lynn D. Sordel"
+  },
+  {
+    "sosID": 37826,
+    "name": "Mark Bond"
+  },
+  {
+    "sosID": 39978,
+    "name": "Douglas Carlson"
+  },
+  {
+    "sosID": 40287,
+    "name": "Shayne Bradley"
+  },
+  {
+    "sosID": 37031,
+    "name": "Jim Kamp"
+  },
+  {
+    "sosID": 37039,
+    "name": "Jason Gamble"
+  },
+  {
+    "sosID": 40269,
+    "name": "Patti Gibbons"
+  },
+  {
+    "sosID": 37559,
+    "name": "Kirk Scarboro"
+  },
+  {
+    "sosID": 39659,
+    "name": "Patrick Daniels"
+  },
+  {
+    "sosID": 40218,
+    "name": "Stephen (Steve) Barnes"
+  },
+  {
+    "sosID": 37600,
+    "name": "Laura Sonmore"
+  },
+  {
+    "sosID": 37241,
+    "name": "Steve Schmalz"
+  },
+  {
+    "sosID": 39816,
+    "name": "Nicole Thomsen"
+  },
+  {
+    "sosID": 38136,
+    "name": "Scott Whelpley"
+  },
+  {
+    "sosID": 37752,
+    "name": "Mohammed Riaz Khan"
+  },
+  {
+    "sosID": 37099,
+    "name": "Richard Emery"
+  },
+  {
+    "sosID": 37712,
+    "name": "Jon Boyce"
+  },
+  {
+    "sosID": 37321,
+    "name": "Christine Cook"
+  },
+  {
+    "sosID": 39842,
+    "name": "Charles (Charlie) Eakins"
+  },
+  {
+    "sosID": 39319,
+    "name": "Alexander Suprenant"
+  },
+  {
+    "sosID": 37649,
+    "name": "Lynn Schilaty"
+  },
+  {
+    "sosID": 40376,
+    "name": "Larry Countryman"
+  },
+  {
+    "sosID": 37041,
+    "name": "Karen W. Guzak"
+  },
+  {
+    "sosID": 37330,
+    "name": "Zachary S. Wilde "
+  },
+  {
+    "sosID": 37027,
+    "name": "Paul J. Kaftanski"
+  },
+  {
+    "sosID": 112018,
+    "name": "Yes"
+  },
+  {
+    "sosID": 112019,
+    "name": "No"
+  },
+  {
+    "sosID": 37206,
+    "name": "Carolyn Eslick"
+  },
+  {
+    "sosID": 40190,
+    "name": "Ray George"
+  },
+  {
+    "sosID": 37200,
+    "name": "Russell Wiita"
+  },
+  {
+    "sosID": 40204,
+    "name": "Bart Dalmasso"
+  },
+  {
+    "sosID": 40170,
+    "name": "Al Wirta"
+  },
+  {
+    "sosID": 38699,
+    "name": "Joe Neigel"
+  },
+  {
+    "sosID": 39099,
+    "name": "Jeffrey Beeler"
+  },
+  {
+    "sosID": 40182,
+    "name": "Kay George"
+  },
+  {
+    "sosID": 39136,
+    "name": "Daniel Rankin"
+  },
+  {
+    "sosID": 39347,
+    "name": "Todd A. Ronning "
+  },
+  {
+    "sosID": 39905,
+    "name": "Rick Bott"
+  },
+  {
+    "sosID": 39575,
+    "name": "Bob Hubbard"
+  },
+  {
+    "sosID": 39809,
+    "name": "Blair Corson"
+  },
+  {
+    "sosID": 40091,
+    "name": "Peter R. Gott"
+  },
+  {
+    "sosID": 39290,
+    "name": "Travis Freeman"
+  },
+  {
+    "sosID": 40045,
+    "name": "Alexander Gibb"
+  },
+  {
+    "sosID": 40275,
+    "name": "Kem Hunter"
+  },
+  {
+    "sosID": 40315,
+    "name": "Robert (Bert) Shepardson"
+  },
+  {
+    "sosID": 38143,
+    "name": "Bill Willcock"
+  },
+  {
+    "sosID": 39852,
+    "name": "Carin Chase"
+  },
+  {
+    "sosID": 37076,
+    "name": "Gary Noble"
+  },
+  {
+    "sosID": 40276,
+    "name": "Mary Murphy"
+  },
+  {
+    "sosID": 39567,
+    "name": "Kathleen Estabrook"
+  },
+  {
+    "sosID": 37231,
+    "name": "Caroline Mason"
+  },
+  {
+    "sosID": 37159,
+    "name": "Traci Mitchell"
+  },
+  {
+    "sosID": 39101,
+    "name": "Derek Ogle"
+  },
+  {
+    "sosID": 39447,
+    "name": "Amy Williams"
+  },
+  {
+    "sosID": 38052,
+    "name": "Jahna Smith"
+  },
+  {
+    "sosID": 38443,
+    "name": "Kyle Kennedy"
+  },
+  {
+    "sosID": 37747,
+    "name": "Ron Johnson"
+  },
+  {
+    "sosID": 39510,
+    "name": "Ken Smith"
+  },
+  {
+    "sosID": 38290,
+    "name": "John Harley Hammond"
+  },
+  {
+    "sosID": 39512,
+    "name": "David Cogan"
+  },
+  {
+    "sosID": 38723,
+    "name": "Berta Phillips"
+  },
+  {
+    "sosID": 37626,
+    "name": "Erica Ash"
+  },
+  {
+    "sosID": 37354,
+    "name": "Bob Meador"
+  },
+  {
+    "sosID": 37429,
+    "name": "Richard Schrock"
+  },
+  {
+    "sosID": 37102,
+    "name": "Mike Luke"
+  },
+  {
+    "sosID": 38128,
+    "name": "Randy Woolery"
+  },
+  {
+    "sosID": 37376,
+    "name": "Rick Edwards"
+  },
+  {
+    "sosID": 38607,
+    "name": "Jeff Schaub"
+  },
+  {
+    "sosID": 37928,
+    "name": "Nancy Travis"
+  },
+  {
+    "sosID": 39642,
+    "name": "Ed Taft"
+  },
+  {
+    "sosID": 37956,
+    "name": "Dan Britton"
+  },
+  {
+    "sosID": 112022,
+    "name": "Approved"
+  },
+  {
+    "sosID": 112023,
+    "name": "Rejected"
+  },
+  {
+    "sosID": 37839,
+    "name": "Jim Steinruck"
+  },
+  {
+    "sosID": 38196,
+    "name": "Brian McMahan"
+  },
+  {
+    "sosID": 112026,
+    "name": "Yes"
+  },
+  {
+    "sosID": 112027,
+    "name": "No"
+  },
+  {
+    "sosID": 39025,
+    "name": "Mark Mahnkey"
+  },
+  {
+    "sosID": 38148,
+    "name": "Dean R. Lotz"
+  },
+  {
+    "sosID": 37904,
+    "name": "W.E. (Skip) Schott"
+  },
+  {
+    "sosID": 39631,
+    "name": "Mike Graves"
+  },
+  {
+    "sosID": 38251,
+    "name": "John Elsasser"
+  },
+  {
+    "sosID": 39735,
+    "name": "Jim Sawyer"
+  },
+  {
+    "sosID": 39817,
+    "name": "Chris Eggen"
+  },
+  {
+    "sosID": 40380,
+    "name": "Tim Tipton"
+  },
+  {
+    "sosID": 39794,
+    "name": "Tyler Poling"
+  },
+  {
+    "sosID": 40029,
+    "name": "Brian Moody"
+  },
+  {
+    "sosID": 112030,
+    "name": "Approved"
+  },
+  {
+    "sosID": 112031,
+    "name": "Rejected"
+  },
+  {
+    "sosID": 112106,
+    "name": "Yes"
+  },
+  {
+    "sosID": 112107,
+    "name": "No"
   }
 ]
