@@ -20,6 +20,7 @@ var matchers = {
   "port-$1": /Port of Seattle.*No. (\d)/,
   "$1-council-$3": /City of (.*?) Council (Position|District) No. (\d+)/,
   "$1-prop-$2": /City of (.*?) Advisory Proposition No. (\d+)/,
+  "seattle-prop-1": /City of Seattle Proposition No. 1/,
   "$1-mayor": /City of (.*?) Mayor/,
   "$1-school-director-$3": /(.*?) School District No. \d+ Director (Position|District) No. (\d+)/,
   "enumclaw-prop-1": /Enumclaw.*?Proposition No. 1/,

@@ -37,7 +37,7 @@
             <% 
             var groups = Object.keys(category.grouped);
             if (groups.length) {
-              if (cat == "Local") { %>
+              if (groups.length) { %>
               <p class="subnav-controls">Select a location: <select class="subnav">
                 <% groups.sort().forEach(function(group) { %>
                 <option value="<%= group %>"><%= group %></option>

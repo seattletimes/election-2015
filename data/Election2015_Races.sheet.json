@@ -52,52 +52,46 @@
   {
     "code": "legislative-9",
     "sosRaceID": 254,
-    "name": "State Representative Pos. 1",
+    "name": "State Representative District 9, Pos. 1",
     "category": "Legislative",
-    "subcategory": "District 9",
     "sorting": 7
   },
   {
     "code": "legislative-30",
     "sosRaceID": 318,
-    "name": "State Representative Pos. 2",
+    "name": "State Representative District 30, Pos. 2",
     "category": "Legislative",
-    "subcategory": "District 30",
     "sorting": 8
   },
   {
     "code": "appeals-113",
     "sosRaceID": 33,
-    "name": "Division 1, District 1",
+    "name": "State Court of Appeals Division 1, District 1",
     "description": "Judge Position 3",
     "category": "Judicial",
-    "subcategory": "State Court of Appeals",
     "uncontested": "x",
     "sorting": 9
   },
   {
     "code": "franklin-court-3",
     "sosRaceID": 56,
-    "name": "Superior Court Judge Position 3",
+    "name": "Benton, Franklin Superior Court Judge Position 3",
     "category": "Judicial",
-    "subcategory": "Benton, Franklin",
     "uncontested": "x",
     "sorting": 10
   },
   {
     "code": "grays-court-1",
     "sosRaceID": 86,
-    "name": "Superior Court Judge Position 1",
+    "name": "Grays Harbor Superior Court Judge Position 1",
     "category": "Judicial",
-    "subcategory": "Grays Harbor",
     "sorting": 11
   },
   {
     "code": "mason-court-3",
     "sosRaceID": 39665,
-    "name": "Superior Court Judge Position 3",
+    "name": "Mason Superior Court Judge Position 3",
     "category": "Judicial",
-    "subcategory": "Mason",
     "uncontested": "x",
     "sorting": 12
   },
@@ -111,7 +105,7 @@
     "sorting": 13
   },
   {
-    "sosRaceID": 112077,
+    "code": "king-prop-1",
     "name": "King County Proposition 1",
     "description": "Property-tax levy to fund various prevention and early-intervention programs that support the health and well-being of children",
     "category": "Local",
@@ -295,7 +289,7 @@
     "sorting": 40
   },
   {
-    "sosRaceID": 112101,
+    "code": "measure-122",
     "name": "Initiative Measure No. 122",
     "description": "Public funding for election campaigns",
     "category": "Seattle",
@@ -303,7 +297,7 @@
     "sorting": 42
   },
   {
-    "sosRaceID": 112105,
+    "code": "seattle-prop-1",
     "name": "Seattle Proposition 1",
     "description": "Property-tax increase to fund various transportation and infrastructure improvements",
     "category": "Seattle",
@@ -315,7 +309,7 @@
     "name": "Fircrest Proposition 1",
     "description": "Allowing the sale of liquor by the glass",
     "category": "Local",
-    "subcategory": "Fircrest",
+    "subcategory": "Pierce County",
     "sorting": 44
   },
   {
