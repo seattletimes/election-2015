@@ -5,6 +5,7 @@
     "name": "Initiative Measure No. 1366",
     "description": "2/3 vote for tax hikes",
     "category": "Statewide",
+    "featured": "x",
     "map": "x",
     "sorting": 1
   },
@@ -110,6 +111,7 @@
     "description": "Property-tax levy to fund various prevention and early-intervention programs that support the health and well-being of children",
     "category": "Local",
     "subcategory": "King County",
+    "featured": "x",
     "sorting": 14
   },
   {
@@ -159,16 +161,14 @@
   },
   {
     "code": "port-2",
-    "name": "Commissioner Position No. 2",
-    "category": "Local",
-    "subcategory": "Port of Seattle",
+    "name": "Port of Seattle Commissioner No. 2",
+    "category": "Seattle",
     "sorting": 21
   },
   {
     "code": "port-5",
-    "name": "Commissioner Position No. 5",
-    "category": "Local",
-    "subcategory": "Port of Seattle",
+    "name": "Port of Seattle Commissioner No. 5",
+    "category": "Seattle",
     "sorting": 22
   },
   {
@@ -465,6 +465,7 @@
   {
     "code": "kirkland-prop-1",
     "name": "City of Kirkland Proposition No. 1",
+    "description": "Formation of Kirkland Aquatics and Recreation District",
     "category": "Local",
     "subcategory": "King County"
   },
@@ -1065,6 +1066,7 @@
   {
     "sosRaceID": 111985,
     "name": "COUNTY Referendum No. 2015-1 Submitted by the Voters of Pierce County",
+    "description": "Repeal approval of new county general services building",
     "category": "Local",
     "subcategory": "Pierce County"
   },
@@ -1256,7 +1258,8 @@
   },
   {
     "sosRaceID": 112049,
-    "name": "CITY OF ORTING Proposition No. 1 Increase of 3.4% Tax on Utility Company Earnings for Police Services",
+    "name": "CITY OF ORTING Proposition No. 1",
+    "description": " Increase of 3.4% tax on utility company earnings for police services",
     "category": "Local",
     "subcategory": "Pierce County"
   },
@@ -1329,30 +1332,35 @@
   {
     "sosRaceID": 111993,
     "name": "CITY OF TACOMA Initiative Measure No. 1 and 1B Question 1",
+    "description": "Establishing a minimum wage",
     "category": "Local",
     "subcategory": "Pierce County"
   },
   {
     "sosRaceID": 112001,
     "name": "CITY OF TACOMA Initiative Measure No. 1 and 1B Question 2",
+    "description": "Choosing a minimum wage",
     "category": "Local",
     "subcategory": "Pierce County"
   },
   {
     "sosRaceID": 112033,
     "name": "CITY OF TACOMA Citizens&#39; Charter Amendment Initiative Measure No. 2 ",
+    "description": "Changing legislative, executive powers; reduce council; change term limits",
     "category": "Local",
     "subcategory": "Pierce County"
   },
   {
     "sosRaceID": 112037,
     "name": "CITY OF TACOMA Proposition No. 3 ",
+    "description": "Property tax increase for street repair, pedestrian improvements",
     "category": "Local",
     "subcategory": "Pierce County"
   },
   {
     "sosRaceID": 112041,
-    "name": "CITY OF TACOMA Proposition A - Transportation Sales and Use Tax ",
+    "name": "CITY OF TACOMA Proposition A ",
+    "description": "Transportation sales and use tax",
     "category": "Local",
     "subcategory": "Pierce County"
   },
@@ -1382,7 +1390,8 @@
   },
   {
     "sosRaceID": 112045,
-    "name": "PUYALLUP SCHOOL DISTRICT NO. 3 Proposition No. 1 School Construction and Facility Improvements - General Obligation Bonds - $292,515,000",
+    "name": "PUYALLUP SCHOOL DISTRICT NO. 3 Proposition No. 1 ",
+    "description": "School construction and facility improvements - general obligation bonds - $292,515,000",
     "category": "Local",
     "subcategory": "Pierce County"
   },
@@ -1538,7 +1547,8 @@
   },
   {
     "sosRaceID": 112005,
-    "name": "CITY OF BRIER City of Brier Proposition No. 1 City of Brier Advisory Proposition No. 1",
+    "name": "CITY OF BRIER Advisory Proposition No. 1",
+    "description": "Advise city council to ban sale, discharge of fireworks ",
     "category": "Local",
     "subcategory": "Snohomish County"
   },
@@ -1580,7 +1590,8 @@
   },
   {
     "sosRaceID": 112009,
-    "name": "CITY OF GRANITE FALLS City of Granite Falls Proposition No. 1 Whether to Adopt the Council/Manager Form of Government Within the City of Granite Falls",
+    "name": "CITY OF GRANITE FALLS Proposition No. 1 ",
+    "description": "Whether to adopt the city council/manager form of government",
     "category": "Local",
     "subcategory": "Snohomish County"
   },
@@ -1628,7 +1639,8 @@
   },
   {
     "sosRaceID": 112013,
-    "name": "CITY OF MARYSVILLE City of Marysville Proposition No. 1 Advisory Vote",
+    "name": "CITY OF MARYSVILLE Proposition No. 1 Advisory Vote",
+    "description": "Advise city council to ban sale, possession, discharge of fireworks",
     "category": "Local",
     "subcategory": "Snohomish County"
   },
@@ -1712,7 +1724,8 @@
   },
   {
     "sosRaceID": 112017,
-    "name": "CITY OF STANWOOD City of Stanwood Proposition No. 1 6-year Levy Lid Lift for the Retention of Fire/EMS and Police Services",
+    "name": "CITY OF STANWOOD Proposition No. 1 ",
+    "description": "6-year levy lid lift for the retention of fire/EMS and police services",
     "category": "Local",
     "subcategory": "Snohomish County"
   },
@@ -1850,7 +1863,8 @@
   },
   {
     "sosRaceID": 112021,
-    "name": "FIRE DISTRICT 26 Fire District 26 Proposition No. 1 Bonds for Land, Fire Engine and Fire Protection Facilities",
+    "name": "FIRE DISTRICT 26 Proposition No. 1 ",
+    "description": "Bonds for land, fire engine and fire protection facilities",
     "category": "Local",
     "subcategory": "Snohomish County"
   },
@@ -1862,7 +1876,8 @@
   },
   {
     "sosRaceID": 112025,
-    "name": "NORTH COUNTY REGIONAL FIRE AUTHORITY North County Regional Fire Authority Proposition No. 1 Emergency Medical Services Property Tax Levy",
+    "name": "NORTH COUNTY REGIONAL FIRE AUTHORITY Proposition No. 1 ",
+    "description": "Emergency medical services property tax levy",
     "category": "Local",
     "subcategory": "Snohomish County"
   },
