@@ -98,7 +98,7 @@ module.exports = function(grunt) {
 
       //sort and add Key Races as a category
       featured.sort(function(a, b) {
-        if (a.featured == b.featured) return a.sorting - b.sorting;
+        if (a.featured == b.featured) return a.index - b.index;
         return a.featured + "" < b.featured + "" ? -1 : 1;
       });
       categorized["Key Races"] = { races: featured, grouped: {} };
@@ -128,13 +128,30 @@ module.exports = function(grunt) {
       var overrideSheet = getJSON("Overrides");
       overrides.process(overrideSheet, races);
 
+      //Set up widget races
+      var widget = getJSON("Widget").map(function(row) {
+        var original = races[row.race];
+        return {
+          results: original.results,
+          race: row.race,
+          name: row.rename || original.name,
+          description: row.description || original.description,
+          group: row.group
+        };
+      }).reduce(function(o, row) {
+        if (!o[row.group]) o[row.group] = [];
+        o[row.group].push(row);
+        return o;
+      }, {});
+
       grunt.data.election = {
         all: races,
         categorized: categorized,
         categories: ["Key Races", "Seattle", "Local", "Statewide", "Legislative"],
         mapped: countyData.mapped,
         turnout: turnout,
-        updated: getDateline()
+        updated: getDateline(),
+        widget: widget
       };
 
       c();

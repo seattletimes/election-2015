@@ -5,146 +5,26 @@
   box-sizing: border-box;
 }
 
-@import "values";
+@import "seattletimes";
+@import "flexbox";
 
-body {
-  font-family: @sans;
-  max-width: 960px;
-  border-bottom: 1px solid #DDD;
-  padding-bottom: 10px;
-  margin-bottom: 10px;
-  margin-top: 0;
-}
-
-h1 {
-  position: relative;
-  font-weight: normal;
-}
-
-a {
-  color: #09334B;
-}
-
-a:hover, a:focus {
-  color: #3461A1;
-}
-
-.transition {
-  font-weight: bold;
-  cursor: pointer;
-  margin: 0 20px;
-  display: inline-block;
-  background: #E0E0E0;
-  padding: 4px 12px;
-  border-radius: 4px;
-  position: absolute;
-  top: 0;
-
-  &.next {
-    right: 0;
-    margin-right: 0;
-  }
-
-  &.previous {
-    left: 0;
-    margin-left: 0;
-  }
-
-  &:hover {
-    background: darken(#E0E0E0, 10%);
-  }
-}
-
-section.panel {
-  clear: both;
+.group {
   display: none;
-  opacity: 0;
-  transition: opacity .3s linear .1s;
-  overflow: hidden;
 
-  &[show] {
+  &.show {
     display: block;
   }
 
-  &[animate] {
-    opacity: 1;
+  h1 {
+    font-family: @df-sans;
+    font-size: 24px;
   }
 
-  .title {
-    text-align: center;
-    text-transform: uppercase;
-    color: #222;
-    display: block;
-    font-size: 13px;
-    margin: 0;
+  .races {
+    .display-flex();
+
+    .race {
+      .flex(1 0 25%);
+    }
   }
-
-  .race {
-    float: left;
-    width: 33%;
-    min-height: 100px;
-    padding: 12px;
-    border-left: 1px solid @gray;
-
-    h2 {
-      margin: 0;
-      font-weight: normal;
-      font-size: 15px;
-    }
-
-    .description {
-      //color: @text-gray;
-      font-size: 12px;
-      font-style: italic;
-      margin: 0 0 6px 0;
-    }
-
-    &:first-of-type {
-      border-left: none;
-    }
-
-    .results {
-      padding: 0;
-      margin: 0;
-      list-style-type: none;
-
-      li {
-        position: relative;
-        font-size: 14px;
-
-        .checkmark {
-          color: green;
-          //padding-left: 3px;
-        }
-
-        .numbers {
-          position: absolute;
-          right: 0;
-          top: 0;
-        }
-      }
-    }
-
-  }
-}
-
-.footnote {
-  font-size: 12px;
-  margin-bottom: 8px;
-}
-
-.full {
-  float: right;
-  background: @st-orange;
-  padding: 4px 6px;
-  font-size: 13px;
-  text-transform: uppercase;
-  text-decoration: none;
-  color: white;
-  border-radius: 4px;
-}
-
-.full:hover {
-  color: white;
-  background: darken(@st-orange, 5%);
 }

@@ -6,8 +6,7 @@
     "description": "2/3 vote for tax hikes",
     "category": "Statewide",
     "featured": "x",
-    "map": "x",
-    "sorting": 1
+    "map": "x"
   },
   {
     "code": "measure-1401",
@@ -15,54 +14,47 @@
     "name": "Initiative Measure No. 1401",
     "description": "Trafficking of animal species threatened with extinction",
     "category": "Statewide",
-    "map": "x",
-    "sorting": 2
+    "map": "x"
   },
   {
     "code": "advisory-10",
     "sosRaceID": 111625,
     "name": "Advisory Vote No. 10",
     "description": "Engrossed Substitute House Bill 1449: Taxing rail transport of oil products to pay for oil spill response",
-    "category": "Statewide",
-    "sorting": 3
+    "category": "Statewide"
   },
   {
     "code": "advisory-11",
     "sosRaceID": 111629,
     "name": "Advisory Vote No. 11",
     "description": "Second Substitute Senate Bill 5052: Applying marijuana excise tax to medical marijuana sales",
-    "category": "Statewide",
-    "sorting": 4
+    "category": "Statewide"
   },
   {
     "code": "advisory-12",
     "sosRaceID": 111633,
     "name": "Advisory Vote No. 12",
     "description": "Second Engrossed Substitute Senate Bill 5987: Fuel taxes",
-    "category": "Statewide",
-    "sorting": 5
+    "category": "Statewide"
   },
   {
     "code": "advisory-13",
     "sosRaceID": 111637,
     "name": "Advisory Vote No. 13",
     "description": "Engrossed Substitute Senate Bill 6138: Increase to B&O taxes, excluding certain software manufacturers from a retail sales tax exemption",
-    "category": "Statewide",
-    "sorting": 6
+    "category": "Statewide"
   },
   {
     "code": "legislative-9",
     "sosRaceID": 254,
     "name": "State Representative District 9, Pos. 1",
-    "category": "Legislative",
-    "sorting": 7
+    "category": "Legislative"
   },
   {
     "code": "legislative-30",
     "sosRaceID": 318,
     "name": "State Representative District 30, Pos. 2",
-    "category": "Legislative",
-    "sorting": 8
+    "category": "Legislative"
   },
   {
     "code": "appeals-113",
@@ -70,39 +62,34 @@
     "name": "State Court of Appeals Division 1, District 1",
     "description": "Judge Position 3",
     "category": "Judicial",
-    "uncontested": "x",
-    "sorting": 9
+    "uncontested": "x"
   },
   {
     "code": "franklin-court-3",
     "sosRaceID": 56,
     "name": "Benton, Franklin Superior Court Judge Position 3",
     "category": "Judicial",
-    "uncontested": "x",
-    "sorting": 10
+    "uncontested": "x"
   },
   {
     "code": "grays-court-1",
     "sosRaceID": 86,
     "name": "Grays Harbor Superior Court Judge Position 1",
-    "category": "Judicial",
-    "sorting": 11
+    "category": "Judicial"
   },
   {
     "code": "mason-court-3",
     "sosRaceID": 39665,
     "name": "Mason Superior Court Judge Position 3",
     "category": "Judicial",
-    "uncontested": "x",
-    "sorting": 12
+    "uncontested": "x"
   },
   {
     "code": "king-charter-1",
     "name": "Charter Amendment 1",
     "description": "Creates a civilian office of law-enforcement oversight and citizen advisory committee",
     "category": "Local",
-    "subcategory": "King County",
-    "sorting": 13
+    "subcategory": "King County"
   },
   {
     "code": "king-prop-1",
@@ -110,173 +97,147 @@
     "description": "Property-tax levy to fund various prevention and early-intervention programs that support the health and well-being of children",
     "category": "Local",
     "subcategory": "King County",
-    "featured": "x",
-    "sorting": 14
+    "featured": "x"
   },
   {
     "code": "king-assessor",
     "name": "Assessor",
     "category": "Local",
-    "subcategory": "King County",
-    "sorting": 15
+    "subcategory": "King County"
   },
   {
     "code": "king-elections",
     "name": "Director of Elections",
     "category": "Local",
-    "subcategory": "King County",
-    "sorting": 16
+    "subcategory": "King County"
   },
   {
     "code": "king-council-2",
     "name": "County Council District No. 2",
     "category": "Local",
     "subcategory": "King County",
-    "uncontested": "x",
-    "sorting": 17
+    "uncontested": "x"
   },
   {
     "code": "king-council-4",
     "name": "County Council District No. 4",
     "category": "Local",
-    "subcategory": "King County",
-    "sorting": 18
+    "subcategory": "King County"
   },
   {
     "code": "king-council-6",
     "name": "County Council District No. 6",
     "category": "Local",
     "subcategory": "King County",
-    "featured": 4,
-    "sorting": 19
+    "featured": 4
   },
   {
     "code": "king-council-8",
     "name": "County Council District No. 8",
     "category": "Local",
     "subcategory": "King County",
-    "uncontested": "x",
-    "sorting": 20
+    "uncontested": "x"
   },
   {
     "code": "port-2",
     "name": "Port of Seattle Commissioner No. 2",
-    "category": "Seattle",
-    "sorting": 21
+    "category": "Seattle"
   },
   {
     "code": "port-5",
     "name": "Port of Seattle Commissioner No. 5",
-    "category": "Seattle",
-    "sorting": 22
+    "category": "Seattle"
   },
   {
     "code": "seattle-council-1",
     "name": "City Council District No. 1",
-    "category": "Seattle",
-    "sorting": 23
+    "category": "Seattle"
   },
   {
     "code": "seattle-council-2",
     "name": "City Council District No. 2",
-    "category": "Seattle",
-    "sorting": 24
+    "category": "Seattle"
   },
   {
     "code": "seattle-council-3",
     "name": "City Council District No. 3",
     "category": "Seattle",
-    "featured": 3,
-    "sorting": 25
+    "featured": 3
   },
   {
     "code": "seattle-council-4",
     "name": "City Council District No. 4",
-    "category": "Seattle",
-    "sorting": 26
+    "category": "Seattle"
   },
   {
     "code": "seattle-council-5",
     "name": "City Council District No. 5",
-    "category": "Seattle",
-    "sorting": 27
+    "category": "Seattle"
   },
   {
     "code": "seattle-council-6",
     "name": "City Council District No. 6",
-    "category": "Seattle",
-    "sorting": 28
+    "category": "Seattle"
   },
   {
     "code": "seattle-council-7",
     "name": "City Council District No. 7",
-    "category": "Seattle",
-    "sorting": 29
+    "category": "Seattle"
   },
   {
     "code": "seattle-council-8",
     "name": "City Council Position No. 8",
-    "category": "Seattle",
-    "sorting": 30
+    "category": "Seattle"
   },
   {
     "code": "seattle-council-9",
     "name": "City Council Position No. 9",
-    "category": "Seattle",
-    "sorting": 31
+    "category": "Seattle"
   },
   {
     "code": "bellevue-council-3",
     "name": "City Council District No. 3",
     "category": "Local",
-    "subcategory": "Bellevue",
-    "sorting": 32
+    "subcategory": "Bellevue"
   },
   {
     "code": "bellevue-council-5",
     "name": "City Council District No. 5",
     "category": "Local",
-    "subcategory": "Bellevue",
-    "sorting": 33
+    "subcategory": "Bellevue"
   },
   {
     "code": "bellevue-council-7",
     "name": "City Council District No. 7",
     "category": "Local",
-    "subcategory": "Bellevue",
-    "sorting": 34
+    "subcategory": "Bellevue"
   },
   {
     "code": "snohomish-exec",
     "sosRaceID": 10986,
     "name": "Executive",
     "category": "Local",
-    "subcategory": "Snohomish County",
-    "sorting": 35
+    "subcategory": "Snohomish County"
   },
   {
     "code": "seattle-school-director-1",
     "name": "School Board District No. 1",
-    "category": "Seattle",
-    "sorting": 36
+    "category": "Seattle"
   },
   {
     "code": "seattle-school-director-2",
     "name": "School Board District No. 2",
-    "category": "Seattle",
-    "sorting": 37
+    "category": "Seattle"
   },
   {
     "code": "seattle-school-director-3",
     "name": "School Board District No. 3",
-    "category": "Seattle",
-    "sorting": 38
+    "category": "Seattle"
   },
   {
     "code": "seattle-school-director-6",
     "name": "School Board District No. 6",
-    "category": "Seattle",
-    "sorting": 39
+    "category": "Seattle"
   },
   {
     "code": "snohomish-transit",
@@ -284,32 +245,28 @@
     "name": "Proposition 1",
     "description": "Sales-tax increase to boost Community Transit bus service",
     "category": "Local",
-    "subcategory": "Snohomish County",
-    "sorting": 40
+    "subcategory": "Snohomish County"
   },
   {
     "code": "measure-122",
     "name": "Initiative Measure No. 122",
     "description": "Public funding for election campaigns",
     "category": "Seattle",
-    "featured": 2,
-    "sorting": 42
+    "featured": 2
   },
   {
     "code": "seattle-prop-1",
     "name": "Seattle Proposition 1",
     "description": "Property-tax increase to fund various transportation and infrastructure improvements",
     "category": "Seattle",
-    "featured": 1,
-    "sorting": 43
+    "featured": 1
   },
   {
     "sosRaceID": 111989,
     "name": "Fircrest Proposition 1",
     "description": "Allowing the sale of liquor by the glass",
     "category": "Local",
-    "subcategory": "Pierce County",
-    "sorting": 44
+    "subcategory": "Pierce County"
   },
   {
     "code": "algona-council-3",

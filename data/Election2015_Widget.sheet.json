@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "race": "seattle-prop-1",
+    "group": "Seattle",
+    "rename": "Prop. No. 1",
+    "description": "Move Seattle"
+  },
+  {
+    "race": "measure-122",
+    "group": "Seattle",
+    "description": "Public funding for election campaigns"
+  },
+  {
+    "race": "seattle-council-3",
+    "group": "Seattle"
+  },
+  {
+    "race": "king-council-6",
+    "group": "Local"
+  },
+  {
+    "race": "king-prop-1",
+    "group": "Local",
+    "rename": "Prop. No. 1",
+    "description": "Tax levi for health and education"
+  },
+  {
+    "race": "measure-1366",
+    "group": "Local",
+    "description": "2/3 vote for tax hikes"
+  }
+]
