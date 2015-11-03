@@ -9,10 +9,11 @@
 @import "flexbox";
 
 .election-widget {
-  max-width: 630px;
+  max-width: 960px;
   font-family: @df-sans;
   font-size: 14px;
   padding: 8px;
+  margin: auto;
 }
 
 .group {
@@ -60,11 +61,20 @@
   }
 
   .races {
+    .display-flex;
+
+    @media @tablet {
+      display: block;
+    }
 
     .race {
       padding: 16px 0;
       border-bottom: 1px dotted @df-light-gray;
-      .display-flex();
+      .flex(0 0 33%);
+
+      @media @tablet {
+        .display-flex();
+      }
 
       @media @mobile {
         display: block;
