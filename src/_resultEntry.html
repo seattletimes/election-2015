@@ -22,6 +22,18 @@ var synonyms = {
         src="assets/congress.svg"
         data-district="<%= race.name.replace(/^.*?district\s+/i, "") %>"></svg-map>
     </span>
+  <% } else if (cat == "Legislative") { %>
+    <span class="map-icon">Map
+      <svg-map 
+        class="state district" <% 
+        var district = race.name.match(/district (\d+)/i)[1] * 1;
+        if ([1,11,21,23,25,26,27,28,29,30,32,33,34,36,37,38,41,43,44,45,46,47,48].indexOf(district) > -1) { %>
+        src="assets/zoomed.svg"
+        <% } else { %>
+        src="assets/legislativedists.svg"
+        <% } %>
+        data-district="<%= district %>"></svg>
+    </span>
   <% } %>
   <% if (race.url) { %>
     <span class="related-story"><a href="<%= race.url %>"><!-- <i class="fa fa-external-link-square"></i> --> Read story</a></span>

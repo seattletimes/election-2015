@@ -20,10 +20,12 @@
         <div class="races">
           <% group.forEach(function(race) { %>
           <div class="race">
-            <h2><%= race.name %></h2>
-            <% if (race.description) { %>
-            <p class="description"><%= race.description %></p>
-            <% } %>
+            <div class="meta">
+              <h2><%= race.name %></h2>
+              <% if (race.description) { %>
+              <p class="description"><%= race.description %></p>
+              <% } %>
+            </div>
             <ul class="results">
             <% race.results.forEach(function(result) { %>
               <li> 
