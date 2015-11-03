@@ -42,7 +42,7 @@ var synonyms = {
   <% if (race.description) { %><p class="description"><%= race.description %><% } %>
   <ul class="results">
   <% race.results.forEach(function(result, i) { %>
-    <li> 
+    <li>
       <div class="candidate">
         <%= result.incumbent ? "*" : "" %>
         <%= result.candidate %>

@@ -29,6 +29,9 @@
             <ul class="results">
             <% race.results.forEach(function(result) { %>
               <li> 
+                <% if (race.called && race.called == result.candidate) { %>
+                <span class="checkmark">&#10004;</span>
+                <% } %>
                 <span class="name"><%= result.candidate %></span> - 
                 <%= result.votes %> (<%= result.percent %>%)
             <% }) %>

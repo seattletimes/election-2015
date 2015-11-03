@@ -136,7 +136,8 @@ module.exports = function(grunt) {
           race: row.race,
           name: row.rename || original.name,
           description: row.description || original.description,
-          group: row.group
+          group: row.group,
+          called: row.called
         };
       }).reduce(function(o, row) {
         if (!o[row.group]) o[row.group] = [];
