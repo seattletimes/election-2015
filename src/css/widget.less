@@ -8,10 +8,14 @@
 @import "seattletimes";
 @import "flexbox";
 
+.election-widget {
+  max-width: 960px;
+  font-family: @df-sans;
+  font-size: 14px;
+}
+
 .group {
   display: none;
-  font-size: 14px;
-  font-family: @df-sans;
 
   &.show {
     display: block;
@@ -26,6 +30,11 @@
       cursor: pointer;
       position: absolute;
       top: 0px;
+      padding: 0 12px;
+
+      &:hover {
+        background: @df-light-gray;
+      }
 
       &.back {
         left: 10px;
@@ -82,5 +91,11 @@
         font-weight: bold;
       }
     }
+  }
+}
+
+.links {
+  .full-results {
+    float: right;
   }
 }

@@ -11,10 +11,10 @@ var onGo = function() {
   var next;
   if (forward) {
     next = current.nextElementSibling;
-    if (!next) next = document.querySelector(".group");
+    if (!next || !next.classList.contains("group")) next = document.querySelector(".group");
   } else {
     next = current.previousElementSibling;
-    if (!next) next = document.querySelector(".group:last-child");
+    if (!next || !next.classList.contains("group")) next = document.querySelector(".group:last-child");
   }
   current.classList.remove("show");
   next.classList.add("show");
