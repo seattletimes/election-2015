@@ -12,17 +12,25 @@
     <responsive-child class="election-widget">
       <% for (var g in election.widget) { var group = election.widget[g] %>
       <section class="group">
-        <h1><%= g %></h1>
+        <header>
+          <a class="go back">&laquo;</a>
+          <h1><%= g %></h1>
+          <a class="go forward">&raquo;</a>
+        </header>
         <div class="races">
           <% group.forEach(function(race) { %>
           <div class="race">
             <h2><%= race.name %></h2>
+            <% if (race.description) { %>
+            <p class="description"><%= race.description %></p>
+            <% } %>
             <ul class="results">
             <% race.results.forEach(function(result) { %>
               <li> 
                 <span class="name"><%= result.candidate %></span> - 
                 <%= result.votes %> (<%= result.percent %>%)
             <% }) %>
+            </ul>
           </div>
           <% }) %>
         </div>

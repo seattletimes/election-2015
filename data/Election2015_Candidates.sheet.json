@@ -81,7 +81,8 @@
     "race": "legislative-30",
     "sosID": 37371,
     "name": "Carol Gregory",
-    "party": "D"
+    "party": "D",
+    "incumbent": "x"
   },
   {
     "race": "appeals-113",
@@ -118,7 +119,8 @@
   },
   {
     "race": "seattle-council-2",
-    "name": "Bruce Harrell"
+    "name": "Bruce Harrell",
+    "incumbent": "x"
   },
   {
     "race": "seattle-council-2",
@@ -151,7 +153,8 @@
   },
   {
     "race": "seattle-council-6",
-    "name": "Mike O'Brien"
+    "name": "Mike O'Brien",
+    "incumbent": "x"
   },
   {
     "race": "seattle-council-6",
@@ -159,7 +162,8 @@
   },
   {
     "race": "seattle-council-7",
-    "name": "Sally Bagshaw"
+    "name": "Sally Bagshaw",
+    "incumbent": "x"
   },
   {
     "race": "seattle-council-7",
@@ -167,7 +171,8 @@
   },
   {
     "race": "seattle-council-8",
-    "name": "Tim Burgess"
+    "name": "Tim Burgess",
+    "incumbent": "x"
   },
   {
     "race": "seattle-council-8",
@@ -219,7 +224,8 @@
   {
     "race": "snohomish-exec",
     "sosID": 37398,
-    "name": "John Lovick"
+    "name": "John Lovick",
+    "incumbent": "x"
   },
   {
     "race": "prop-alcohol",
@@ -245,7 +251,8 @@
   },
   {
     "race": "king-council-6",
-    "name": "Jane Hague"
+    "name": "Jane Hague",
+    "incumbent": "x"
   },
   {
     "race": "snohomish-transit",
@@ -287,7 +294,8 @@
   },
   {
     "sosID": 38845,
-    "name": "Roy Runyon"
+    "name": "Roy Runyon",
+    "incumbent": "x"
   },
   {
     "sosID": 111658,
@@ -303,7 +311,8 @@
   },
   {
     "sosID": 39013,
-    "name": "Tim Matthes"
+    "name": "Tim Matthes",
+    "incumbent": "x"
   },
   {
     "sosID": 39967,
@@ -319,11 +328,13 @@
   },
   {
     "sosID": 36962,
-    "name": "John W Clauson"
+    "name": "John W Clauson",
+    "incumbent": "x"
   },
   {
     "sosID": 37292,
-    "name": "Cindy Lucarelli"
+    "name": "Cindy Lucarelli",
+    "incumbent": "x"
   },
   {
     "sosID": 39908,
@@ -331,7 +342,8 @@
   },
   {
     "sosID": 37456,
-    "name": "Kenneth Thomas"
+    "name": "Kenneth Thomas",
+    "incumbent": "x"
   },
   {
     "sosID": 39307,
@@ -343,7 +355,8 @@
   },
   {
     "sosID": 37205,
-    "name": "Jeffrey R. McGinty"
+    "name": "Jeffrey R. McGinty",
+    "incumbent": "x"
   },
   {
     "sosID": 38322,
@@ -371,7 +384,8 @@
   },
   {
     "sosID": 38055,
-    "name": "Tim Kinkead"
+    "name": "Tim Kinkead",
+    "incumbent": "x"
   },
   {
     "sosID": 40083,
@@ -383,7 +397,8 @@
   },
   {
     "sosID": 38995,
-    "name": "Scott Henden"
+    "name": "Scott Henden",
+    "incumbent": "x"
   },
   {
     "sosID": 37730,
@@ -391,7 +406,8 @@
   },
   {
     "sosID": 37780,
-    "name": "Bill Webb"
+    "name": "Bill Webb",
+    "incumbent": "x"
   },
   {
     "sosID": 38199,
@@ -399,11 +415,13 @@
   },
   {
     "sosID": 39020,
-    "name": "Keith W. Garton"
+    "name": "Keith W. Garton",
+    "incumbent": "x"
   },
   {
     "sosID": 38339,
-    "name": "Laura Boad"
+    "name": "Laura Boad",
+    "incumbent": "x"
   },
   {
     "sosID": 38174,
@@ -415,7 +433,8 @@
   },
   {
     "sosID": 39148,
-    "name": "John Campbell"
+    "name": "John Campbell",
+    "incumbent": "x"
   },
   {
     "sosID": 111662,
@@ -483,7 +502,8 @@
   },
   {
     "sosID": 37470,
-    "name": "Joshua Penner"
+    "name": "Joshua Penner",
+    "incumbent": "x"
   },
   {
     "sosID": 38101,
@@ -635,7 +655,8 @@
   },
   {
     "sosID": 36871,
-    "name": "Don Johnson"
+    "name": "Don Johnson",
+    "incumbent": "x"
   },
   {
     "sosID": 40321,
@@ -643,7 +664,8 @@
   },
   {
     "sosID": 37339,
-    "name": "Clare Petrich"
+    "name": "Clare Petrich",
+    "incumbent": "x"
   },
   {
     "sosID": 36968,
@@ -667,7 +689,8 @@
   },
   {
     "sosID": 37484,
-    "name": "Bryan Yambe"
+    "name": "Bryan Yambe",
+    "incumbent": "x"
   },
   {
     "sosID": 40164,
@@ -675,7 +698,8 @@
   },
   {
     "sosID": 39696,
-    "name": "Barry D. Johnson"
+    "name": "Barry D. Johnson",
+    "incumbent": "x"
   },
   {
     "sosID": 39916,
@@ -683,7 +707,8 @@
   },
   {
     "sosID": 37708,
-    "name": "Ken Malich"
+    "name": "Ken Malich",
+    "incumbent": "x"
   },
   {
     "sosID": 37987,
@@ -691,7 +716,8 @@
   },
   {
     "sosID": 36941,
-    "name": "Michael Perrow"
+    "name": "Michael Perrow",
+    "incumbent": "x"
   },
   {
     "sosID": 36957,
@@ -699,7 +725,8 @@
   },
   {
     "sosID": 36891,
-    "name": "Marie Barth"
+    "name": "Marie Barth",
+    "incumbent": "x"
   },
   {
     "sosID": 39600,
@@ -711,7 +738,8 @@
   },
   {
     "sosID": 38601,
-    "name": "Jim Manley"
+    "name": "Jim Manley",
+    "incumbent": "x"
   },
   {
     "sosID": 112050,
@@ -739,7 +767,8 @@
   },
   {
     "sosID": 37967,
-    "name": "Guy S. (Sam) Colorossi"
+    "name": "Guy S. (Sam) Colorossi",
+    "incumbent": "x"
   },
   {
     "sosID": 39870,
@@ -747,7 +776,8 @@
   },
   {
     "sosID": 36933,
-    "name": "Joshua Penner"
+    "name": "Joshua Penner",
+    "incumbent": "x"
   },
   {
     "sosID": 39057,
@@ -755,7 +785,8 @@
   },
   {
     "sosID": 38310,
-    "name": "Leanne Guier"
+    "name": "Leanne Guier",
+    "incumbent": "x"
   },
   {
     "sosID": 37751,
@@ -767,7 +798,8 @@
   },
   {
     "sosID": 38311,
-    "name": "Clinton Steiger"
+    "name": "Clinton Steiger",
+    "incumbent": "x"
   },
   {
     "sosID": 39827,
@@ -787,7 +819,8 @@
   },
   {
     "sosID": 38097,
-    "name": "John Palmer"
+    "name": "John Palmer",
+    "incumbent": "x"
   },
   {
     "sosID": 39176,
@@ -799,7 +832,8 @@
   },
   {
     "sosID": 39135,
-    "name": "Thomas Jay (Tom) Swanson"
+    "name": "Thomas Jay (Tom) Swanson",
+    "incumbent": "x"
   },
   {
     "sosID": 37432,
@@ -807,7 +841,8 @@
   },
   {
     "sosID": 38893,
-    "name": "Steven Vermillion"
+    "name": "Steven Vermillion",
+    "incumbent": "x"
   },
   {
     "sosID": 111994,
@@ -859,7 +894,8 @@
   },
   {
     "sosID": 37814,
-    "name": "Anders Ibsen"
+    "name": "Anders Ibsen",
+    "incumbent": "x"
   },
   {
     "sosID": 40155,
@@ -875,7 +911,8 @@
   },
   {
     "sosID": 36996,
-    "name": "Chris Nye"
+    "name": "Chris Nye",
+    "incumbent": "x"
   },
   {
     "sosID": 40028,
@@ -891,7 +928,8 @@
   },
   {
     "sosID": 37273,
-    "name": "Dane Looker"
+    "name": "Dane Looker",
+    "incumbent": "x"
   },
   {
     "sosID": 38679,
@@ -899,7 +937,8 @@
   },
   {
     "sosID": 37410,
-    "name": "Pat Jenkins"
+    "name": "Pat Jenkins",
+    "incumbent": "x"
   },
   {
     "sosID": 38042,
@@ -907,7 +946,8 @@
   },
   {
     "sosID": 37038,
-    "name": "Catherine Ushka"
+    "name": "Catherine Ushka",
+    "incumbent": "x"
   },
   {
     "sosID": 40026,
@@ -923,7 +963,8 @@
   },
   {
     "sosID": 36951,
-    "name": "Mary Lu Dickinson"
+    "name": "Mary Lu Dickinson",
+    "incumbent": "x"
   },
   {
     "sosID": 40341,
@@ -931,7 +972,8 @@
   },
   {
     "sosID": 36991,
-    "name": "Rick Maloney"
+    "name": "Rick Maloney",
+    "incumbent": "x"
   },
   {
     "sosID": 40203,
@@ -939,7 +981,8 @@
   },
   {
     "sosID": 38009,
-    "name": "Robert Scheidt"
+    "name": "Robert Scheidt",
+    "incumbent": "x"
   },
   {
     "sosID": 38067,
@@ -947,7 +990,8 @@
   },
   {
     "sosID": 37022,
-    "name": "Larry Dahl"
+    "name": "Larry Dahl",
+    "incumbent": "x"
   },
   {
     "sosID": 40086,
@@ -955,7 +999,8 @@
   },
   {
     "sosID": 37881,
-    "name": "Brian Sullivan"
+    "name": "Brian Sullivan",
+    "incumbent": "x"
   },
   {
     "sosID": 37028,
@@ -1219,7 +1264,8 @@
   },
   {
     "sosID": 37043,
-    "name": "Barbara Tolbert"
+    "name": "Barbara Tolbert",
+    "incumbent": "x"
   },
   {
     "sosID": 37532,
@@ -1227,7 +1273,8 @@
   },
   {
     "sosID": 39076,
-    "name": "Randy Tendering"
+    "name": "Randy Tendering",
+    "incumbent": "x"
   },
   {
     "sosID": 39988,
@@ -1235,7 +1282,8 @@
   },
   {
     "sosID": 37193,
-    "name": "Marilyn Oertle"
+    "name": "Marilyn Oertle",
+    "incumbent": "x"
   },
   {
     "sosID": 38061,
@@ -1247,7 +1295,8 @@
   },
   {
     "sosID": 37874,
-    "name": "Andy Rheaume"
+    "name": "Andy Rheaume",
+    "incumbent": "x"
   },
   {
     "sosID": 38719,
@@ -1275,7 +1324,8 @@
   },
   {
     "sosID": 37085,
-    "name": "Kerin Steele"
+    "name": "Kerin Steele",
+    "incumbent": "x"
   },
   {
     "sosID": 39066,
@@ -1283,7 +1333,8 @@
   },
   {
     "sosID": 37935,
-    "name": "Dale Kaemingk"
+    "name": "Dale Kaemingk",
+    "incumbent": "x"
   },
   {
     "sosID": 38026,
@@ -1291,7 +1342,8 @@
   },
   {
     "sosID": 37107,
-    "name": "John M. Joplin"
+    "name": "John M. Joplin",
+    "incumbent": "x"
   },
   {
     "sosID": 112006,
@@ -1307,7 +1359,8 @@
   },
   {
     "sosID": 37925,
-    "name": "Mike Nelson"
+    "name": "Mike Nelson",
+    "incumbent": "x"
   },
   {
     "sosID": 37706,
@@ -1319,7 +1372,8 @@
   },
   {
     "sosID": 39189,
-    "name": "Lora Petso"
+    "name": "Lora Petso",
+    "incumbent": "x"
   },
   {
     "sosID": 37467,
@@ -1331,11 +1385,13 @@
   },
   {
     "sosID": 39365,
-    "name": "Ron Gipson"
+    "name": "Ron Gipson",
+    "incumbent": "x"
   },
   {
     "sosID": 37189,
-    "name": "Scott Bader"
+    "name": "Scott Bader",
+    "incumbent": "x"
   },
   {
     "sosID": 39340,
@@ -1347,7 +1403,8 @@
   },
   {
     "sosID": 37594,
-    "name": "Brenda Stonecipher"
+    "name": "Brenda Stonecipher",
+    "incumbent": "x"
   },
   {
     "sosID": 112010,
@@ -1375,7 +1432,8 @@
   },
   {
     "sosID": 37342,
-    "name": "Loren Simmonds"
+    "name": "Loren Simmonds",
+    "incumbent": "x"
   },
   {
     "sosID": 37051,
@@ -1387,7 +1445,8 @@
   },
   {
     "sosID": 39060,
-    "name": "Benjamin Goodwin"
+    "name": "Benjamin Goodwin",
+    "incumbent": "x"
   },
   {
     "sosID": 37064,
@@ -1395,11 +1454,13 @@
   },
   {
     "sosID": 37359,
-    "name": "Sid Roberts"
+    "name": "Sid Roberts",
+    "incumbent": "x"
   },
   {
     "sosID": 37616,
-    "name": "Van AuBuchon"
+    "name": "Van AuBuchon",
+    "incumbent": "x"
   },
   {
     "sosID": 37490,
@@ -1411,7 +1472,8 @@
   },
   {
     "sosID": 37264,
-    "name": "Rob Toyer"
+    "name": "Rob Toyer",
+    "incumbent": "x"
   },
   {
     "sosID": 112014,
@@ -1423,7 +1485,8 @@
   },
   {
     "sosID": 37922,
-    "name": "Vincent J. Cavaleri"
+    "name": "Vincent J. Cavaleri",
+    "incumbent": "x"
   },
   {
     "sosID": 39001,
@@ -1431,7 +1494,8 @@
   },
   {
     "sosID": 37826,
-    "name": "Mark Bond"
+    "name": "Mark Bond",
+    "incumbent": "x"
   },
   {
     "sosID": 39978,
@@ -1443,11 +1507,13 @@
   },
   {
     "sosID": 37031,
-    "name": "Jim Kamp"
+    "name": "Jim Kamp",
+    "incumbent": "x"
   },
   {
     "sosID": 37039,
-    "name": "Jason Gamble"
+    "name": "Jason Gamble",
+    "incumbent": "x"
   },
   {
     "sosID": 40269,
@@ -1467,11 +1533,13 @@
   },
   {
     "sosID": 37600,
-    "name": "Laura Sonmore"
+    "name": "Laura Sonmore",
+    "incumbent": "x"
   },
   {
     "sosID": 37241,
-    "name": "Steve Schmalz"
+    "name": "Steve Schmalz",
+    "incumbent": "x"
   },
   {
     "sosID": 39816,
@@ -1495,7 +1563,8 @@
   },
   {
     "sosID": 37321,
-    "name": "Christine Cook"
+    "name": "Christine Cook",
+    "incumbent": "x"
   },
   {
     "sosID": 39842,
@@ -1507,7 +1576,8 @@
   },
   {
     "sosID": 37649,
-    "name": "Lynn Schilaty"
+    "name": "Lynn Schilaty",
+    "incumbent": "x"
   },
   {
     "sosID": 40376,
@@ -1515,7 +1585,8 @@
   },
   {
     "sosID": 37041,
-    "name": "Karen W. Guzak"
+    "name": "Karen W. Guzak",
+    "incumbent": "x"
   },
   {
     "sosID": 37330,
@@ -1523,7 +1594,8 @@
   },
   {
     "sosID": 37027,
-    "name": "Paul J. Kaftanski"
+    "name": "Paul J. Kaftanski",
+    "incumbent": "x"
   },
   {
     "sosID": 112018,
@@ -1535,7 +1607,8 @@
   },
   {
     "sosID": 37206,
-    "name": "Carolyn Eslick"
+    "name": "Carolyn Eslick",
+    "incumbent": "x"
   },
   {
     "sosID": 40190,
@@ -1555,11 +1628,13 @@
   },
   {
     "sosID": 38699,
-    "name": "Joe Neigel"
+    "name": "Joe Neigel",
+    "incumbent": "x"
   },
   {
     "sosID": 39099,
-    "name": "Jeffrey Beeler"
+    "name": "Jeffrey Beeler",
+    "incumbent": "x"
   },
   {
     "sosID": 40182,
@@ -1567,7 +1642,8 @@
   },
   {
     "sosID": 39136,
-    "name": "Daniel Rankin"
+    "name": "Daniel Rankin",
+    "incumbent": "x"
   },
   {
     "sosID": 39347,
@@ -1579,11 +1655,13 @@
   },
   {
     "sosID": 39575,
-    "name": "Bob Hubbard"
+    "name": "Bob Hubbard",
+    "incumbent": "x"
   },
   {
     "sosID": 39809,
-    "name": "Blair Corson"
+    "name": "Blair Corson",
+    "incumbent": "x"
   },
   {
     "sosID": 40091,
@@ -1595,7 +1673,8 @@
   },
   {
     "sosID": 40045,
-    "name": "Alexander Gibb"
+    "name": "Alexander Gibb",
+    "incumbent": "x"
   },
   {
     "sosID": 40275,
@@ -1615,7 +1694,8 @@
   },
   {
     "sosID": 37076,
-    "name": "Gary Noble"
+    "name": "Gary Noble",
+    "incumbent": "x"
   },
   {
     "sosID": 40276,
@@ -1627,11 +1707,13 @@
   },
   {
     "sosID": 37231,
-    "name": "Caroline Mason"
+    "name": "Caroline Mason",
+    "incumbent": "x"
   },
   {
     "sosID": 37159,
-    "name": "Traci Mitchell"
+    "name": "Traci Mitchell",
+    "incumbent": "x"
   },
   {
     "sosID": 39101,
@@ -1643,7 +1725,8 @@
   },
   {
     "sosID": 38052,
-    "name": "Jahna Smith"
+    "name": "Jahna Smith",
+    "incumbent": "x"
   },
   {
     "sosID": 38443,
@@ -1651,7 +1734,8 @@
   },
   {
     "sosID": 37747,
-    "name": "Ron Johnson"
+    "name": "Ron Johnson",
+    "incumbent": "x"
   },
   {
     "sosID": 39510,
@@ -1675,11 +1759,13 @@
   },
   {
     "sosID": 37354,
-    "name": "Bob Meador"
+    "name": "Bob Meador",
+    "incumbent": "x"
   },
   {
     "sosID": 37429,
-    "name": "Richard Schrock"
+    "name": "Richard Schrock",
+    "incumbent": "x"
   },
   {
     "sosID": 37102,
@@ -1691,11 +1777,13 @@
   },
   {
     "sosID": 37376,
-    "name": "Rick Edwards"
+    "name": "Rick Edwards",
+    "incumbent": "x"
   },
   {
     "sosID": 38607,
-    "name": "Jeff Schaub"
+    "name": "Jeff Schaub",
+    "incumbent": "x"
   },
   {
     "sosID": 37928,
@@ -1707,7 +1795,8 @@
   },
   {
     "sosID": 37956,
-    "name": "Dan Britton"
+    "name": "Dan Britton",
+    "incumbent": "x"
   },
   {
     "sosID": 112022,
@@ -1719,7 +1808,8 @@
   },
   {
     "sosID": 37839,
-    "name": "Jim Steinruck"
+    "name": "Jim Steinruck",
+    "incumbent": "x"
   },
   {
     "sosID": 38196,
@@ -1788,5 +1878,869 @@
   {
     "sosID": 112107,
     "name": "No"
+  },
+  {
+    "race": "king-assessor",
+    "name": "John Wilson"
+  },
+  {
+    "race": "king-assessor",
+    "name": "Lloyd Hara",
+    "incumbent": "x"
+  },
+  {
+    "race": "king-elections",
+    "name": "Julie Wise"
+  },
+  {
+    "race": "king-elections",
+    "name": "Zack Hudgins"
+  },
+  {
+    "race": "port-2",
+    "name": "Courtney Gregoire",
+    "incumbent": "x"
+  },
+  {
+    "race": "port-2",
+    "name": "Goodspaceguy"
+  },
+  {
+    "race": "port-5",
+    "name": "Fred Felleman"
+  },
+  {
+    "race": "port-5",
+    "name": "Marion Yoshino"
+  },
+  {
+    "race": "algona-council-3",
+    "name": "Ed Britz",
+    "incumbent": "x"
+  },
+  {
+    "race": "algona-council-3",
+    "name": "Troy A. Linnell"
+  },
+  {
+    "race": "bellevue-council-3",
+    "name": "Don Davidson"
+  },
+  {
+    "race": "bellevue-council-3",
+    "name": "John Chelminiak",
+    "incumbent": "x"
+  },
+  {
+    "race": "bellevue-council-5",
+    "name": "Michelle Hilhorst"
+  },
+  {
+    "race": "bellevue-council-5",
+    "name": "Vandana Slatter"
+  },
+  {
+    "race": "bellevue-council-7",
+    "name": "Jennifer Robertson",
+    "incumbent": "x"
+  },
+  {
+    "race": "bellevue-council-7",
+    "name": "Lyndon Heywood"
+  },
+  {
+    "race": "black-diamond-council-4",
+    "name": "Brian Weber"
+  },
+  {
+    "race": "black-diamond-council-4",
+    "name": "Craig Goodwin",
+    "incumbent": "x"
+  },
+  {
+    "race": "black-diamond-council-5",
+    "name": "Pat Pepper"
+  },
+  {
+    "race": "black-diamond-council-5",
+    "name": "Ron Taylor",
+    "incumbent": "x"
+  },
+  {
+    "race": "bothell-council-2",
+    "name": "Andy Rheaume",
+    "incumbent": "x"
+  },
+  {
+    "race": "bothell-council-2",
+    "name": "Roz Gorc"
+  },
+  {
+    "race": "bothell-council-4",
+    "name": "James G. McNeal"
+  },
+  {
+    "race": "bothell-council-4",
+    "name": "Tim Ottersburg"
+  },
+  {
+    "race": "bothell-council-6",
+    "name": "Davina Duerr"
+  },
+  {
+    "race": "bothell-council-6",
+    "name": "John Lee"
+  },
+  {
+    "race": "burien-council-2",
+    "name": "Bob Edgar",
+    "incumbent": "x"
+  },
+  {
+    "race": "burien-council-2",
+    "name": "Holli Giffin"
+  },
+  {
+    "race": "burien-council-4",
+    "name": "Jon Scherer"
+  },
+  {
+    "race": "burien-council-4",
+    "name": "Lucy Krakowiak",
+    "incumbent": "x"
+  },
+  {
+    "race": "burien-council-6",
+    "name": "Austin Bell"
+  },
+  {
+    "race": "burien-council-6",
+    "name": "Darla Green"
+  },
+  {
+    "race": "carnation-council-1",
+    "name": "Fred Bereswill",
+    "incumbent": "x"
+  },
+  {
+    "race": "carnation-council-1",
+    "name": "Steve McFall"
+  },
+  {
+    "race": "carnation-council-3",
+    "name": "Jim Ribail"
+  },
+  {
+    "race": "carnation-council-3",
+    "name": "Lee Grumman",
+    "incumbent": "x"
+  },
+  {
+    "race": "carnation-council-5",
+    "name": "Dustin Green"
+  },
+  {
+    "race": "carnation-council-5",
+    "name": "Ernest Fix"
+  },
+  {
+    "race": "clyde-hill-council-2",
+    "name": "Kim Muromoto"
+  },
+  {
+    "race": "clyde-hill-council-2",
+    "name": "Scott Moore"
+  },
+  {
+    "race": "des-moines-council-2",
+    "name": "Alexander Szabo"
+  },
+  {
+    "race": "des-moines-council-2",
+    "name": "Luisa Bangs",
+    "incumbent": "x"
+  },
+  {
+    "race": "duvall-council-2",
+    "name": "Leroy Collinwood",
+    "incumbent": "x"
+  },
+  {
+    "race": "duvall-council-2",
+    "name": "Veronika Williams"
+  },
+  {
+    "race": "enumclaw-council-2",
+    "name": "Darrel M. Dickson",
+    "incumbent": "x"
+  },
+  {
+    "race": "enumclaw-council-2",
+    "name": "Kimberly Lauk"
+  },
+  {
+    "race": "federal-way-council-1",
+    "name": "Lydia Assefa-Dawson",
+    "incumbent": "x"
+  },
+  {
+    "race": "federal-way-council-1",
+    "name": "Mark Greene"
+  },
+  {
+    "race": "federal-way-council-5",
+    "name": "Julie L. Hiller"
+  },
+  {
+    "race": "federal-way-council-5",
+    "name": "Mark Koppang"
+  },
+  {
+    "race": "federal-way-council-7",
+    "name": "Dini Duclos",
+    "incumbent": "x"
+  },
+  {
+    "race": "federal-way-council-7",
+    "name": "P.K. Thumbi"
+  },
+  {
+    "race": "lake-forest-park-council-4",
+    "name": "David A. Hammond"
+  },
+  {
+    "race": "lake-forest-park-council-4",
+    "name": "Phillippa Kassover"
+  },
+  {
+    "race": "issaquah-council-4",
+    "name": "Bill Ramos"
+  },
+  {
+    "race": "issaquah-council-4",
+    "name": "Tim Flood"
+  },
+  {
+    "race": "issaquah-council-6",
+    "name": "Christopher Reh"
+  },
+  {
+    "race": "issaquah-council-6",
+    "name": "Paul Winterstein",
+    "incumbent": "x"
+  },
+  {
+    "race": "kirkland-council-2",
+    "name": "Jason Chinchilla"
+  },
+  {
+    "race": "kirkland-council-2",
+    "name": "Shelley Kloba",
+    "incumbent": "x"
+  },
+  {
+    "race": "kirkland-council-6",
+    "name": "Dave Asher",
+    "incumbent": "x"
+  },
+  {
+    "race": "kirkland-council-6",
+    "name": "Martin Morgan"
+  },
+  {
+    "race": "kenmore-council-5",
+    "name": "Bob Black"
+  },
+  {
+    "race": "kenmore-council-5",
+    "name": "David Baker",
+    "incumbent": "x"
+  },
+  {
+    "race": "kent-council-1",
+    "name": "Hira Singh Bhullar"
+  },
+  {
+    "race": "kent-council-1",
+    "name": "Tina Budell"
+  },
+  {
+    "race": "kent-council-6",
+    "name": "Brenda Fincher",
+    "incumbent": "x"
+  },
+  {
+    "race": "kent-council-6",
+    "name": "Toni Troutner"
+  },
+  {
+    "race": "medina-council-4",
+    "name": "Cynthia F. Adkins"
+  },
+  {
+    "race": "medina-council-4",
+    "name": "Jay D. Decker",
+    "incumbent": "x"
+  },
+  {
+    "race": "medina-council-6",
+    "name": "Shawn Schubring"
+  },
+  {
+    "race": "medina-council-6",
+    "name": "Sheree Wen"
+  },
+  {
+    "race": "mercer-island-council-1",
+    "name": "Dave Wisenteiner"
+  },
+  {
+    "race": "mercer-island-council-1",
+    "name": "Jane Meyer Brahm",
+    "incumbent": "x"
+  },
+  {
+    "race": "mercer-island-council-3",
+    "name": "Salim Nice"
+  },
+  {
+    "race": "mercer-island-council-3",
+    "name": "Wendy Weiker"
+  },
+  {
+    "race": "mercer-island-council-4",
+    "name": "Carl Silverberg"
+  },
+  {
+    "race": "mercer-island-council-4",
+    "name": "Jeff Sanderson"
+  },
+  {
+    "race": "mercer-island-council-5",
+    "name": "Bruce Bassett",
+    "incumbent": "x"
+  },
+  {
+    "race": "mercer-island-council-5",
+    "name": "Thomas Acker"
+  },
+  {
+    "race": "mercer-island-council-7",
+    "name": "Debbie Bertlin",
+    "incumbent": "x"
+  },
+  {
+    "race": "mercer-island-council-7",
+    "name": "Traci Granbois"
+  },
+  {
+    "race": "milton-council-6",
+    "name": "Jim Manley",
+    "incumbent": "x"
+  },
+  {
+    "race": "milton-council-6",
+    "name": "Mary Tompkins"
+  },
+  {
+    "race": "maple-valley-council-3",
+    "name": "Kathi Turner"
+  },
+  {
+    "race": "maple-valley-council-3",
+    "name": "Les Burberry"
+  },
+  {
+    "race": "maple-valley-council-6",
+    "name": "Cathy Hilde"
+  },
+  {
+    "race": "maple-valley-council-6",
+    "name": "Dana Parnello",
+    "incumbent": "x"
+  },
+  {
+    "race": "north-bend-council-3",
+    "name": "Dee Wayne Williamson",
+    "incumbent": "x"
+  },
+  {
+    "race": "north-bend-council-3",
+    "name": "Trevor Kostanich"
+  },
+  {
+    "race": "north-bend-council-5",
+    "name": "Brenden Elwood"
+  },
+  {
+    "race": "north-bend-council-5",
+    "name": "David Cook",
+    "incumbent": "x"
+  },
+  {
+    "race": "north-bend-council-7",
+    "name": "Judy Bilanko"
+  },
+  {
+    "race": "north-bend-council-7",
+    "name": "Martin Volken"
+  },
+  {
+    "race": "normandy-park-council-7",
+    "name": "John L. Rankin"
+  },
+  {
+    "race": "normandy-park-council-7",
+    "name": "Shawn McEvoy",
+    "incumbent": "x"
+  },
+  {
+    "race": "newcastle-council-1",
+    "name": "Linda Newing"
+  },
+  {
+    "race": "newcastle-council-1",
+    "name": "Victoria Sandoval"
+  },
+  {
+    "race": "newcastle-council-3",
+    "name": "Allen Dauterman"
+  },
+  {
+    "race": "newcastle-council-3",
+    "name": "Rob Lemmon"
+  },
+  {
+    "race": "pacific-mayor",
+    "name": "Gary Nitschke"
+  },
+  {
+    "race": "pacific-mayor",
+    "name": "Leanne Guier",
+    "incumbent": "x"
+  },
+  {
+    "race": "pacific-council-3",
+    "name": "Brice Erickson"
+  },
+  {
+    "race": "pacific-council-3",
+    "name": "Clinton Steiger",
+    "incumbent": "x"
+  },
+  {
+    "race": "pacific-council-6",
+    "name": "David B. Storaasli"
+  },
+  {
+    "race": "pacific-council-6",
+    "name": "Don Thomson"
+  },
+  {
+    "race": "redmond-mayor",
+    "name": "John Marchione",
+    "incumbent": "x"
+  },
+  {
+    "race": "redmond-mayor",
+    "name": "Steve Fields"
+  },
+  {
+    "race": "renton-council-3",
+    "name": "Carol Ann Witschi"
+  },
+  {
+    "race": "renton-council-3",
+    "name": "Marcie Palmer",
+    "incumbent": "x"
+  },
+  {
+    "race": "renton-council-4",
+    "name": "Monique Taylor-Swan"
+  },
+  {
+    "race": "renton-council-4",
+    "name": "Ryan McIrvin"
+  },
+  {
+    "race": "sammamish-council-2",
+    "name": "Christie Malchow"
+  },
+  {
+    "race": "sammamish-council-2",
+    "name": "Mark Cross"
+  },
+  {
+    "race": "sammamish-council-4",
+    "name": "Hank Klein"
+  },
+  {
+    "race": "sammamish-council-4",
+    "name": "Ramiro Valderrama",
+    "incumbent": "x"
+  },
+  {
+    "race": "sammamish-council-6",
+    "name": "Tom Hornish"
+  },
+  {
+    "race": "sammamish-council-6",
+    "name": "Tom Vance",
+    "incumbent": "x"
+  },
+  {
+    "race": "shoreline-council-2",
+    "name": "Jessica Cafferty"
+  },
+  {
+    "race": "shoreline-council-2",
+    "name": "Keith Scully"
+  },
+  {
+    "race": "shoreline-council-6",
+    "name": "Jesse Salomon",
+    "incumbent": "x"
+  },
+  {
+    "race": "shoreline-council-6",
+    "name": "Lorn Richey"
+  },
+  {
+    "race": "snoqualmie-council-6",
+    "name": "Charles S. Peterson",
+    "incumbent": "x"
+  },
+  {
+    "race": "snoqualmie-council-6",
+    "name": "Joe Larson"
+  },
+  {
+    "race": "seatac-council-1",
+    "name": "Craig Baker"
+  },
+  {
+    "race": "seatac-council-1",
+    "name": "Rick Forschler"
+  },
+  {
+    "race": "seatac-council-3",
+    "name": "Peter Kwon"
+  },
+  {
+    "race": "seatac-council-3",
+    "name": "Sally Andrews"
+  },
+  {
+    "race": "seatac-council-5",
+    "name": "Dave Bush",
+    "incumbent": "x"
+  },
+  {
+    "race": "seatac-council-5",
+    "name": "Michael Siefkes"
+  },
+  {
+    "race": "seatac-council-7",
+    "name": "Erin A. Sitterley"
+  },
+  {
+    "race": "seatac-council-7",
+    "name": "Mia Su-Ling Gregerson",
+    "incumbent": "x"
+  },
+  {
+    "race": "tukwila-mayor",
+    "name": "Allan Ekberg"
+  },
+  {
+    "race": "tukwila-mayor",
+    "name": "De'Sean Quinn"
+  },
+  {
+    "race": "tukwila-council-6",
+    "name": "Charles Richard (Dick) Tyson"
+  },
+  {
+    "race": "tukwila-council-6",
+    "name": "Kate Kruller",
+    "incumbent": "x"
+  },
+  {
+    "race": "woodinville-council-6",
+    "name": "Al Taylor"
+  },
+  {
+    "race": "woodinville-council-6",
+    "name": "Deanna Arnold-Frady"
+  },
+  {
+    "race": "seattle-school-director-1",
+    "name": "Michael Christophersen"
+  },
+  {
+    "race": "seattle-school-director-1",
+    "name": "Scott S. Pinkham"
+  },
+  {
+    "race": "seattle-school-director-2",
+    "name": "Laura Obara Gramer"
+  },
+  {
+    "race": "seattle-school-director-2",
+    "name": "Rick Burke"
+  },
+  {
+    "race": "seattle-school-director-3",
+    "name": "Jill Geary"
+  },
+  {
+    "race": "seattle-school-director-3",
+    "name": "Lauren McGuire"
+  },
+  {
+    "race": "seattle-school-director-6",
+    "name": "Leslie Harris"
+  },
+  {
+    "race": "seattle-school-director-6",
+    "name": "Marty McLaren",
+    "incumbent": "x"
+  },
+  {
+    "race": "federal-way-school-director-2",
+    "name": "Angela Griffin"
+  },
+  {
+    "race": "federal-way-school-director-2",
+    "name": "Claire Wilson",
+    "incumbent": "x"
+  },
+  {
+    "race": "mercer-island-school-director-3",
+    "name": "Bill Hochberg"
+  },
+  {
+    "race": "mercer-island-school-director-3",
+    "name": "Tracy Drinkwater"
+  },
+  {
+    "race": "highline-school-director-3",
+    "name": "Joe Van"
+  },
+  {
+    "race": "highline-school-director-3",
+    "name": "Miles Partman"
+  },
+  {
+    "race": "highline-school-director-5",
+    "name": "John D. Burdine"
+  },
+  {
+    "race": "highline-school-director-5",
+    "name": "Michael D. Spear",
+    "incumbent": "x"
+  },
+  {
+    "race": "vashon-island-school-director-1",
+    "name": "Dan Chasan",
+    "incumbent": "x"
+  },
+  {
+    "race": "vashon-island-school-director-1",
+    "name": "John Oz Osborne"
+  },
+  {
+    "race": "vashon-island-school-director-3",
+    "name": "Jake Jacobovitch"
+  },
+  {
+    "race": "vashon-island-school-director-3",
+    "name": "Zabette Macomber"
+  },
+  {
+    "race": "vashon-island-school-director-5",
+    "name": "Laura Wishik",
+    "incumbent": "x"
+  },
+  {
+    "race": "vashon-island-school-director-5",
+    "name": "Toby Holmes"
+  },
+  {
+    "race": "renton-school-director-3",
+    "name": "Larry Wright"
+  },
+  {
+    "race": "renton-school-director-3",
+    "name": "Lynn Desmarais",
+    "incumbent": "x"
+  },
+  {
+    "race": "bellevue-school-director-1",
+    "name": "Eric Warwick"
+  },
+  {
+    "race": "bellevue-school-director-1",
+    "name": "Steve McConnell",
+    "incumbent": "x"
+  },
+  {
+    "race": "tukwila-school-director-2",
+    "name": "Kevin O'Brien Gaw"
+  },
+  {
+    "race": "tukwila-school-director-2",
+    "name": "Steve Mullet",
+    "incumbent": "x"
+  },
+  {
+    "race": "tahoma-school-director-3",
+    "name": "Jessica Zielinski"
+  },
+  {
+    "race": "tahoma-school-director-3",
+    "name": "Mary Jane Glaser",
+    "incumbent": "x"
+  },
+  {
+    "race": "lake-washington-school-director-1",
+    "name": "Eric Laliberte"
+  },
+  {
+    "race": "lake-washington-school-director-1",
+    "name": "Jackie Pendergrass",
+    "incumbent": "x"
+  },
+  {
+    "race": "lake-washington-school-director-2",
+    "name": "Chris Carlson",
+    "incumbent": "x"
+  },
+  {
+    "race": "lake-washington-school-director-2",
+    "name": "Rob Tepper"
+  },
+  {
+    "race": "kent-school-director-1",
+    "name": "Russell L. Hanscom",
+    "incumbent": "x"
+  },
+  {
+    "race": "kent-school-director-1",
+    "name": "Trisha Sanders"
+  },
+  {
+    "race": "northshore-school-director-2",
+    "name": "John Harley Hammond"
+  },
+  {
+    "race": "northshore-school-director-2",
+    "name": "Ken Smith"
+  },
+  {
+    "race": "northshore-school-director-3",
+    "name": "Berta Phillips"
+  },
+  {
+    "race": "northshore-school-director-3",
+    "name": "David Cogan"
+  },
+  {
+    "race": "fife-school-director-2",
+    "name": "Drew Ritzen"
+  },
+  {
+    "race": "fife-school-director-2",
+    "name": "Robert Scheidt",
+    "incumbent": "x"
+  },
+  {
+    "race": "shoreline-fire-3",
+    "name": "Dan Setterberg"
+  },
+  {
+    "race": "shoreline-fire-3",
+    "name": "Rod Heivilin",
+    "incumbent": "x"
+  },
+  {
+    "race": "vashon-island-fire-3",
+    "name": "Brigitte Schran Brown"
+  },
+  {
+    "race": "vashon-island-fire-3",
+    "name": "Tamalyn Nigretto"
+  },
+  {
+    "race": "king-fire-16-3",
+    "name": "Don Ellis"
+  },
+  {
+    "race": "king-fire-16-3",
+    "name": "Mathew Martin"
+  },
+  {
+    "race": "south-king-fire-2",
+    "name": "Bill Fuller"
+  },
+  {
+    "race": "south-king-fire-2",
+    "name": "Roger Flygare"
+  },
+  {
+    "race": "south-king-fire-3",
+    "name": "John Rickert",
+    "incumbent": "x"
+  },
+  {
+    "race": "south-king-fire-3",
+    "name": "Marty Grisham"
+  },
+  {
+    "race": "king-water-54-3",
+    "name": "Alli Larkin",
+    "incumbent": "x"
+  },
+  {
+    "race": "king-water-54-3",
+    "name": "Jim Langston"
+  },
+  {
+    "race": "tukwila-pool-5",
+    "name": "David Puki"
+  },
+  {
+    "race": "tukwila-pool-5",
+    "name": "Michael Robert Neher"
+  },
+  {
+    "race": "vashon-park-1",
+    "name": "Karen M. Gardner"
+  },
+  {
+    "race": "vashon-park-1",
+    "name": "Rick Skillman"
+  },
+  {
+    "race": "vashon-park-3",
+    "name": "Bob McMahon"
+  },
+  {
+    "race": "vashon-park-3",
+    "name": "Joshua Weil"
+  },
+  {
+    "race": "vashon-park-5",
+    "name": "Bill Ameling",
+    "incumbent": "x"
+  },
+  {
+    "race": "vashon-park-5",
+    "name": "Peter Ray"
+  },
+  {
+    "race": "vashon-park-5",
+    "name": "Scott Harvey",
+    "incumbent": "x"
   }
 ]

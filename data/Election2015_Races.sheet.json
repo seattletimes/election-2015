@@ -45,6 +45,20 @@
     "category": "Statewide"
   },
   {
+    "code": "measure-122",
+    "name": "Initiative Measure No. 122",
+    "description": "Public funding for election campaigns",
+    "category": "Seattle",
+    "featured": 2
+  },
+  {
+    "code": "seattle-prop-1",
+    "name": "Seattle Proposition 1",
+    "description": "Property-tax increase to fund various transportation and infrastructure improvements",
+    "category": "Seattle",
+    "featured": 1
+  },
+  {
     "code": "legislative-9",
     "sosRaceID": 254,
     "name": "State Representative District 9, Pos. 1",
@@ -246,20 +260,6 @@
     "description": "Sales-tax increase to boost Community Transit bus service",
     "category": "Local",
     "subcategory": "Snohomish County"
-  },
-  {
-    "code": "measure-122",
-    "name": "Initiative Measure No. 122",
-    "description": "Public funding for election campaigns",
-    "category": "Seattle",
-    "featured": 2
-  },
-  {
-    "code": "seattle-prop-1",
-    "name": "Seattle Proposition 1",
-    "description": "Property-tax increase to fund various transportation and infrastructure improvements",
-    "category": "Seattle",
-    "featured": 1
   },
   {
     "sosRaceID": 111989,
@@ -1032,132 +1032,6 @@
     "subcategory": "Pierce County"
   },
   {
-    "sosRaceID": 39738,
-    "name": "County Council District No. 1 Charter Review Commissioner - District 1, Position 1",
-    "category": "Local",
-    "subcategory": "Pierce County"
-  },
-  {
-    "sosRaceID": 39748,
-    "name": "County Council District No. 1 Charter Review Commissioner - District 1, Position 2",
-    "category": "Local",
-    "subcategory": "Pierce County"
-  },
-  {
-    "sosRaceID": 39749,
-    "name": "County Council District No. 1 Charter Review Commissioner - District 1, Position 3",
-    "category": "Local",
-    "subcategory": "Pierce County"
-  },
-  {
-    "sosRaceID": 39750,
-    "name": "County Council District No. 2 Charter Review Commissioner - District 2, Position 1",
-    "category": "Local",
-    "subcategory": "Pierce County"
-  },
-  {
-    "sosRaceID": 39751,
-    "name": "County Council District No. 2 Charter Review Commissioner - District 2, Position 2",
-    "category": "Local",
-    "subcategory": "Pierce County"
-  },
-  {
-    "sosRaceID": 39752,
-    "name": "County Council District No. 2 Charter Review Commissioner - District 2, Position 3",
-    "category": "Local",
-    "subcategory": "Pierce County"
-  },
-  {
-    "sosRaceID": 39753,
-    "name": "County Council District No. 3 Charter Review Commissioner - District 3, Position 1",
-    "category": "Local",
-    "subcategory": "Pierce County"
-  },
-  {
-    "sosRaceID": 39754,
-    "name": "County Council District No. 3 Charter Review Commissioner - District 3, Position 2",
-    "category": "Local",
-    "subcategory": "Pierce County"
-  },
-  {
-    "sosRaceID": 39755,
-    "name": "County Council District No. 3 Charter Review Commissioner - District 3, Position 3",
-    "category": "Local",
-    "subcategory": "Pierce County"
-  },
-  {
-    "sosRaceID": 39756,
-    "name": "County Council District No. 4 Charter Review Commissioner - District 4, Position 1",
-    "category": "Local",
-    "subcategory": "Pierce County"
-  },
-  {
-    "sosRaceID": 39757,
-    "name": "County Council District No. 4 Charter Review Commissioner - District 4, Position 2",
-    "category": "Local",
-    "subcategory": "Pierce County"
-  },
-  {
-    "sosRaceID": 39758,
-    "name": "County Council District No. 4 Charter Review Commissioner - District 4, Position 3",
-    "category": "Local",
-    "subcategory": "Pierce County"
-  },
-  {
-    "sosRaceID": 39759,
-    "name": "County Council District No. 5 Charter Review Commissioner - District 5, Position 1",
-    "category": "Local",
-    "subcategory": "Pierce County"
-  },
-  {
-    "sosRaceID": 39760,
-    "name": "County Council District No. 5 Charter Review Commissioner - District 5, Position 2",
-    "category": "Local",
-    "subcategory": "Pierce County"
-  },
-  {
-    "sosRaceID": 39761,
-    "name": "County Council District No. 5 Charter Review Commissioner - District 5, Position 3",
-    "category": "Local",
-    "subcategory": "Pierce County"
-  },
-  {
-    "sosRaceID": 39762,
-    "name": "County Council District No. 6 Charter Review Commissioner - District 6, Position 1",
-    "category": "Local",
-    "subcategory": "Pierce County"
-  },
-  {
-    "sosRaceID": 39763,
-    "name": "County Council District No. 6 Charter Review Commissioner - District 6, Position 2",
-    "category": "Local",
-    "subcategory": "Pierce County"
-  },
-  {
-    "sosRaceID": 39764,
-    "name": "County Council District No. 6 Charter Review Commissioner - District 6, Position 3",
-    "category": "Local",
-    "subcategory": "Pierce County"
-  },
-  {
-    "sosRaceID": 39765,
-    "name": "County Council District No. 7 Charter Review Commissioner - District 7, Position 1",
-    "category": "Local",
-    "subcategory": "Pierce County"
-  },
-  {
-    "sosRaceID": 39766,
-    "name": "County Council District No. 7 Charter Review Commissioner - District 7, Position 2",
-    "category": "Local",
-    "subcategory": "Pierce County"
-  },
-  {
-    "sosRaceID": 39767,
-    "name": "County Council District No. 7 Charter Review Commissioner - District 7, Position 3",
-    "category": "Local",
-    "subcategory": "Pierce County"
-  },
-  {
     "sosRaceID": 11587,
     "name": "Port Of Tacoma Commissioner Pos. 3",
     "category": "Local",
@@ -1413,36 +1287,6 @@
   {
     "sosRaceID": 10987,
     "name": "County Offices Assessor",
-    "category": "Local",
-    "subcategory": "Snohomish County"
-  },
-  {
-    "sosRaceID": 39740,
-    "name": "County Charter Review Commissioner Dist 1",
-    "category": "Local",
-    "subcategory": "Snohomish County"
-  },
-  {
-    "sosRaceID": 39741,
-    "name": "County Charter Review Commissioner Dist 2",
-    "category": "Local",
-    "subcategory": "Snohomish County"
-  },
-  {
-    "sosRaceID": 39742,
-    "name": "County Charter Review Commissioner Dist 3",
-    "category": "Local",
-    "subcategory": "Snohomish County"
-  },
-  {
-    "sosRaceID": 39743,
-    "name": "County Charter Review Commissioner Dist 4",
-    "category": "Local",
-    "subcategory": "Snohomish County"
-  },
-  {
-    "sosRaceID": 39744,
-    "name": "County Charter Review Commissioner Dist 5",
     "category": "Local",
     "subcategory": "Snohomish County"
   },
