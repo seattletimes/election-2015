@@ -14,7 +14,8 @@
     "name": "Initiative Measure No. 1401",
     "description": "Trafficking of animal species threatened with extinction",
     "category": "Statewide",
-    "map": "x"
+    "map": "x",
+    "called": "Yes"
   },
   {
     "code": "advisory-10",
@@ -49,7 +50,8 @@
     "name": "Initiative Measure No. 122",
     "description": "Public funding for election campaigns",
     "category": "Seattle",
-    "featured": 2
+    "featured": 2,
+    "called": "Yes"
   },
   {
     "code": "seattle-prop-1",
@@ -189,7 +191,8 @@
     "name": "County Council District No. 6",
     "category": "Local",
     "subcategory": "King County",
-    "featured": 4
+    "featured": 4,
+    "called": "Claudia Balducci"
   },
   {
     "code": "king-council-8",
@@ -236,12 +239,14 @@
   {
     "code": "seattle-school-director-1",
     "name": "School Board District No. 1",
-    "category": "Seattle"
+    "category": "Seattle",
+    "called": "Scott S. Pinkham"
   },
   {
     "code": "seattle-school-director-2",
     "name": "School Board District No. 2",
-    "category": "Seattle"
+    "category": "Seattle",
+    "called": "Rick Burke"
   },
   {
     "code": "seattle-school-director-3",
@@ -251,7 +256,8 @@
   {
     "code": "seattle-school-director-6",
     "name": "School Board District No. 6",
-    "category": "Seattle"
+    "category": "Seattle",
+    "called": "Leslie Harris"
   },
   {
     "code": "snohomish-transit",
@@ -287,19 +293,16 @@
     "subcategory": "King County"
   },
   {
-    "code": "bothell-council-2",
     "name": "Bothell Council Position No. 2",
     "category": "Local",
     "subcategory": "King County"
   },
   {
-    "code": "bothell-council-4",
     "name": "Bothell Council Position No. 4",
     "category": "Local",
     "subcategory": "King County"
   },
   {
-    "code": "bothell-council-6",
     "name": "Bothell Council Position No. 6",
     "category": "Local",
     "subcategory": "King County"
@@ -492,7 +495,6 @@
     "subcategory": "King County"
   },
   {
-    "code": "milton-council-6",
     "name": "Milton Council Position No. 6",
     "category": "Local",
     "subcategory": "King County"
@@ -558,19 +560,16 @@
     "subcategory": "King County"
   },
   {
-    "code": "pacific-mayor",
     "name": "Pacific Mayor",
     "category": "Local",
     "subcategory": "King County"
   },
   {
-    "code": "pacific-council-3",
     "name": "Pacific Council Position No. 3",
     "category": "Local",
     "subcategory": "King County"
   },
   {
-    "code": "pacific-council-6",
     "name": "Pacific Council Position No. 6",
     "category": "Local",
     "subcategory": "King County"
@@ -758,24 +757,6 @@
   {
     "code": "kent-school-director-1",
     "name": "Kent School District No. 415 Director District No. 1",
-    "category": "Local",
-    "subcategory": "King County"
-  },
-  {
-    "code": "northshore-school-director-2",
-    "name": "Northshore School District No. 417 Director District No. 2",
-    "category": "Local",
-    "subcategory": "King County"
-  },
-  {
-    "code": "northshore-school-director-3",
-    "name": "Northshore School District No. 417 Director District No. 3",
-    "category": "Local",
-    "subcategory": "King County"
-  },
-  {
-    "code": "fife-school-director-2",
-    "name": "Fife School District No. 417 Director District No. 2",
     "category": "Local",
     "subcategory": "King County"
   },
@@ -1089,7 +1070,7 @@
     "sosRaceID": 11672,
     "name": "Milton Council Pos. 6",
     "category": "Local",
-    "subcategory": "Pierce County"
+    "subcategory": "King County"
   },
   {
     "sosRaceID": 112049,
@@ -1126,19 +1107,19 @@
     "sosRaceID": 12183,
     "name": "Pacific Mayor",
     "category": "Local",
-    "subcategory": "Pierce County"
+    "subcategory": "King County"
   },
   {
     "sosRaceID": 12186,
     "name": "Pacific Council Pos. 3",
     "category": "Local",
-    "subcategory": "Pierce County"
+    "subcategory": "King County"
   },
   {
     "sosRaceID": 12189,
     "name": "Pacific Council Pos. 6",
     "category": "Local",
-    "subcategory": "Pierce County"
+    "subcategory": "King County"
   },
   {
     "sosRaceID": 11683,
@@ -1270,7 +1251,7 @@
     "sosRaceID": 11819,
     "name": "Fife School District No. 417 Director Dist. 2",
     "category": "Local",
-    "subcategory": "Pierce County"
+    "subcategory": "King County"
   },
   {
     "sosRaceID": 11865,
@@ -1318,19 +1299,19 @@
     "sosRaceID": 11077,
     "name": "Bothell Council Position No. 2",
     "category": "Local",
-    "subcategory": "Snohomish County"
+    "subcategory": "King County"
   },
   {
     "sosRaceID": 11079,
     "name": "Bothell Council Position No. 4",
     "category": "Local",
-    "subcategory": "Snohomish County"
+    "subcategory": "King County"
   },
   {
     "sosRaceID": 11081,
     "name": "Bothell Council Position No. 6",
     "category": "Local",
-    "subcategory": "Snohomish County"
+    "subcategory": "King County"
   },
   {
     "sosRaceID": 10563,
@@ -1628,13 +1609,13 @@
     "sosRaceID": 11084,
     "name": "Northshore School District 417 Director District No. 2",
     "category": "Local",
-    "subcategory": "Snohomish County"
+    "subcategory": "King County"
   },
   {
     "sosRaceID": 11085,
     "name": "Northshore School District 417 Director District No. 3",
     "category": "Local",
-    "subcategory": "Snohomish County"
+    "subcategory": "King County"
   },
   {
     "sosRaceID": 10707,

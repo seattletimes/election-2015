@@ -14,7 +14,7 @@ var onGo = function() {
     if (!next || !next.classList.contains("group")) next = document.querySelector(".group");
   } else {
     next = current.previousElementSibling;
-    if (!next || !next.classList.contains("group")) next = document.querySelector(".group:last-child");
+    if (!next || !next.classList.contains("group")) next = Array.prototype.pop.call(document.querySelectorAll(".group"));
   }
   current.classList.remove("show");
   next.classList.add("show");

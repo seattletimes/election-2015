@@ -117,7 +117,7 @@ module.exports = function(grunt) {
           if (uncontested.indexOf(entry.race) == -1 && entry.race.results > 1) console.log("[scrape] No race config:", entry.race);
           return;
         }
-        if (exists.sosraceid) return console.log("[scrape] Duplicate race: ", entry.race)
+        if (exists.sosRaceID) return console.log("[scrape] Duplicate race: ", entry.race)
         races[entry.race].results = entry.results;
       });
 
@@ -137,7 +137,7 @@ module.exports = function(grunt) {
           name: row.rename || original.name,
           description: row.description || original.description,
           group: row.group,
-          called: row.called
+          called: original.called
         };
       }).reduce(function(o, row) {
         if (!o[row.group]) o[row.group] = [];

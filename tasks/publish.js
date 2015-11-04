@@ -105,8 +105,8 @@ module.exports = function(grunt) {
           Key: join(bucketConfig.path, upload.path.replace(/^\\?build/, "")),
           Body: upload.buffer,
           ACL: "public-read",
-          ContentType: mime.lookup(upload.path),
-          CacheControl: "public,max-age=3000"
+          CacheControl: "public,max-age=300",
+          ContentType: mime.lookup(upload.path)
         };
         //if this matches GZip support, compress them before uploading to S3
         var extension = upload.path.split(".").pop();

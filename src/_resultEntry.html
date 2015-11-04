@@ -65,7 +65,7 @@ var synonyms = {
   </ul>
   <% if (race.map) { %>
   <div class="map-container">
-    <svg-map class="county" src="assets/countyMap.svg" data-race="<%= race.code %>">
+    <svg-map class="county" src="assets/countyMap.svg" data-race="<%= race.code || race.sosRaceID %>">
 <span class="county">{%= data.county %}</span>
 <ul>
 {% if (data.results) { %}

@@ -33,7 +33,7 @@
                 <span class="checkmark">&#10004;</span>
                 <% } %>
                 <span class="name"><%= result.candidate %></span> - 
-                <%= result.votes %> (<%= result.percent %>%)
+                <%= t.formatNumber(result.votes) %> (<%= result.percent %>%)
             <% }) %>
             </ul>
           </div>

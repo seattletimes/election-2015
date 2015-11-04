@@ -1,61 +1,49 @@
 [
   {
-    "race": "measure-1366",
     "sosID": 111642,
     "name": "Yes"
   },
   {
-    "race": "measure-1366",
     "sosID": 111643,
     "name": "No"
   },
   {
-    "race": "measure-1401",
     "sosID": 111646,
     "name": "Yes"
   },
   {
-    "race": "measure-1401",
     "sosID": 111647,
     "name": "No"
   },
   {
-    "race": "advisory-10",
     "sosID": 111626,
     "name": "Repealed"
   },
   {
-    "race": "advisory-10",
     "sosID": 111627,
     "name": "Maintained"
   },
   {
-    "race": "advisory-11",
     "sosID": 111630,
     "name": "Repealed"
   },
   {
-    "race": "advisory-11",
     "sosID": 111631,
     "name": "Maintained"
   },
   {
-    "race": "advisory-12",
     "sosID": 111634,
     "name": "Repealed"
   },
   {
-    "race": "advisory-12",
     "sosID": 111635,
     "name": "Maintained"
   },
   {
-    "race": "advisory-13",
     "sosID": 111638,
     "name": "Repealed"
   },
   {
-    "race": "advisory-13",
     "sosID": 111639,
     "name": "Maintained"
   },
@@ -2311,32 +2299,6 @@
     "name": "Rob Lemmon"
   },
   {
-    "race": "pacific-mayor",
-    "name": "Gary Nitschke"
-  },
-  {
-    "race": "pacific-mayor",
-    "name": "Leanne Guier",
-    "incumbent": "x"
-  },
-  {
-    "race": "pacific-council-3",
-    "name": "Brice Erickson"
-  },
-  {
-    "race": "pacific-council-3",
-    "name": "Clinton Steiger",
-    "incumbent": "x"
-  },
-  {
-    "race": "pacific-council-6",
-    "name": "David B. Storaasli"
-  },
-  {
-    "race": "pacific-council-6",
-    "name": "Don Thomson"
-  },
-  {
     "race": "redmond-mayor",
     "name": "John Marchione",
     "incumbent": "x"
@@ -2628,31 +2590,6 @@
   {
     "race": "kent-school-director-1",
     "name": "Trisha Sanders"
-  },
-  {
-    "race": "northshore-school-director-2",
-    "name": "John Harley Hammond"
-  },
-  {
-    "race": "northshore-school-director-2",
-    "name": "Ken Smith"
-  },
-  {
-    "race": "northshore-school-director-3",
-    "name": "Berta Phillips"
-  },
-  {
-    "race": "northshore-school-director-3",
-    "name": "David Cogan"
-  },
-  {
-    "race": "fife-school-director-2",
-    "name": "Drew Ritzen"
-  },
-  {
-    "race": "fife-school-director-2",
-    "name": "Robert Scheidt",
-    "incumbent": "x"
   },
   {
     "race": "shoreline-fire-3",

@@ -1,5 +1,7 @@
 var async = require("async");
 var request = require("request");
+var crypto = require("crypto");
+var chalk = require("chalk");
 
 var pages = {
   king: "http://your.kingcounty.gov/elections/2015/nov-general/results/pi.txt",
@@ -15,17 +17,20 @@ var check = function() {
   async.each(keys, function(key, c) {
     // console.log(key)
     var url = pages[key];
-    request({ uri: url }, function(err, body) {
+    request({ uri: url }, function(err, response, body) {
+      var md5 = crypto.createHash("md5").update(body, "utf8");
+      var hash = md5.digest("hex");
+      // console.log(key, hash);
       if (!results[key]) {
-        console.log("Adding cache for %s", key);
+        console.log("Adding cache for %s - %s", key, hash);
       } else {
-        if (results[key].length !== body.length) {
-          console.log("!!!!!!!! UPDATE ON %s !!!!!!!!!", key);
+        if (results[key] !== hash) {
+          console.log(chalk.red("!!!!!!!! UPDATE ON %s !!!!!!!!!"), key);
         } else {
-          console.log("no change on %s", key)
+          console.log(chalk.green("no change on %s - %s"), key, hash)
         }
       }
-      results[key] = body;
+      results[key] = hash;
       c();
     });
   }, function() {
