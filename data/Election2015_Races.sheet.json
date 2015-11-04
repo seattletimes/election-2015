@@ -204,12 +204,14 @@
   {
     "code": "port-2",
     "name": "Port of Seattle Commissioner No. 2",
-    "category": "Seattle"
+    "category": "Local",
+    "subcategory": "King County"
   },
   {
     "code": "port-5",
     "name": "Port of Seattle Commissioner No. 5",
-    "category": "Seattle"
+    "category": "Local",
+    "subcategory": "King County"
   },
   {
     "code": "bellevue-council-3",
