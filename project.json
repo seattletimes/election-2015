@@ -5,8 +5,8 @@
       "path": "sorry-takeout"
     },
     "live": {
-      "bucket": "",
-      "path": ""
+      "bucket": "projects.seattletimes.com",
+      "path": "2015/election-results"
     }
   },
   "title": "2015 Election Results",
@@ -17,6 +17,6 @@
   "sheets": ["12tQ_zEjXnJxdSHZf76bmjiTh9VYtGPuwAgphuuQgqaM"],
   "caching": true,
   "image": "assets/social.jpg",
-  "production": false,
+  "production": true,
   "embedded": false
 }
