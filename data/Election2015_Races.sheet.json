@@ -59,6 +59,52 @@
     "featured": 1
   },
   {
+    "code": "seattle-council-1",
+    "name": "City Council District No. 1",
+    "category": "Seattle"
+  },
+  {
+    "code": "seattle-council-2",
+    "name": "City Council District No. 2",
+    "category": "Seattle"
+  },
+  {
+    "code": "seattle-council-3",
+    "name": "City Council District No. 3",
+    "category": "Seattle",
+    "featured": 3
+  },
+  {
+    "code": "seattle-council-4",
+    "name": "City Council District No. 4",
+    "category": "Seattle"
+  },
+  {
+    "code": "seattle-council-5",
+    "name": "City Council District No. 5",
+    "category": "Seattle"
+  },
+  {
+    "code": "seattle-council-6",
+    "name": "City Council District No. 6",
+    "category": "Seattle"
+  },
+  {
+    "code": "seattle-council-7",
+    "name": "City Council District No. 7",
+    "category": "Seattle"
+  },
+  {
+    "code": "seattle-council-8",
+    "name": "City Council Position No. 8",
+    "category": "Seattle"
+  },
+  {
+    "code": "seattle-council-9",
+    "name": "City Council Position No. 9",
+    "category": "Seattle"
+  },
+  {
     "code": "legislative-9",
     "sosRaceID": 254,
     "name": "State Representative District 9, Pos. 1",
@@ -160,52 +206,6 @@
   {
     "code": "port-5",
     "name": "Port of Seattle Commissioner No. 5",
-    "category": "Seattle"
-  },
-  {
-    "code": "seattle-council-1",
-    "name": "City Council District No. 1",
-    "category": "Seattle"
-  },
-  {
-    "code": "seattle-council-2",
-    "name": "City Council District No. 2",
-    "category": "Seattle"
-  },
-  {
-    "code": "seattle-council-3",
-    "name": "City Council District No. 3",
-    "category": "Seattle",
-    "featured": 3
-  },
-  {
-    "code": "seattle-council-4",
-    "name": "City Council District No. 4",
-    "category": "Seattle"
-  },
-  {
-    "code": "seattle-council-5",
-    "name": "City Council District No. 5",
-    "category": "Seattle"
-  },
-  {
-    "code": "seattle-council-6",
-    "name": "City Council District No. 6",
-    "category": "Seattle"
-  },
-  {
-    "code": "seattle-council-7",
-    "name": "City Council District No. 7",
-    "category": "Seattle"
-  },
-  {
-    "code": "seattle-council-8",
-    "name": "City Council Position No. 8",
-    "category": "Seattle"
-  },
-  {
-    "code": "seattle-council-9",
-    "name": "City Council Position No. 9",
     "category": "Seattle"
   },
   {
