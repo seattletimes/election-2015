@@ -26,6 +26,7 @@ var check = function() {
       } else {
         if (results[key] !== hash) {
           console.log(chalk.red("!!!!!!!! UPDATE ON %s !!!!!!!!!"), key);
+          process.exit();
         } else {
           console.log(chalk.green("no change on %s - %s"), key, hash)
         }
@@ -35,7 +36,7 @@ var check = function() {
     });
   }, function() {
     console.log("============\n");
-    setTimeout(check, 1000 * 60 * 1);
+    setTimeout(check, 1000 * 60 * 10);
   });
 };
 

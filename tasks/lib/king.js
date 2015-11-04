@@ -21,6 +21,7 @@ var matchers = {
   "$1-council-$3": /City of (.*?) Council (Position|District) No. (\d+)/,
   "$1-prop-$2": /City of (.*?) Advisory Proposition No. (\d+)/,
   "$1-prop-1": /City of (\w+) Proposition No. 1/,
+  "normandy-park-prop-1": /City of Normandy Park Proposition No. 1/,
   "$1-mayor": /City of (.*?) Mayor/,
   "$1-school-director-$3": /(.*?) School District No. \d+ Director (Position|District) No. (\d+)/,
   "enumclaw-prop-1": /Enumclaw.*?Proposition No. 1/,

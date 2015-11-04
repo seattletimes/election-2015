@@ -281,6 +281,12 @@
     "subcategory": "King County"
   },
   {
+    "code": "bellevue-school-director-1",
+    "name": "Bellevue School District No. 405 Director District No. 1",
+    "category": "Local",
+    "subcategory": "King County"
+  },
+  {
     "code": "black-diamond-council-4",
     "name": "Black Diamond Council Position No. 4",
     "category": "Local",
@@ -293,16 +299,19 @@
     "subcategory": "King County"
   },
   {
+    "sosRaceID": 11077,
     "name": "Bothell Council Position No. 2",
     "category": "Local",
     "subcategory": "King County"
   },
   {
+    "sosRaceID": 11079,
     "name": "Bothell Council Position No. 4",
     "category": "Local",
     "subcategory": "King County"
   },
   {
+    "sosRaceID": 11081,
     "name": "Bothell Council Position No. 6",
     "category": "Local",
     "subcategory": "King County"
@@ -368,6 +377,18 @@
     "subcategory": "King County"
   },
   {
+    "code": "enumclaw-prop-1",
+    "name": "Enumclaw Transportation Benefit District Proposition No. 1",
+    "category": "Local",
+    "subcategory": "King County"
+  },
+  {
+    "code": "federal-way-prop-1",
+    "name": "Federal Way Advisory Proposition No. 1",
+    "category": "Local",
+    "subcategory": "King County"
+  },
+  {
     "code": "federal-way-council-1",
     "name": "Federal Way Council Position No. 1",
     "category": "Local",
@@ -386,14 +407,26 @@
     "subcategory": "King County"
   },
   {
-    "code": "federal-way-prop-1",
-    "name": "Federal Way Advisory Proposition No. 1",
+    "code": "federal-way-school-director-2",
+    "name": "Federal Way School District No. 210 Director District No. 2",
     "category": "Local",
     "subcategory": "King County"
   },
   {
-    "code": "lake-forest-park-council-4",
-    "name": "Lake Forest Park Council Position No. 4",
+    "sosRaceID": 11819,
+    "name": "Fife School District No. 417 Director Dist. 2",
+    "category": "Local",
+    "subcategory": "King County"
+  },
+  {
+    "code": "highline-school-director-3",
+    "name": "Highline School District No. 401 Director District No. 3",
+    "category": "Local",
+    "subcategory": "King County"
+  },
+  {
+    "code": "highline-school-director-5",
+    "name": "Highline School District No. 401 Director District No. 5",
     "category": "Local",
     "subcategory": "King County"
   },
@@ -406,6 +439,72 @@
   {
     "code": "issaquah-council-6",
     "name": "Issaquah Council Position No. 6",
+    "category": "Local",
+    "subcategory": "King County"
+  },
+  {
+    "code": "kenmore-council-5",
+    "name": "Kenmore Council Position No. 5",
+    "category": "Local",
+    "subcategory": "King County"
+  },
+  {
+    "code": "kent-prop-1",
+    "name": "Kent Advisory Proposition No. 1",
+    "category": "Local",
+    "subcategory": "King County"
+  },
+  {
+    "code": "kent-council-1",
+    "name": "Kent Council Position No. 1",
+    "category": "Local",
+    "subcategory": "King County"
+  },
+  {
+    "code": "kent-council-6",
+    "name": "Kent Council Position No. 6",
+    "category": "Local",
+    "subcategory": "King County"
+  },
+  {
+    "code": "kent-school-director-1",
+    "name": "Kent School District No. 415 Director District No. 1",
+    "category": "Local",
+    "subcategory": "King County"
+  },
+  {
+    "code": "king-fire-10-prop-1",
+    "name": "King County Fire Protection District No. 10 Proposition No. 1",
+    "category": "Local",
+    "subcategory": "King County"
+  },
+  {
+    "code": "king-fire-16-3",
+    "name": "King County Fire Protection District No. 16 Commissioner Position No. 3",
+    "category": "Local",
+    "subcategory": "King County"
+  },
+  {
+    "code": "king-fire-2-prop-1",
+    "name": "King County Fire Protection District No. 2 Proposition No. 1",
+    "category": "Local",
+    "subcategory": "King County"
+  },
+  {
+    "code": "king-fire-28-prop-1",
+    "name": "King County Fire Protection District No. 28 Proposition No. 1",
+    "category": "Local",
+    "subcategory": "King County"
+  },
+  {
+    "code": "king-water-1-prop-1",
+    "name": "King County Water District No. 1 Proposition No. 1",
+    "category": "Local",
+    "subcategory": "King County"
+  },
+  {
+    "code": "king-water-54-3",
+    "name": "King County Water District No. 54 Commissioner Position No. 3",
     "category": "Local",
     "subcategory": "King County"
   },
@@ -429,26 +528,38 @@
     "subcategory": "King County"
   },
   {
-    "code": "kenmore-council-5",
-    "name": "Kenmore Council Position No. 5",
+    "code": "lake-forest-park-council-4",
+    "name": "Lake Forest Park Council Position No. 4",
     "category": "Local",
     "subcategory": "King County"
   },
   {
-    "code": "kent-council-1",
-    "name": "Kent Council Position No. 1",
+    "code": "lake-washington-school-director-1",
+    "name": "Lake Washington School District No. 414 Director District No. 1",
     "category": "Local",
     "subcategory": "King County"
   },
   {
-    "code": "kent-council-6",
-    "name": "Kent Council Position No. 6",
+    "code": "lake-washington-school-director-2",
+    "name": "Lake Washington School District No. 414 Director District No. 2",
     "category": "Local",
     "subcategory": "King County"
   },
   {
-    "code": "kent-prop-1",
-    "name": "Kent Advisory Proposition No. 1",
+    "code": "maple-valley-prop-1",
+    "name": "Maple Valley Advisory Proposition No. 1",
+    "category": "Local",
+    "subcategory": "King County"
+  },
+  {
+    "code": "maple-valley-council-3",
+    "name": "Maple Valley Council Position No. 3",
+    "category": "Local",
+    "subcategory": "King County"
+  },
+  {
+    "code": "maple-valley-council-6",
+    "name": "Maple Valley Council Position No. 6",
     "category": "Local",
     "subcategory": "King County"
   },
@@ -495,25 +606,38 @@
     "subcategory": "King County"
   },
   {
-    "name": "Milton Council Position No. 6",
+    "code": "mercer-island-school-director-3",
+    "name": "Mercer Island School District No. 400 Director Position No. 3",
     "category": "Local",
     "subcategory": "King County"
   },
   {
-    "code": "maple-valley-council-3",
-    "name": "Maple Valley Council Position No. 3",
+    "sosRaceID": 11672,
+    "name": "Milton Council Pos. 6",
     "category": "Local",
     "subcategory": "King County"
   },
   {
-    "code": "maple-valley-council-6",
-    "name": "Maple Valley Council Position No. 6",
+    "code": "newcastle-council-1",
+    "name": "Newcastle Council Position No. 1",
     "category": "Local",
     "subcategory": "King County"
   },
   {
-    "code": "maple-valley-prop-1",
-    "name": "Maple Valley Advisory Proposition No. 1",
+    "code": "newcastle-council-3",
+    "name": "Newcastle Council Position No. 3",
+    "category": "Local",
+    "subcategory": "King County"
+  },
+  {
+    "code": "normandy-park-council-7",
+    "name": "Normandy Park Council Position No. 7",
+    "category": "Local",
+    "subcategory": "King County"
+  },
+  {
+    "code": "normandy-park-prop-1",
+    "name": "Normandy Park Proposition No. 1",
     "category": "Local",
     "subcategory": "King County"
   },
@@ -536,41 +660,32 @@
     "subcategory": "King County"
   },
   {
-    "code": "normandy-park-council-7",
-    "name": "Normandy Park Council Position No. 7",
+    "sosRaceID": 11084,
+    "name": "Northshore School District 417 Director District No. 2",
     "category": "Local",
     "subcategory": "King County"
   },
   {
-    "code": "normandy-park-prop-1",
-    "name": "Normandy Park Proposition No. 1",
+    "sosRaceID": 11085,
+    "name": "Northshore School District 417 Director District No. 3",
     "category": "Local",
     "subcategory": "King County"
   },
   {
-    "code": "newcastle-council-1",
-    "name": "Newcastle Council Position No. 1",
-    "category": "Local",
-    "subcategory": "King County"
-  },
-  {
-    "code": "newcastle-council-3",
-    "name": "Newcastle Council Position No. 3",
-    "category": "Local",
-    "subcategory": "King County"
-  },
-  {
+    "sosRaceID": 12183,
     "name": "Pacific Mayor",
     "category": "Local",
     "subcategory": "King County"
   },
   {
-    "name": "Pacific Council Position No. 3",
+    "sosRaceID": 12186,
+    "name": "Pacific Council Pos. 3",
     "category": "Local",
     "subcategory": "King County"
   },
   {
-    "name": "Pacific Council Position No. 6",
+    "sosRaceID": 12189,
+    "name": "Pacific Council Pos. 6",
     "category": "Local",
     "subcategory": "King County"
   },
@@ -593,6 +708,12 @@
     "subcategory": "King County"
   },
   {
+    "code": "renton-school-director-3",
+    "name": "Renton School District No. 403 Director District No. 3",
+    "category": "Local",
+    "subcategory": "King County"
+  },
+  {
     "code": "sammamish-council-2",
     "name": "Sammamish Council Position No. 2",
     "category": "Local",
@@ -607,24 +728,6 @@
   {
     "code": "sammamish-council-6",
     "name": "Sammamish Council Position No. 6",
-    "category": "Local",
-    "subcategory": "King County"
-  },
-  {
-    "code": "shoreline-council-2",
-    "name": "Shoreline Council Position No. 2",
-    "category": "Local",
-    "subcategory": "King County"
-  },
-  {
-    "code": "shoreline-council-6",
-    "name": "Shoreline Council Position No. 6",
-    "category": "Local",
-    "subcategory": "King County"
-  },
-  {
-    "code": "snoqualmie-council-6",
-    "name": "Snoqualmie Council Position No. 6",
     "category": "Local",
     "subcategory": "King County"
   },
@@ -653,8 +756,50 @@
     "subcategory": "King County"
   },
   {
-    "code": "tukwila-mayor",
-    "name": "Tukwila Mayor",
+    "code": "shoreline-council-2",
+    "name": "Shoreline Council Position No. 2",
+    "category": "Local",
+    "subcategory": "King County"
+  },
+  {
+    "code": "shoreline-council-6",
+    "name": "Shoreline Council Position No. 6",
+    "category": "Local",
+    "subcategory": "King County"
+  },
+  {
+    "code": "shoreline-fire-3",
+    "name": "Shoreline Fire Department Commissioner Position No. 3",
+    "category": "Local",
+    "subcategory": "King County"
+  },
+  {
+    "code": "snoqualmie-council-6",
+    "name": "Snoqualmie Council Position No. 6",
+    "category": "Local",
+    "subcategory": "King County"
+  },
+  {
+    "code": "south-king-fire-prop-1",
+    "name": "South King Fire & Rescue Proposition No. 1",
+    "category": "Local",
+    "subcategory": "King County"
+  },
+  {
+    "code": "south-king-fire-2",
+    "name": "South King Fire and Rescue Commissioner Position No. 2",
+    "category": "Local",
+    "subcategory": "King County"
+  },
+  {
+    "code": "south-king-fire-3",
+    "name": "South King Fire and Rescue Commissioner Position No. 3",
+    "category": "Local",
+    "subcategory": "King County"
+  },
+  {
+    "code": "tahoma-school-director-3",
+    "name": "Tahoma School District No. 409 Director District No. 3",
     "category": "Local",
     "subcategory": "King County"
   },
@@ -665,38 +810,32 @@
     "subcategory": "King County"
   },
   {
-    "code": "woodinville-council-6",
-    "name": "Woodinville Council Position No. 6",
+    "code": "tukwila-mayor",
+    "name": "Tukwila Mayor",
     "category": "Local",
     "subcategory": "King County"
   },
   {
-    "code": "enumclaw-prop-1",
-    "name": "Enumclaw Transportation Benefit District Proposition No. 1",
+    "code": "tukwila-pool-5",
+    "name": "Tukwila Pool Metropolitan Park District Commissioner Position No. 5",
     "category": "Local",
     "subcategory": "King County"
   },
   {
-    "code": "federal-way-school-director-2",
-    "name": "Federal Way School District No. 210 Director District No. 2",
+    "code": "tukwila-pool-prop-1",
+    "name": "Tukwila Pool Metropolitan Park District Proposition No. 1",
     "category": "Local",
     "subcategory": "King County"
   },
   {
-    "code": "mercer-island-school-director-3",
-    "name": "Mercer Island School District No. 400 Director Position No. 3",
+    "code": "tukwila-school-director-2",
+    "name": "Tukwila School District No. 406 Director District No. 2",
     "category": "Local",
     "subcategory": "King County"
   },
   {
-    "code": "highline-school-director-3",
-    "name": "Highline School District No. 401 Director District No. 3",
-    "category": "Local",
-    "subcategory": "King County"
-  },
-  {
-    "code": "highline-school-director-5",
-    "name": "Highline School District No. 401 Director District No. 5",
+    "code": "vashon-island-fire-3",
+    "name": "Vashon Island Fire and Rescue Commissioner Position No. 3",
     "category": "Local",
     "subcategory": "King County"
   },
@@ -719,126 +858,6 @@
     "subcategory": "King County"
   },
   {
-    "code": "renton-school-director-3",
-    "name": "Renton School District No. 403 Director District No. 3",
-    "category": "Local",
-    "subcategory": "King County"
-  },
-  {
-    "code": "bellevue-school-director-1",
-    "name": "Bellevue School District No. 405 Director District No. 1",
-    "category": "Local",
-    "subcategory": "King County"
-  },
-  {
-    "code": "tukwila-school-director-2",
-    "name": "Tukwila School District No. 406 Director District No. 2",
-    "category": "Local",
-    "subcategory": "King County"
-  },
-  {
-    "code": "tahoma-school-director-3",
-    "name": "Tahoma School District No. 409 Director District No. 3",
-    "category": "Local",
-    "subcategory": "King County"
-  },
-  {
-    "code": "lake-washington-school-director-1",
-    "name": "Lake Washington School District No. 414 Director District No. 1",
-    "category": "Local",
-    "subcategory": "King County"
-  },
-  {
-    "code": "lake-washington-school-director-2",
-    "name": "Lake Washington School District No. 414 Director District No. 2",
-    "category": "Local",
-    "subcategory": "King County"
-  },
-  {
-    "code": "kent-school-director-1",
-    "name": "Kent School District No. 415 Director District No. 1",
-    "category": "Local",
-    "subcategory": "King County"
-  },
-  {
-    "code": "king-fire-2-prop-1",
-    "name": "King County Fire Protection District No. 2 Proposition No. 1",
-    "category": "Local",
-    "subcategory": "King County"
-  },
-  {
-    "code": "shoreline-fire-3",
-    "name": "Shoreline Fire Department Commissioner Position No. 3",
-    "category": "Local",
-    "subcategory": "King County"
-  },
-  {
-    "code": "king-fire-10-prop-1",
-    "name": "King County Fire Protection District No. 10 Proposition No. 1",
-    "category": "Local",
-    "subcategory": "King County"
-  },
-  {
-    "code": "vashon-island-fire-3",
-    "name": "Vashon Island Fire and Rescue Commissioner Position No. 3",
-    "category": "Local",
-    "subcategory": "King County"
-  },
-  {
-    "code": "king-fire-16-3",
-    "name": "King County Fire Protection District No. 16 Commissioner Position No. 3",
-    "category": "Local",
-    "subcategory": "King County"
-  },
-  {
-    "code": "king-fire-28-prop-1",
-    "name": "King County Fire Protection District No. 28 Proposition No. 1",
-    "category": "Local",
-    "subcategory": "King County"
-  },
-  {
-    "code": "south-king-fire-2",
-    "name": "South King Fire and Rescue Commissioner Position No. 2",
-    "category": "Local",
-    "subcategory": "King County"
-  },
-  {
-    "code": "south-king-fire-3",
-    "name": "South King Fire and Rescue Commissioner Position No. 3",
-    "category": "Local",
-    "subcategory": "King County"
-  },
-  {
-    "code": "south-king-fire-prop-1",
-    "name": "South King Fire & Rescue Proposition No. 1",
-    "category": "Local",
-    "subcategory": "King County"
-  },
-  {
-    "code": "king-water-1-prop-1",
-    "name": "King County Water District No. 1 Proposition No. 1",
-    "category": "Local",
-    "subcategory": "King County"
-  },
-  {
-    "code": "king-water-54-3",
-    "name": "King County Water District No. 54 Commissioner Position No. 3",
-    "category": "Local",
-    "subcategory": "King County"
-  },
-  {
-    "code": "tukwila-pool-prop-1",
-    "name": "Tukwila Pool Metropolitan Park District Proposition No. 1",
-    "category": "Local",
-    "subcategory": "King County"
-  },
-  {
-    "code": "tukwila-pool-5",
-    "name": "Tukwila Pool Metropolitan Park District Commissioner Position No. 5",
-    "category": "Local",
-    "subcategory": "King County"
-  },
-  {
     "code": "vashon-park-1",
     "name": "Vashon-Maury Island Park and Recreation District Commissioner Position No. 1",
     "category": "Local",
@@ -857,6 +876,12 @@
     "subcategory": "King County"
   },
   {
+    "code": "woodinville-council-6",
+    "name": "Woodinville Council Position No. 6",
+    "category": "Local",
+    "subcategory": "King County"
+  },
+  {
     "sosRaceID": 38907,
     "name": "Bainbridge Island Council District 1 At-Large",
     "description": "\n",
@@ -866,6 +891,18 @@
   {
     "sosRaceID": 111653,
     "name": "Bainbridge Island Proposition No. 1 Public Safety Facility Bonds",
+    "category": "Local",
+    "subcategory": "Kitsap County"
+  },
+  {
+    "sosRaceID": 38886,
+    "name": "Bainbridge Island School District 303 Director District 1",
+    "category": "Local",
+    "subcategory": "Kitsap County"
+  },
+  {
+    "sosRaceID": 38889,
+    "name": "Bainbridge Island School District 303 Director District 4",
     "category": "Local",
     "subcategory": "Kitsap County"
   },
@@ -882,8 +919,65 @@
     "subcategory": "Kitsap County"
   },
   {
-    "sosRaceID": 38931,
-    "name": "Port Orchard Mayor",
+    "sosRaceID": 38881,
+    "name": "Bremerton School District No. 100-C Director Position 1",
+    "category": "Local",
+    "subcategory": "Kitsap County"
+  },
+  {
+    "sosRaceID": 38883,
+    "name": "Bremerton School District No. 100-C Director Position 3",
+    "category": "Local",
+    "subcategory": "Kitsap County"
+  },
+  {
+    "sosRaceID": 111661,
+    "name": "Central Kitsap Fire And Rescue Proposition No. 1",
+    "description": "Upgrade of apparatus and fire and life safety equipment bonds - $6,725,000",
+    "category": "Local",
+    "subcategory": "Kitsap County"
+  },
+  {
+    "sosRaceID": 111665,
+    "name": "Central Kitsap Fire And Rescue Proposition No. 2",
+    "description": "Maintenance and operations levy",
+    "category": "Local",
+    "subcategory": "Kitsap County"
+  },
+  {
+    "sosRaceID": 38894,
+    "name": "North Kitsap School District No. 400 Director District 4",
+    "category": "Local",
+    "subcategory": "Kitsap County"
+  },
+  {
+    "sosRaceID": 38895,
+    "name": "North Kitsap School District No. 400 Director District 5",
+    "category": "Local",
+    "subcategory": "Kitsap County"
+  },
+  {
+    "sosRaceID": 7396,
+    "name": "North Mason School District No. 403 School Board Director District #3",
+    "category": "Local",
+    "subcategory": "Kitsap County"
+  },
+  {
+    "sosRaceID": 7397,
+    "name": "North Mason School District No. 403 School Board Director District #4",
+    "category": "Local",
+    "subcategory": "Kitsap County"
+  },
+  {
+    "sosRaceID": 38811,
+    "name": "Port Of Bremerton District No. 1 Commissioner District 1",
+    "category": "Local",
+    "subcategory": "Kitsap County"
+  },
+  {
+    "sosRaceID": 111673,
+    "name": "Port Of Illahee District No. 6 Proposition No. 1",
+    "description": "Elimination of commissioner districts",
     "category": "Local",
     "subcategory": "Kitsap County"
   },
@@ -906,6 +1000,12 @@
     "subcategory": "Kitsap County"
   },
   {
+    "sosRaceID": 38931,
+    "name": "Port Orchard Mayor",
+    "category": "Local",
+    "subcategory": "Kitsap County"
+  },
+  {
     "sosRaceID": 38942,
     "name": "Poulsbo Council Position 1",
     "category": "Local",
@@ -918,38 +1018,9 @@
     "subcategory": "Kitsap County"
   },
   {
-    "sosRaceID": 38881,
-    "name": "Bremerton School District No. 100-C Director Position 1",
-    "category": "Local",
-    "subcategory": "Kitsap County"
-  },
-  {
-    "sosRaceID": 38883,
-    "name": "Bremerton School District No. 100-C Director Position 3",
-    "category": "Local",
-    "subcategory": "Kitsap County"
-  },
-  {
-    "sosRaceID": 38886,
-    "name": "Bainbridge Island School District 303 Director District 1",
-    "category": "Local",
-    "subcategory": "Kitsap County"
-  },
-  {
-    "sosRaceID": 38889,
-    "name": "Bainbridge Island School District 303 Director District 4",
-    "category": "Local",
-    "subcategory": "Kitsap County"
-  },
-  {
-    "sosRaceID": 38894,
-    "name": "North Kitsap School District No. 400 Director District 4",
-    "category": "Local",
-    "subcategory": "Kitsap County"
-  },
-  {
-    "sosRaceID": 38895,
-    "name": "North Kitsap School District No. 400 Director District 5",
+    "sosRaceID": 111669,
+    "name": "South Kitsap Fire And Rescue Proposition No. 1",
+    "description": "Upgrade of apparatus and fire And life safety equipment bonds - $4,900,000",
     "category": "Local",
     "subcategory": "Kitsap County"
   },
@@ -960,71 +1031,6 @@
     "subcategory": "Kitsap County"
   },
   {
-    "sosRaceID": 7396,
-    "name": "North Mason School District No. 403 School Board Director District #3",
-    "category": "Local",
-    "subcategory": "Kitsap County"
-  },
-  {
-    "sosRaceID": 7397,
-    "name": "North Mason School District No. 403 School Board Director District #4",
-    "category": "Local",
-    "subcategory": "Kitsap County"
-  },
-  {
-    "sosRaceID": 111661,
-    "name": "Central Kitsap Fire And Rescue Proposition No. 1",
-    "description": "Upgrade of apparatus and fire and life safety equipment bonds - $6,725,000",
-    "category": "Local",
-    "subcategory": "Kitsap County"
-  },
-  {
-    "sosRaceID": 111665,
-    "name": "Central Kitsap Fire And Rescue Proposition No. 2",
-    "description": "Maintenance and operations levy",
-    "category": "Local",
-    "subcategory": "Kitsap County"
-  },
-  {
-    "sosRaceID": 111669,
-    "name": "South Kitsap Fire And Rescue Proposition No. 1",
-    "description": "Upgrade of apparatus and fire And life safety equipment bonds - $4,900,000",
-    "category": "Local",
-    "subcategory": "Kitsap County"
-  },
-  {
-    "sosRaceID": 38811,
-    "name": "Port Of Bremerton District No. 1 Commissioner District 1",
-    "category": "Local",
-    "subcategory": "Kitsap County"
-  },
-  {
-    "sosRaceID": 111673,
-    "name": "Port Of Illahee District No. 6 Proposition No. 1",
-    "description": "Elimination of commissioner districts",
-    "category": "Local",
-    "subcategory": "Kitsap County"
-  },
-  {
-    "sosRaceID": 111985,
-    "name": "County Referendum No. 2015-1 Submitted By The Voters Of Pierce County",
-    "description": "Repeal approval of new county general services building",
-    "category": "Local",
-    "subcategory": "Pierce County"
-  },
-  {
-    "sosRaceID": 11587,
-    "name": "Port Of Tacoma Commissioner Pos. 3",
-    "category": "Local",
-    "subcategory": "Pierce County"
-  },
-  {
-    "sosRaceID": 11589,
-    "name": "Port Of Tacoma Commissioner Pos. 5",
-    "category": "Local",
-    "subcategory": "Pierce County"
-  },
-  {
     "sosRaceID": 11591,
     "name": "Bonney Lake Council Pos. 2",
     "category": "Local",
@@ -1033,6 +1039,43 @@
   {
     "sosRaceID": 11603,
     "name": "Buckley Council Pos. 4",
+    "category": "Local",
+    "subcategory": "Pierce County"
+  },
+  {
+    "sosRaceID": 11683,
+    "name": "City Puy-1 Council Dist. 1 Pos. 1",
+    "category": "Local",
+    "subcategory": "Pierce County"
+  },
+  {
+    "sosRaceID": 11685,
+    "name": "City Puy-2 Council Dist. 2 Pos. 1",
+    "category": "Local",
+    "subcategory": "Pierce County"
+  },
+  {
+    "sosRaceID": 11687,
+    "name": "City Puy-3 Council Dist. 3 Pos. 1",
+    "category": "Local",
+    "subcategory": "Pierce County"
+  },
+  {
+    "sosRaceID": 11725,
+    "name": "City Tac-1 Council Dist. 1",
+    "category": "Local",
+    "subcategory": "Pierce County"
+  },
+  {
+    "sosRaceID": 11727,
+    "name": "City Tac-3 Council Dist. 3",
+    "category": "Local",
+    "subcategory": "Pierce County"
+  },
+  {
+    "sosRaceID": 111985,
+    "name": "County Referendum No. 2015-1 Submitted By The Voters Of Pierce County",
+    "description": "Repeal approval of new county general services building",
     "category": "Local",
     "subcategory": "Pierce County"
   },
@@ -1067,15 +1110,8 @@
     "subcategory": "Pierce County"
   },
   {
-    "sosRaceID": 11672,
-    "name": "Milton Council Pos. 6",
-    "category": "Local",
-    "subcategory": "King County"
-  },
-  {
-    "sosRaceID": 112049,
-    "name": "Orting Proposition No. 1",
-    "description": " Increase of 3.4% tax on utility company earnings for police services",
+    "sosRaceID": 11865,
+    "name": "Metropolitan Park District Of Tacoma Commissioner Pos. 3",
     "category": "Local",
     "subcategory": "Pierce County"
   },
@@ -1104,44 +1140,59 @@
     "subcategory": "Pierce County"
   },
   {
-    "sosRaceID": 12183,
-    "name": "Pacific Mayor",
-    "category": "Local",
-    "subcategory": "King County"
-  },
-  {
-    "sosRaceID": 12186,
-    "name": "Pacific Council Pos. 3",
-    "category": "Local",
-    "subcategory": "King County"
-  },
-  {
-    "sosRaceID": 12189,
-    "name": "Pacific Council Pos. 6",
-    "category": "Local",
-    "subcategory": "King County"
-  },
-  {
-    "sosRaceID": 11683,
-    "name": "City Puy-1 Council Dist. 1 Pos. 1",
+    "sosRaceID": 112049,
+    "name": "Orting Proposition No. 1",
+    "description": " Increase of 3.4% tax on utility company earnings for police services",
     "category": "Local",
     "subcategory": "Pierce County"
   },
   {
-    "sosRaceID": 11685,
-    "name": "City Puy-2 Council Dist. 2 Pos. 1",
+    "sosRaceID": 11587,
+    "name": "Port Of Tacoma Commissioner Pos. 3",
     "category": "Local",
     "subcategory": "Pierce County"
   },
   {
-    "sosRaceID": 11687,
-    "name": "City Puy-3 Council Dist. 3 Pos. 1",
+    "sosRaceID": 11589,
+    "name": "Port Of Tacoma Commissioner Pos. 5",
     "category": "Local",
     "subcategory": "Pierce County"
   },
   {
     "sosRaceID": 11682,
     "name": "Puyallup Council At Large",
+    "category": "Local",
+    "subcategory": "Pierce County"
+  },
+  {
+    "sosRaceID": 11754,
+    "name": "Puyallup School District No. 3 Director Pos. 2",
+    "category": "Local",
+    "subcategory": "Pierce County"
+  },
+  {
+    "sosRaceID": 11755,
+    "name": "Puyallup School District No. 3 Director Pos. 3",
+    "category": "Local",
+    "subcategory": "Pierce County"
+  },
+  {
+    "sosRaceID": 112045,
+    "name": "Puyallup School District No. 3 Proposition No. 1 ",
+    "description": "School construction and facility improvements - general obligation bonds - $292,515,000",
+    "category": "Local",
+    "subcategory": "Pierce County"
+  },
+  {
+    "sosRaceID": 112033,
+    "name": "Tacoma Citizens' Charter Amendment Initiative Measure No. 2 ",
+    "description": "Changing legislative, executive powers; reduce council; change term limits",
+    "category": "Local",
+    "subcategory": "Pierce County"
+  },
+  {
+    "sosRaceID": 11723,
+    "name": "Tacoma Council At Large Pos. 7",
     "category": "Local",
     "subcategory": "Pierce County"
   },
@@ -1160,20 +1211,6 @@
     "subcategory": "Pierce County"
   },
   {
-    "sosRaceID": 112033,
-    "name": "Tacoma Citizens' Charter Amendment Initiative Measure No. 2 ",
-    "description": "Changing legislative, executive powers; reduce council; change term limits",
-    "category": "Local",
-    "subcategory": "Pierce County"
-  },
-  {
-    "sosRaceID": 112037,
-    "name": "Tacoma Proposition No. 3 ",
-    "description": "Property tax increase for street repair, pedestrian improvements",
-    "category": "Local",
-    "subcategory": "Pierce County"
-  },
-  {
     "sosRaceID": 112041,
     "name": "Tacoma Proposition A ",
     "description": "Transportation sales and use tax",
@@ -1181,45 +1218,9 @@
     "subcategory": "Pierce County"
   },
   {
-    "sosRaceID": 11723,
-    "name": "Tacoma Council At Large Pos. 7",
-    "category": "Local",
-    "subcategory": "Pierce County"
-  },
-  {
-    "sosRaceID": 11725,
-    "name": "City Tac-1 Council Dist. 1",
-    "category": "Local",
-    "subcategory": "Pierce County"
-  },
-  {
-    "sosRaceID": 11727,
-    "name": "City Tac-3 Council Dist. 3",
-    "category": "Local",
-    "subcategory": "Pierce County"
-  },
-  {
-    "sosRaceID": 11738,
-    "name": "University Place Council Pos. 6",
-    "category": "Local",
-    "subcategory": "Pierce County"
-  },
-  {
-    "sosRaceID": 112045,
-    "name": "Puyallup School District No. 3 Proposition No. 1 ",
-    "description": "School construction and facility improvements - general obligation bonds - $292,515,000",
-    "category": "Local",
-    "subcategory": "Pierce County"
-  },
-  {
-    "sosRaceID": 11754,
-    "name": "Puyallup School District No. 3 Director Pos. 2",
-    "category": "Local",
-    "subcategory": "Pierce County"
-  },
-  {
-    "sosRaceID": 11755,
-    "name": "Puyallup School District No. 3 Director Pos. 3",
+    "sosRaceID": 112037,
+    "name": "Tacoma Proposition No. 3 ",
+    "description": "Property tax increase for street repair, pedestrian improvements",
     "category": "Local",
     "subcategory": "Pierce County"
   },
@@ -1236,6 +1237,12 @@
     "subcategory": "Pierce County"
   },
   {
+    "sosRaceID": 11738,
+    "name": "University Place Council Pos. 6",
+    "category": "Local",
+    "subcategory": "Pierce County"
+  },
+  {
     "sosRaceID": 11771,
     "name": "University Place School District No. 83 Director Pos. 4",
     "category": "Local",
@@ -1244,18 +1251,6 @@
   {
     "sosRaceID": 11772,
     "name": "University Place School District No. 83 Director Pos. 5",
-    "category": "Local",
-    "subcategory": "Pierce County"
-  },
-  {
-    "sosRaceID": 11819,
-    "name": "Fife School District No. 417 Director Dist. 2",
-    "category": "Local",
-    "subcategory": "King County"
-  },
-  {
-    "sosRaceID": 11865,
-    "name": "Metropolitan Park District Of Tacoma Commissioner Pos. 3",
     "category": "Local",
     "subcategory": "Pierce County"
   },
@@ -1272,8 +1267,8 @@
     "subcategory": "Snohomish County"
   },
   {
-    "sosRaceID": 10554,
-    "name": "Arlington Mayor",
+    "sosRaceID": 10964,
+    "name": "Alderwood Water And Wastewater District Commissioner Position No. 5",
     "category": "Local",
     "subcategory": "Snohomish County"
   },
@@ -1296,22 +1291,17 @@
     "subcategory": "Snohomish County"
   },
   {
-    "sosRaceID": 11077,
-    "name": "Bothell Council Position No. 2",
+    "sosRaceID": 10554,
+    "name": "Arlington Mayor",
     "category": "Local",
-    "subcategory": "King County"
+    "subcategory": "Snohomish County"
   },
   {
-    "sosRaceID": 11079,
-    "name": "Bothell Council Position No. 4",
+    "sosRaceID": 112005,
+    "name": "Brier Advisory Proposition No. 1",
+    "description": "Advise city council to ban sale, discharge of fireworks ",
     "category": "Local",
-    "subcategory": "King County"
-  },
-  {
-    "sosRaceID": 11081,
-    "name": "Bothell Council Position No. 6",
-    "category": "Local",
-    "subcategory": "King County"
+    "subcategory": "Snohomish County"
   },
   {
     "sosRaceID": 10563,
@@ -1332,9 +1322,14 @@
     "subcategory": "Snohomish County"
   },
   {
-    "sosRaceID": 112005,
-    "name": "Brier Advisory Proposition No. 1",
-    "description": "Advise city council to ban sale, discharge of fireworks ",
+    "sosRaceID": 10967,
+    "name": "Cross Valley Water District Commissioner Position No. 3",
+    "category": "Local",
+    "subcategory": "Snohomish County"
+  },
+  {
+    "sosRaceID": 11029,
+    "name": "East County Park And Recreation Commissioner-At-Large Position No. 5",
     "category": "Local",
     "subcategory": "Snohomish County"
   },
@@ -1357,6 +1352,18 @@
     "subcategory": "Snohomish County"
   },
   {
+    "sosRaceID": 10848,
+    "name": "Edmonds School District 15 Director District No. 1",
+    "category": "Local",
+    "subcategory": "Snohomish County"
+  },
+  {
+    "sosRaceID": 10850,
+    "name": "Edmonds School District 15 Director District No. 3",
+    "category": "Local",
+    "subcategory": "Snohomish County"
+  },
+  {
     "sosRaceID": 10640,
     "name": "Everett Council Position No. 4",
     "category": "Local",
@@ -1375,9 +1382,70 @@
     "subcategory": "Snohomish County"
   },
   {
+    "sosRaceID": 10807,
+    "name": "Everett School District 2 Director-At-Large Position No. 3",
+    "category": "Local",
+    "subcategory": "Snohomish County"
+  },
+  {
+    "sosRaceID": 10808,
+    "name": "Everett School District 2 Director-At-Large Position No. 4",
+    "category": "Local",
+    "subcategory": "Snohomish County"
+  },
+  {
+    "sosRaceID": 10707,
+    "name": "Fire District 01 Commissioner Position No. 1",
+    "category": "Local",
+    "subcategory": "Snohomish County"
+  },
+  {
+    "sosRaceID": 10729,
+    "name": "Fire District 1 Commissioner Position No. 2",
+    "category": "Local",
+    "subcategory": "Snohomish County"
+  },
+  {
+    "sosRaceID": 10906,
+    "name": "Fire District 21 Commissioner Position No. 2",
+    "category": "Local",
+    "subcategory": "Snohomish County"
+  },
+  {
+    "sosRaceID": 112021,
+    "name": "Fire District 26 Proposition No. 1 ",
+    "description": "Bonds for land, fire engine and fire protection facilities",
+    "category": "Local",
+    "subcategory": "Snohomish County"
+  },
+  {
+    "sosRaceID": 10816,
+    "name": "Fire District 3 Commissioner Position No. 5",
+    "category": "Local",
+    "subcategory": "Snohomish County"
+  },
+  {
+    "sosRaceID": 10829,
+    "name": "Fire District 7 Commissioner Position No. 2",
+    "category": "Local",
+    "subcategory": "Snohomish County"
+  },
+  {
     "sosRaceID": 112009,
     "name": "Granite Falls Proposition No. 1 ",
     "description": "Whether to adopt the city council/manager form of government",
+    "category": "Local",
+    "subcategory": "Snohomish County"
+  },
+  {
+    "sosRaceID": 10679,
+    "name": "Lake Stevens Council Position No. 5",
+    "category": "Local",
+    "subcategory": "Snohomish County"
+  },
+  {
+    "sosRaceID": 10838,
+    "name": "Lake Stevens Fire Commissioner Position No. 2",
     "category": "Local",
     "subcategory": "Snohomish County"
   },
@@ -1388,8 +1456,8 @@
     "subcategory": "Snohomish County"
   },
   {
-    "sosRaceID": 10679,
-    "name": "Lake Stevens Council Position No. 5",
+    "sosRaceID": 10870,
+    "name": "Lakewood School District 306 Director District No. 3",
     "category": "Local",
     "subcategory": "Snohomish County"
   },
@@ -1491,6 +1559,31 @@
     "subcategory": "Snohomish County"
   },
   {
+    "sosRaceID": 10835,
+    "name": "Mukilteo School District 6 Director District No. 3",
+    "category": "Local",
+    "subcategory": "Snohomish County"
+  },
+  {
+    "sosRaceID": 112025,
+    "name": "North County Regional Fire Authority Proposition No. 1 ",
+    "description": "Emergency medical services property tax levy",
+    "category": "Local",
+    "subcategory": "Snohomish County"
+  },
+  {
+    "sosRaceID": 10972,
+    "name": "Olympic View Water District Commissioner Position No. 2",
+    "category": "Local",
+    "subcategory": "Snohomish County"
+  },
+  {
+    "sosRaceID": 11024,
+    "name": "Ronald Wastewater District Commissioner Position No. 3",
+    "category": "Local",
+    "subcategory": "Snohomish County"
+  },
+  {
     "sosRaceID": 10757,
     "name": "Snohomish Council-At-Large Position No. 1",
     "category": "Local",
@@ -1516,12 +1609,6 @@
     "subcategory": "Snohomish County"
   },
   {
-    "sosRaceID": 10779,
-    "name": "Sultan Mayor",
-    "category": "Local",
-    "subcategory": "Snohomish County"
-  },
-  {
     "sosRaceID": 10775,
     "name": "Sultan Council Position No. 4",
     "category": "Local",
@@ -1536,6 +1623,12 @@
   {
     "sosRaceID": 10778,
     "name": "Sultan Council Position No. 7",
+    "category": "Local",
+    "subcategory": "Snohomish County"
+  },
+  {
+    "sosRaceID": 10779,
+    "name": "Sultan Mayor",
     "category": "Local",
     "subcategory": "Snohomish County"
   },
@@ -1566,134 +1659,6 @@
   {
     "sosRaceID": 10796,
     "name": "Town Of Index Council Position No. 5",
-    "category": "Local",
-    "subcategory": "Snohomish County"
-  },
-  {
-    "sosRaceID": 10848,
-    "name": "Edmonds School District 15 Director District No. 1",
-    "category": "Local",
-    "subcategory": "Snohomish County"
-  },
-  {
-    "sosRaceID": 10850,
-    "name": "Edmonds School District 15 Director District No. 3",
-    "category": "Local",
-    "subcategory": "Snohomish County"
-  },
-  {
-    "sosRaceID": 10807,
-    "name": "Everett School District 2 Director-At-Large Position No. 3",
-    "category": "Local",
-    "subcategory": "Snohomish County"
-  },
-  {
-    "sosRaceID": 10808,
-    "name": "Everett School District 2 Director-At-Large Position No. 4",
-    "category": "Local",
-    "subcategory": "Snohomish County"
-  },
-  {
-    "sosRaceID": 10870,
-    "name": "Lakewood School District 306 Director District No. 3",
-    "category": "Local",
-    "subcategory": "Snohomish County"
-  },
-  {
-    "sosRaceID": 10835,
-    "name": "Mukilteo School District 6 Director District No. 3",
-    "category": "Local",
-    "subcategory": "Snohomish County"
-  },
-  {
-    "sosRaceID": 11084,
-    "name": "Northshore School District 417 Director District No. 2",
-    "category": "Local",
-    "subcategory": "King County"
-  },
-  {
-    "sosRaceID": 11085,
-    "name": "Northshore School District 417 Director District No. 3",
-    "category": "Local",
-    "subcategory": "King County"
-  },
-  {
-    "sosRaceID": 10707,
-    "name": "Fire District 01 Commissioner Position No. 1",
-    "category": "Local",
-    "subcategory": "Snohomish County"
-  },
-  {
-    "sosRaceID": 10729,
-    "name": "Fire District 1 Commissioner Position No. 2",
-    "category": "Local",
-    "subcategory": "Snohomish County"
-  },
-  {
-    "sosRaceID": 10816,
-    "name": "Fire District 3 Commissioner Position No. 5",
-    "category": "Local",
-    "subcategory": "Snohomish County"
-  },
-  {
-    "sosRaceID": 10829,
-    "name": "Fire District 7 Commissioner Position No. 2",
-    "category": "Local",
-    "subcategory": "Snohomish County"
-  },
-  {
-    "sosRaceID": 10906,
-    "name": "Fire District 21 Commissioner Position No. 2",
-    "category": "Local",
-    "subcategory": "Snohomish County"
-  },
-  {
-    "sosRaceID": 112021,
-    "name": "Fire District 26 Proposition No. 1 ",
-    "description": "Bonds for land, fire engine and fire protection facilities",
-    "category": "Local",
-    "subcategory": "Snohomish County"
-  },
-  {
-    "sosRaceID": 10838,
-    "name": "Lake Stevens Fire Commissioner Position No. 2",
-    "category": "Local",
-    "subcategory": "Snohomish County"
-  },
-  {
-    "sosRaceID": 112025,
-    "name": "North County Regional Fire Authority Proposition No. 1 ",
-    "description": "Emergency medical services property tax levy",
-    "category": "Local",
-    "subcategory": "Snohomish County"
-  },
-  {
-    "sosRaceID": 10964,
-    "name": "Alderwood Water And Wastewater District Commissioner Position No. 5",
-    "category": "Local",
-    "subcategory": "Snohomish County"
-  },
-  {
-    "sosRaceID": 10967,
-    "name": "Cross Valley Water District Commissioner Position No. 3",
-    "category": "Local",
-    "subcategory": "Snohomish County"
-  },
-  {
-    "sosRaceID": 10972,
-    "name": "Olympic View Water District Commissioner Position No. 2",
-    "category": "Local",
-    "subcategory": "Snohomish County"
-  },
-  {
-    "sosRaceID": 11024,
-    "name": "Ronald Wastewater District Commissioner Position No. 3",
-    "category": "Local",
-    "subcategory": "Snohomish County"
-  },
-  {
-    "sosRaceID": 11029,
-    "name": "East County Park And Recreation Commissioner-At-Large Position No. 5",
     "category": "Local",
     "subcategory": "Snohomish County"
   }
