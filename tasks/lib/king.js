@@ -35,8 +35,6 @@ var matchers = {
   "vashon-park-$1": /Vashon-Maury Island Park.* Position No. (\d+)/
 };
 
-var hyphenate = s => s.toLowerCase().trim().replace(/\s/g, "-");
-
 var getRaceID = function(title) {
   //easy matches
   for (var prefix in matchers) {
