@@ -15,7 +15,7 @@
   "slug": "",
   "tags": [],
   "sheets": ["12tQ_zEjXnJxdSHZf76bmjiTh9VYtGPuwAgphuuQgqaM"],
-  "caching": true,
+  "caching": false,
   "image": "assets/social.jpg",
   "production": true,
   "embedded": false

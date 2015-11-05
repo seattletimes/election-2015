@@ -175,16 +175,12 @@ var getData = function(c) {
   }
   request(url, function(err, response, body) {
     var result = parser.parse(body);
-    // result.forEach(function(row) {
-    //   console.log(row.name, row.results.map(function(result) { return result.candidate }));
-    // });
-    if (project.caching) {
-      if (!fs.existsSync("./temp")) {
-        fs.mkdirSync("./temp");
-      }
-      fs.writeFileSync(cache.replace("json", "txt"), body);
-      fs.writeFileSync(cache, JSON.stringify(result, null, 2));
+    //always cache
+    if (!fs.existsSync("./temp")) {
+      fs.mkdirSync("./temp");
     }
+    fs.writeFileSync(cache.replace("json", "txt"), body);
+    fs.writeFileSync(cache, JSON.stringify(result, null, 2));
     c(null, result);
   });
 };

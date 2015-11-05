@@ -68,12 +68,11 @@ var getResults = function(config, c) {
 
   });
   parser.on("finish", function() {
-    if (project.caching) {
-      if (!fs.existsSync("./temp")) {
-        fs.mkdirSync("./temp");
-      }
-      fs.writeFileSync(cachePath, JSON.stringify(rows, null, 2));
+    //cache results no matter what
+    if (!fs.existsSync("./temp")) {
+      fs.mkdirSync("./temp");
     }
+    fs.writeFileSync(cachePath, JSON.stringify(rows, null, 2));
     c(null, rows);
   });
   if (!fs.existsSync("temp")) {
